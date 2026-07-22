@@ -36,6 +36,7 @@ leetcode-python/
 | 97 | Interleaving String | Medium | Dynamic Programming | [Solution](./dynamic_programming/interleaving-string.py) | ✅ |
 | 115 | Distinct Subsequences | Hard | Dynamic Programming | [Solution](./dynamic_programming/distinct-subsequences.py) | ✅ |
 | 198 | House Robber | Medium | Dynamic Programming | [Solution](./dynamic_programming/house-robber.py) | ✅ |
+| 300 | Longest Increasing Subsequence | Medium | Dynamic Programming | [Solution](./dynamic_programming/longest-increasing-subsequence.py) | ✅ |
 | 322 | Coin Change | Medium | Dynamic Programming | [Solution](./dynamic_programming/coin-change.py) | ✅ |
 | 377 | Combination Sum IV | Medium | Dynamic Programming | [Solution](./dynamic_programming/combination-sum-iv.py) | ✅ |
 | 416 | Partition Equal Subset Sum | Medium | Dynamic Programming | [Solution](./dynamic_programming/partition-equal-subset-sum.py) | ✅ |
@@ -46,7 +47,7 @@ leetcode-python/
 | 1312 | Minimum Insertion Steps to Make a String Palindrome | Hard | Dynamic Programming | [Solution](./dynamic_programming/minimum-insertion-steps-to-make-a-string-palindrome.py) | ✅ |
 | 3424 | Count Dominant Nodes in a Binary Tree | Medium | Trees | [Solution](./trees/count-dominant-nodes-in-a-binary-tree.py) | ✅ |
 
-**Stats**: 15 solved | 0 in progress
+**Stats**: 16 solved | 0 in progress
 
 ## Problem Solution Pattern
 
