@@ -38,7 +38,6 @@ class Solution:
 
         # Dynamic programming: palindromes of length 3+
         for length in range(3, n+1):
-
             # Iterate over all possible starting indices for palindromes of length 'length'
             for start in range(n-length+1):
                 end = start + length-1
