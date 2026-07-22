@@ -41,10 +41,11 @@ leetcode-python/
 | 416 | Partition Equal Subset Sum | Medium | Dynamic Programming | [Solution](./dynamic_programming/partition-equal-subset-sum.py) | ✅ |
 | 516 | Longest Palindromic Subsequence | Medium | Dynamic Programming | [Solution](./dynamic_programming/longest-palindromic-subsequenc.py) | ✅ |
 | 518 | Coin Change II | Medium | Dynamic Programming | [Solution](./dynamic_programming/coin-change-ii%20.py) | ✅ |
+| 647 | Palindromic Substrings | Medium | Dynamic Programming | [Solution](./dynamic_programming/palindromic-substrings.py) | ✅ |
 | 1143 | Longest Common Subsequence | Medium | Dynamic Programming | [Solution](./dynamic_programming/longest-common-subsequence.py) | ✅ |
 | 3424 | Count Dominant Nodes in a Binary Tree | Medium | Trees | [Solution](./trees/count-dominant-nodes-in-a-binary-tree.py) | ✅ |
 
-**Stats**: 13 solved | 0 in progress
+**Stats**: 14 solved | 0 in progress
 
 ## Problem Solution Pattern
 
