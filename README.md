@@ -32,6 +32,7 @@ leetcode-python/
 |---|--------------|------------|----------|----------|--------|
 | 70 | Climbing Stairs | Easy | Dynamic Programming | [Solution](./dynamic_programming/climbing-stairs.py) | ✅ |
 | 62 | Unique Paths | Medium | Dynamic Programming | [Solution](./dynamic_programming/unique-paths.py) | ✅ |
+| 63 | Unique Paths II | Medium | Dynamic Programming | [Solution](./dynamic_programming/unique-paths-ii.py) | ✅ |
 | 64 | Minimum Path Sum | Medium | Dynamic Programming | [Solution](./dynamic_programming/minimum-path-sum.py) | ✅ |
 | 72 | Edit Distance | Hard | Dynamic Programming | [Solution](./dynamic_programming/edit-distance.py) | ✅ |
 | 91 | Decode Ways | Medium | Dynamic Programming | [Solution](./dynamic_programming/decode-ways.py) | ✅ |
@@ -53,7 +54,7 @@ leetcode-python/
 | 1312 | Minimum Insertion Steps to Make a String Palindrome | Hard | Dynamic Programming | [Solution](./dynamic_programming/minimum-insertion-steps-to-make-a-string-palindrome.py) | ✅ |
 | 3424 | Count Dominant Nodes in a Binary Tree | Medium | Trees | [Solution](./trees/count-dominant-nodes-in-a-binary-tree.py) | ✅ |
 
-**Stats**: 22 solved | 0 in progress
+**Stats**: 23 solved | 0 in progress
 
 ## Problem Solution Pattern
 
