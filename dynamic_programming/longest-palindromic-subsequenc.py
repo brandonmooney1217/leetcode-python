@@ -1,3 +1,6 @@
+
+from functools import cache
+
 class Solution:
     def longestPalindromeSubseq(self, s: str) -> int:
         @cache
