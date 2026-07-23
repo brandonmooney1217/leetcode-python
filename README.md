@@ -38,6 +38,7 @@ leetcode-python/
 | 91 | Decode Ways | Medium | Dynamic Programming | [Solution](./dynamic_programming/decode-ways.py) | ✅ |
 | 97 | Interleaving String | Medium | Dynamic Programming | [Solution](./dynamic_programming/interleaving-string.py) | ✅ |
 | 115 | Distinct Subsequences | Hard | Dynamic Programming | [Solution](./dynamic_programming/distinct-subsequences.py) | ✅ |
+| 121 | Best Time to Buy and Sell Stock | Easy | Dynamic Programming | [Solution](./dynamic_programming/best-time-to-buy-and-sell-stock.py) | ✅ |
 | 198 | House Robber | Medium | Dynamic Programming | [Solution](./dynamic_programming/house-robber.py) | ✅ |
 | 221 | Maximal Square | Medium | Dynamic Programming | [Solution](./dynamic_programming/maximal-square.py) | ✅ |
 | 300 | Longest Increasing Subsequence | Medium | Dynamic Programming | [Solution](./dynamic_programming/longest-increasing-subsequence.py) | ✅ |
@@ -56,7 +57,7 @@ leetcode-python/
 | 1312 | Minimum Insertion Steps to Make a String Palindrome | Hard | Dynamic Programming | [Solution](./dynamic_programming/minimum-insertion-steps-to-make-a-string-palindrome.py) | ✅ |
 | 3424 | Count Dominant Nodes in a Binary Tree | Medium | Trees | [Solution](./trees/count-dominant-nodes-in-a-binary-tree.py) | ✅ |
 
-**Stats**: 25 solved | 0 in progress
+**Stats**: 26 solved | 0 in progress
 
 ## Problem Solution Pattern
 
