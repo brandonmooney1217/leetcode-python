@@ -3,8 +3,6 @@ import math
 
 class Solution:
     def minEatingSpeed(self, piles: List[int], h: int) -> int:
-        n = len(piles)
-
         l, r = 1, max(piles)
 
         # binary search on answer - lower bound
