@@ -43,6 +43,7 @@ leetcode-python/
 | 198 | House Robber | Medium | Dynamic Programming | [Solution](./dynamic_programming/house-robber.py) | ✅ |
 | 221 | Maximal Square | Medium | Dynamic Programming | [Solution](./dynamic_programming/maximal-square.py) | ✅ |
 | 300 | Longest Increasing Subsequence | Medium | Dynamic Programming | [Solution](./dynamic_programming/longest-increasing-subsequence.py) | ✅ |
+| 309 | Best Time to Buy and Sell Stock with Cooldown | Medium | Dynamic Programming | [Solution](./dynamic_programming/best-time-to-buy-and-sell-stock-with-cooldown%20.py) | ✅ |
 | 322 | Coin Change | Medium | Dynamic Programming | [Solution](./dynamic_programming/coin-change.py) | ✅ |
 | 377 | Combination Sum IV | Medium | Dynamic Programming | [Solution](./dynamic_programming/combination-sum-iv.py) | ✅ |
 | 416 | Partition Equal Subset Sum | Medium | Dynamic Programming | [Solution](./dynamic_programming/partition-equal-subset-sum.py) | ✅ |
@@ -58,7 +59,7 @@ leetcode-python/
 | 1312 | Minimum Insertion Steps to Make a String Palindrome | Hard | Dynamic Programming | [Solution](./dynamic_programming/minimum-insertion-steps-to-make-a-string-palindrome.py) | ✅ |
 | 3424 | Count Dominant Nodes in a Binary Tree | Medium | Trees | [Solution](./trees/count-dominant-nodes-in-a-binary-tree.py) | ✅ |
 
-**Stats**: 27 solved | 0 in progress
+**Stats**: 28 solved | 0 in progress
 
 ## Problem Solution Pattern
 
