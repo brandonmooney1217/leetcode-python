@@ -1,4 +1,3 @@
-
 from typing import Optional
 
 # Definition for a binary tree node.
@@ -8,19 +7,21 @@ class TreeNode:
         self.left = left
         self.right = right
 class Solution:
-    def diameterOfBinaryTree(self, root: Optional[TreeNode]) -> int:
+    def longestZigZag(self, root: Optional[TreeNode]) -> int:
 
         self.res = 0
+
         def f(node):
             if not node:
-                return 0
+                return (-1, -1) #left, right
 
             left = f(node.left)
             right = f(node.right)
 
-            self.res = max(self.res, left+right)
+            goLeft = 1 + left[1]
+            goRight = 1 + right[0]
 
-            return max(left, right) + 1
-
+            self.res = max(self.res, goLeft, goRight)
+            return (goLeft, goRight)
         f(root)
         return self.res
