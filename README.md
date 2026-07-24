@@ -45,10 +45,12 @@ leetcode-python/
 | 300 | Longest Increasing Subsequence | Medium | Dynamic Programming | [Solution](./dynamic_programming/longest-increasing-subsequence.py) | ✅ |
 | 309 | Best Time to Buy and Sell Stock with Cooldown | Medium | Dynamic Programming | [Solution](./dynamic_programming/best-time-to-buy-and-sell-stock-with-cooldown%20.py) | ✅ |
 | 322 | Coin Change | Medium | Dynamic Programming | [Solution](./dynamic_programming/coin-change.py) | ✅ |
+| 337 | House Robber III | Medium | Dynamic Programming, Trees | [Solution](./dynamic_programming/house-robber-iii.py) | ✅ |
 | 377 | Combination Sum IV | Medium | Dynamic Programming | [Solution](./dynamic_programming/combination-sum-iv.py) | ✅ |
 | 416 | Partition Equal Subset Sum | Medium | Dynamic Programming | [Solution](./dynamic_programming/partition-equal-subset-sum.py) | ✅ |
 | 516 | Longest Palindromic Subsequence | Medium | Dynamic Programming | [Solution](./dynamic_programming/longest-palindromic-subsequenc.py) | ✅ |
 | 518 | Coin Change II | Medium | Dynamic Programming | [Solution](./dynamic_programming/coin-change-ii%20.py) | ✅ |
+| 543 | Diameter of Binary Tree | Easy | Trees | [Solution](./dynamic_programming/diameter-of-binary-tree.py) | ✅ |
 | 646 | Maximum Length of Pair Chain | Medium | Sorting, Greedy | [Solution](./sorting/maximum-length-of-pair-chain.py) | ✅ |
 | 647 | Palindromic Substrings | Medium | Dynamic Programming | [Solution](./dynamic_programming/palindromic-substrings.py) | ✅ |
 | 673 | Number of Longest Increasing Subsequence | Medium | Sorting, DP | [Solution](./sorting/number-of-longest-increasing-subsequence.py) | ✅ |
@@ -59,7 +61,7 @@ leetcode-python/
 | 1312 | Minimum Insertion Steps to Make a String Palindrome | Hard | Dynamic Programming | [Solution](./dynamic_programming/minimum-insertion-steps-to-make-a-string-palindrome.py) | ✅ |
 | 3424 | Count Dominant Nodes in a Binary Tree | Medium | Trees | [Solution](./trees/count-dominant-nodes-in-a-binary-tree.py) | ✅ |
 
-**Stats**: 28 solved | 0 in progress
+**Stats**: 30 solved | 0 in progress
 
 ## Problem Solution Pattern
 
