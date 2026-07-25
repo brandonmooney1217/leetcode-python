@@ -28,43 +28,43 @@ leetcode-python/
 
 ## Progress Tracking
 
-| # | Problem Name | Difficulty | Topic(s) | Solution | Status |
-|---|--------------|------------|----------|----------|--------|
-| 70 | Climbing Stairs | Easy | Dynamic Programming | [Solution](./dynamic_programming/climbing-stairs.py) | ✅ |
-| 62 | Unique Paths | Medium | Dynamic Programming | [Solution](./dynamic_programming/unique-paths.py) | ✅ |
-| 63 | Unique Paths II | Medium | Dynamic Programming | [Solution](./dynamic_programming/unique-paths-ii.py) | ✅ |
-| 64 | Minimum Path Sum | Medium | Dynamic Programming | [Solution](./dynamic_programming/minimum-path-sum.py) | ✅ |
-| 72 | Edit Distance | Hard | Dynamic Programming | [Solution](./dynamic_programming/edit-distance.py) | ✅ |
-| 91 | Decode Ways | Medium | Dynamic Programming | [Solution](./dynamic_programming/decode-ways.py) | ✅ |
-| 97 | Interleaving String | Medium | Dynamic Programming | [Solution](./dynamic_programming/interleaving-string.py) | ✅ |
-| 115 | Distinct Subsequences | Hard | Dynamic Programming | [Solution](./dynamic_programming/distinct-subsequences.py) | ✅ |
-| 121 | Best Time to Buy and Sell Stock | Easy | Dynamic Programming | [Solution](./dynamic_programming/best-time-to-buy-and-sell-stock.py) | ✅ |
-| 122 | Best Time to Buy and Sell Stock II | Medium | Dynamic Programming | [Solution](./dynamic_programming/best-time-to-buy-and-sell-stock-ii.py) | ✅ |
-| 124 | Binary Tree Maximum Path Sum | Hard | Trees, DP | [Solution](./dynamic_programming/binary-tree-maximum-path-sum.py) | ✅ |
-| 198 | House Robber | Medium | Dynamic Programming | [Solution](./dynamic_programming/house-robber.py) | ✅ |
-| 221 | Maximal Square | Medium | Dynamic Programming | [Solution](./dynamic_programming/maximal-square.py) | ✅ |
-| 300 | Longest Increasing Subsequence | Medium | Dynamic Programming | [Solution](./dynamic_programming/longest-increasing-subsequence.py) | ✅ |
-| 309 | Best Time to Buy and Sell Stock with Cooldown | Medium | Dynamic Programming | [Solution](./dynamic_programming/best-time-to-buy-and-sell-stock-with-cooldown%20.py) | ✅ |
-| 322 | Coin Change | Medium | Dynamic Programming | [Solution](./dynamic_programming/coin-change.py) | ✅ |
-| 337 | House Robber III | Medium | Dynamic Programming, Trees | [Solution](./dynamic_programming/house-robber-iii.py) | ✅ |
-| 377 | Combination Sum IV | Medium | Dynamic Programming | [Solution](./dynamic_programming/combination-sum-iv.py) | ✅ |
-| 416 | Partition Equal Subset Sum | Medium | Dynamic Programming | [Solution](./dynamic_programming/partition-equal-subset-sum.py) | ✅ |
-| 516 | Longest Palindromic Subsequence | Medium | Dynamic Programming | [Solution](./dynamic_programming/longest-palindromic-subsequenc.py) | ✅ |
-| 518 | Coin Change II | Medium | Dynamic Programming | [Solution](./dynamic_programming/coin-change-ii%20.py) | ✅ |
-| 543 | Diameter of Binary Tree | Easy | Trees | [Solution](./dynamic_programming/diameter-of-binary-tree.py) | ✅ |
-| 646 | Maximum Length of Pair Chain | Medium | Sorting, Greedy | [Solution](./sorting/maximum-length-of-pair-chain.py) | ✅ |
-| 647 | Palindromic Substrings | Medium | Dynamic Programming | [Solution](./dynamic_programming/palindromic-substrings.py) | ✅ |
-| 687 | Longest Univalue Path | Medium | Trees | [Solution](./dynamic_programming/longest-univalue-path.py) | ✅ |
-| 673 | Number of Longest Increasing Subsequence | Medium | Sorting, DP | [Solution](./sorting/number-of-longest-increasing-subsequence.py) | ✅ |
-| 875 | Koko Eating Bananas | Medium | Binary Search | [Solution](./binary_search/koko-eating-bananas.py) | ✅ |
-| 931 | Minimum Falling Path Sum | Medium | Dynamic Programming | [Solution](./dynamic_programming/minimum-falling-path-sum.py) | ✅ |
-| 1048 | Longest String Chain | Medium | Sorting, DP | [Solution](./sorting/longest-string-chain.py) | ✅ |
-| 1143 | Longest Common Subsequence | Medium | Dynamic Programming | [Solution](./dynamic_programming/longest-common-subsequence.py) | ✅ |
-| 1312 | Minimum Insertion Steps to Make a String Palindrome | Hard | Dynamic Programming | [Solution](./dynamic_programming/minimum-insertion-steps-to-make-a-string-palindrome.py) | ✅ |
-| 1372 | Longest ZigZag Path in a Binary Tree | Medium | Trees | [Solution](./dynamic_programming/longest-zigzag-path-in-a-binary-tree.py) | ✅ |
-| 3424 | Count Dominant Nodes in a Binary Tree | Medium | Trees | [Solution](./trees/count-dominant-nodes-in-a-binary-tree.py) | ✅ |
+| # | Problem Name | Difficulty | Topic(s) | Solution | Competency |
+|---|--------------|------------|----------|----------|------------|
+| 62 | Unique Paths | Medium | Dynamic Programming | [Solution](./dynamic_programming/unique-paths.py) | Competent |
+| 63 | Unique Paths II | Medium | Dynamic Programming | [Solution](./dynamic_programming/unique-paths-ii.py) | Competent |
+| 64 | Minimum Path Sum | Medium | Dynamic Programming | [Solution](./dynamic_programming/minimum-path-sum.py) | Competent |
+| 70 | Climbing Stairs | Easy | Dynamic Programming | [Solution](./dynamic_programming/climbing-stairs.py) | Competent |
+| 72 | Edit Distance | Hard | Dynamic Programming | [Solution](./dynamic_programming/edit-distance.py) | Competent |
+| 91 | Decode Ways | Medium | Dynamic Programming | [Solution](./dynamic_programming/decode-ways.py) | Competent |
+| 97 | Interleaving String | Medium | Dynamic Programming | [Solution](./dynamic_programming/interleaving-string.py) | Competent |
+| 115 | Distinct Subsequences | Hard | Dynamic Programming | [Solution](./dynamic_programming/distinct-subsequences.py) | Competent |
+| 121 | Best Time to Buy and Sell Stock | Easy | Dynamic Programming | [Solution](./dynamic_programming/best-time-to-buy-and-sell-stock.py) | Competent |
+| 122 | Best Time to Buy and Sell Stock II | Medium | Dynamic Programming | [Solution](./dynamic_programming/best-time-to-buy-and-sell-stock-ii.py) | Competent |
+| 124 | Binary Tree Maximum Path Sum | Hard | Trees, DP | [Solution](./dynamic_programming/binary-tree-maximum-path-sum.py) | Competent |
+| 198 | House Robber | Medium | Dynamic Programming | [Solution](./dynamic_programming/house-robber.py) | Competent |
+| 221 | Maximal Square | Medium | Dynamic Programming | [Solution](./dynamic_programming/maximal-square.py) | Competent |
+| 300 | Longest Increasing Subsequence | Medium | Dynamic Programming | [Solution](./dynamic_programming/longest-increasing-subsequence.py) | Competent |
+| 309 | Best Time to Buy and Sell Stock with Cooldown | Medium | Dynamic Programming | [Solution](./dynamic_programming/best-time-to-buy-and-sell-stock-with-cooldown%20.py) | Competent |
+| 322 | Coin Change | Medium | Dynamic Programming | [Solution](./dynamic_programming/coin-change.py) | Competent |
+| 337 | House Robber III | Medium | Dynamic Programming, Trees | [Solution](./dynamic_programming/house-robber-iii.py) | Competent |
+| 377 | Combination Sum IV | Medium | Dynamic Programming | [Solution](./dynamic_programming/combination-sum-iv.py) | Competent |
+| 416 | Partition Equal Subset Sum | Medium | Dynamic Programming | [Solution](./dynamic_programming/partition-equal-subset-sum.py) | Competent |
+| 516 | Longest Palindromic Subsequence | Medium | Dynamic Programming | [Solution](./dynamic_programming/longest-palindromic-subsequenc.py) | Competent |
+| 518 | Coin Change II | Medium | Dynamic Programming | [Solution](./dynamic_programming/coin-change-ii%20.py) | Competent |
+| 543 | Diameter of Binary Tree | Easy | Trees | [Solution](./dynamic_programming/diameter-of-binary-tree.py) | Competent |
+| 646 | Maximum Length of Pair Chain | Medium | Sorting, Greedy | [Solution](./sorting/maximum-length-of-pair-chain.py) | Competent |
+| 647 | Palindromic Substrings | Medium | Dynamic Programming | [Solution](./dynamic_programming/palindromic-substrings.py) | Competent |
+| 673 | Number of Longest Increasing Subsequence | Medium | Sorting, DP | [Solution](./sorting/number-of-longest-increasing-subsequence.py) | Competent |
+| 687 | Longest Univalue Path | Medium | Trees | [Solution](./dynamic_programming/longest-univalue-path.py) | Needs Review |
+| 875 | Koko Eating Bananas | Medium | Binary Search | [Solution](./binary_search/koko-eating-bananas.py) | Competent |
+| 931 | Minimum Falling Path Sum | Medium | Dynamic Programming | [Solution](./dynamic_programming/minimum-falling-path-sum.py) | Competent |
+| 1048 | Longest String Chain | Medium | Sorting, DP | [Solution](./sorting/longest-string-chain.py) | Competent |
+| 1143 | Longest Common Subsequence | Medium | Dynamic Programming | [Solution](./dynamic_programming/longest-common-subsequence.py) | Competent |
+| 1312 | Minimum Insertion Steps to Make a String Palindrome | Hard | Dynamic Programming | [Solution](./dynamic_programming/minimum-insertion-steps-to-make-a-string-palindrome.py) | Competent |
+| 1372 | Longest ZigZag Path in a Binary Tree | Medium | Trees | [Solution](./dynamic_programming/longest-zigzag-path-in-a-binary-tree.py) | Needs Review |
+| 3424 | Count Dominant Nodes in a Binary Tree | Medium | Trees | [Solution](./trees/count-dominant-nodes-in-a-binary-tree.py) | Competent |
 
-**Stats**: 33 solved | 0 in progress
+**Stats**: 33 solved | 31 competent | 2 needs review
 
 ## Problem Solution Pattern
 
