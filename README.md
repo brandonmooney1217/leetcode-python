@@ -58,13 +58,14 @@ leetcode-python/
 | 687 | Longest Univalue Path | Medium | Trees | [Solution](./dynamic_programming/longest-univalue-path.py) | Needs Review |
 | 875 | Koko Eating Bananas | Medium | Binary Search | [Solution](./binary_search/koko-eating-bananas.py) | Competent |
 | 931 | Minimum Falling Path Sum | Medium | Dynamic Programming | [Solution](./dynamic_programming/minimum-falling-path-sum.py) | Competent |
+| 979 | Distribute Coins in Binary Tree | Medium | Trees | [Solution](./dynamic_programming/distribute-coins-in-binary-tree.py) | Needs Review |
 | 1048 | Longest String Chain | Medium | Sorting, DP | [Solution](./sorting/longest-string-chain.py) | Competent |
 | 1143 | Longest Common Subsequence | Medium | Dynamic Programming | [Solution](./dynamic_programming/longest-common-subsequence.py) | Competent |
 | 1312 | Minimum Insertion Steps to Make a String Palindrome | Hard | Dynamic Programming | [Solution](./dynamic_programming/minimum-insertion-steps-to-make-a-string-palindrome.py) | Competent |
 | 1372 | Longest ZigZag Path in a Binary Tree | Medium | Trees | [Solution](./dynamic_programming/longest-zigzag-path-in-a-binary-tree.py) | Needs Review |
 | 3424 | Count Dominant Nodes in a Binary Tree | Medium | Trees | [Solution](./trees/count-dominant-nodes-in-a-binary-tree.py) | Competent |
 
-**Stats**: 33 solved | 31 competent | 2 needs review
+**Stats**: 34 solved | 31 competent | 3 needs review
 
 ## Problem Solution Pattern
 
