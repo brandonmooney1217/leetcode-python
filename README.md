@@ -56,6 +56,7 @@ leetcode-python/
 | 647 | Palindromic Substrings | Medium | Dynamic Programming | [Solution](./dynamic_programming/palindromic-substrings.py) | Competent |
 | 673 | Number of Longest Increasing Subsequence | Medium | Sorting, DP | [Solution](./sorting/number-of-longest-increasing-subsequence.py) | Competent |
 | 687 | Longest Univalue Path | Medium | Trees | [Solution](./dynamic_programming/longest-univalue-path.py) | Needs Review |
+| 787 | Cheapest Flights Within K Stops | Medium | Dynamic Programming, Graphs | [Solution](./dynamic_programming/cheapest-flights-within-k-stop.py) | Not Competent |
 | 875 | Koko Eating Bananas | Medium | Binary Search | [Solution](./binary_search/koko-eating-bananas.py) | Competent |
 | 931 | Minimum Falling Path Sum | Medium | Dynamic Programming | [Solution](./dynamic_programming/minimum-falling-path-sum.py) | Competent |
 | 979 | Distribute Coins in Binary Tree | Medium | Trees | [Solution](./dynamic_programming/distribute-coins-in-binary-tree.py) | Needs Review |
@@ -65,7 +66,7 @@ leetcode-python/
 | 1372 | Longest ZigZag Path in a Binary Tree | Medium | Trees | [Solution](./dynamic_programming/longest-zigzag-path-in-a-binary-tree.py) | Needs Review |
 | 3424 | Count Dominant Nodes in a Binary Tree | Medium | Trees | [Solution](./trees/count-dominant-nodes-in-a-binary-tree.py) | Competent |
 
-**Stats**: 34 solved | 31 competent | 3 needs review
+**Stats**: 35 solved | 31 competent | 3 needs review | 1 not competent
 
 ## Problem Solution Pattern
 
