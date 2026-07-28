@@ -11,7 +11,7 @@ class Solution:
                 return 0 if i == 0 and j == -1 else 1
             elif sign == 3:
                 return 0 if i == 1 and j == 0 else 1
-            elif sign == 4:
+            else:
                 return 0 if i == -1 and j == 0 else 1
 
         rows, cols = len(grid), len(grid[0])
