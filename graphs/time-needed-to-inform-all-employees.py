@@ -21,10 +21,3 @@ class Solution:
             for nei in dct[node]:
                 queue.append((time2+time, nei))
         return res
-
-
-
-
-
-
-        return res

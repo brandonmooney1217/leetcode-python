@@ -39,6 +39,7 @@ leetcode-python/
 | 97 | Interleaving String | Medium | Dynamic Programming | [Solution](./dynamic_programming/interleaving-string.py) | Competent |
 | 115 | Distinct Subsequences | Hard | Dynamic Programming | [Solution](./dynamic_programming/distinct-subsequences.py) | Competent |
 | 121 | Best Time to Buy and Sell Stock | Easy | Dynamic Programming | [Solution](./dynamic_programming/best-time-to-buy-and-sell-stock.py) | Competent |
+| 127 | Word Ladder | Hard | Graphs, BFS | [Solution](./graphs/word-ladder.py) | Needs Review |
 | 122 | Best Time to Buy and Sell Stock II | Medium | Dynamic Programming | [Solution](./dynamic_programming/best-time-to-buy-and-sell-stock-ii.py) | Competent |
 | 124 | Binary Tree Maximum Path Sum | Hard | Trees, DP | [Solution](./dynamic_programming/binary-tree-maximum-path-sum.py) | Competent |
 | 198 | House Robber | Medium | Dynamic Programming | [Solution](./dynamic_programming/house-robber.py) | Competent |
@@ -49,6 +50,7 @@ leetcode-python/
 | 337 | House Robber III | Medium | Dynamic Programming, Trees | [Solution](./dynamic_programming/house-robber-iii.py) | Competent |
 | 377 | Combination Sum IV | Medium | Dynamic Programming | [Solution](./dynamic_programming/combination-sum-iv.py) | Competent |
 | 416 | Partition Equal Subset Sum | Medium | Dynamic Programming | [Solution](./dynamic_programming/partition-equal-subset-sum.py) | Competent |
+| 433 | Minimum Genetic Mutation | Medium | Graphs, BFS | [Solution](./graphs/minimum-genetic-mutation.py) | Needs Review |
 | 516 | Longest Palindromic Subsequence | Medium | Dynamic Programming | [Solution](./dynamic_programming/longest-palindromic-subsequenc.py) | Competent |
 | 518 | Coin Change II | Medium | Dynamic Programming | [Solution](./dynamic_programming/coin-change-ii%20.py) | Competent |
 | 543 | Diameter of Binary Tree | Easy | Trees | [Solution](./dynamic_programming/diameter-of-binary-tree.py) | Competent |
@@ -81,7 +83,7 @@ leetcode-python/
 | 3498 | Widest Possible Fence | Medium | Arrays | [Solution](./arrays/widest-possible-fence.py) | Not Competent |
 | 3604 | Minimum Cost Path with Alternating Directions III | Hard | Graphs | [Solution](./graphs/minimum-cost-path-with-alternating-directions-iii%20.py) | Not Competent |
 
-**Stats**: 50 solved | 38 competent | 6 needs review | 6 not competent
+**Stats**: 52 solved | 38 competent | 8 needs review | 6 not competent
 
 ## Problem Solution Pattern
 
