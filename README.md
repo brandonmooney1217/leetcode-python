@@ -64,6 +64,7 @@ leetcode-python/
 | 802 | Find Eventual Safe States | Medium | Graphs, Topological Sort | [Solution](./graphs/find-eventual-safe-states.py) | Competent |
 | 841 | Keys and Rooms | Medium | Graphs, BFS | [Solution](./graphs/keys-and-rooms.py) | Not Competent |
 | 875 | Koko Eating Bananas | Medium | Binary Search | [Solution](./binary_search/koko-eating-bananas.py) | Competent |
+| 934 | Shortest Bridge | Medium | Graphs, BFS, DFS | [Solution](./graphs/shortest-bridge.py) | Competent |
 | 931 | Minimum Falling Path Sum | Medium | Dynamic Programming | [Solution](./dynamic_programming/minimum-falling-path-sum.py) | Competent |
 | 979 | Distribute Coins in Binary Tree | Medium | Trees | [Solution](./dynamic_programming/distribute-coins-in-binary-tree.py) | Needs Review |
 | 1091 | Shortest Path in Binary Matrix | Medium | Graphs, BFS | [Solution](./graphs/shortest-path-in-binary-matrix.py) | Needs Review |
@@ -74,12 +75,13 @@ leetcode-python/
 | 1372 | Longest ZigZag Path in a Binary Tree | Medium | Trees | [Solution](./dynamic_programming/longest-zigzag-path-in-a-binary-tree.py) | Needs Review |
 | 1376 | Time Needed to Inform All Employees | Medium | Graphs, BFS | [Solution](./graphs/time-needed-to-inform-all-employees.py) | Competent |
 | 1466 | Reorder Routes to Make All Paths Lead to the City Zero | Medium | Graphs, BFS | [Solution](./graphs/reorder-routes-to-make-all-paths-lead-to-the-city-zero.py) | Needs Review |
+| 1926 | Nearest Exit From Entrance in Maze | Medium | Greedy, BFS | [Solution](./greedy/nearest-exit-from-entrance-in-maze.py) | Competent |
 | 1786 | Number of Restricted Paths From First to Last Node | Medium | Graphs, DP | [Solution](./graphs/number-of-restricted-paths-from-first-to-last-node.py) | Not Competent |
 | 3424 | Count Dominant Nodes in a Binary Tree | Medium | Trees | [Solution](./trees/count-dominant-nodes-in-a-binary-tree.py) | Competent |
 | 3498 | Widest Possible Fence | Medium | Arrays | [Solution](./arrays/widest-possible-fence.py) | Not Competent |
 | 3604 | Minimum Cost Path with Alternating Directions III | Hard | Graphs | [Solution](./graphs/minimum-cost-path-with-alternating-directions-iii%20.py) | Not Competent |
 
-**Stats**: 48 solved | 36 competent | 6 needs review | 6 not competent
+**Stats**: 50 solved | 38 competent | 6 needs review | 6 not competent
 
 ## Problem Solution Pattern
 
