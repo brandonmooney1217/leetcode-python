@@ -71,11 +71,14 @@ leetcode-python/
 | 1293 | Shortest Path in a Grid with Obstacles Elimination | Hard | BFS, Graphs | [Solution](./dynamic_programming/shortest-path-in-a-grid-with-obstacles-elimination.py) | Not Competent |
 | 1312 | Minimum Insertion Steps to Make a String Palindrome | Hard | Dynamic Programming | [Solution](./dynamic_programming/minimum-insertion-steps-to-make-a-string-palindrome.py) | Competent |
 | 1372 | Longest ZigZag Path in a Binary Tree | Medium | Trees | [Solution](./dynamic_programming/longest-zigzag-path-in-a-binary-tree.py) | Needs Review |
+| 1376 | Time Needed to Inform All Employees | Medium | Graphs, BFS | [Solution](./graphs/time-needed-to-inform-all-employees.py) | Competent |
+| 1466 | Reorder Routes to Make All Paths Lead to the City Zero | Medium | Graphs, BFS | [Solution](./graphs/reorder-routes-to-make-all-paths-lead-to-the-city-zero.py) | Needs Review |
 | 1786 | Number of Restricted Paths From First to Last Node | Medium | Graphs, DP | [Solution](./graphs/number-of-restricted-paths-from-first-to-last-node.py) | Not Competent |
 | 3424 | Count Dominant Nodes in a Binary Tree | Medium | Trees | [Solution](./trees/count-dominant-nodes-in-a-binary-tree.py) | Competent |
+| 3498 | Widest Possible Fence | Medium | Arrays | [Solution](./arrays/widest-possible-fence.py) | Not Competent |
 | 3604 | Minimum Cost Path with Alternating Directions III | Hard | Graphs | [Solution](./graphs/minimum-cost-path-with-alternating-directions-iii%20.py) | Not Competent |
 
-**Stats**: 44 solved | 35 competent | 4 needs review | 5 not competent
+**Stats**: 47 solved | 36 competent | 5 needs review | 6 not competent
 
 ## Problem Solution Pattern
 
