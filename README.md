@@ -60,6 +60,7 @@ leetcode-python/
 | 687 | Longest Univalue Path | Medium | Trees | [Solution](./dynamic_programming/longest-univalue-path.py) | Needs Review |
 | 743 | Network Delay Time | Medium | Graphs | [Solution](./graphs/network-delay-time.py) | Competent |
 | 787 | Cheapest Flights Within K Stops | Medium | Graphs | [Solution](./graphs/cheapest-flights-within-k-stop.py) | Not Competent |
+| 797 | All Paths From Source to Target | Medium | Backtracking | [Solution](./backtracking/all-paths-from-source-to-targe.py) | Needs Review |
 | 802 | Find Eventual Safe States | Medium | Graphs, Topological Sort | [Solution](./graphs/find-eventual-safe-states.py) | Competent |
 | 841 | Keys and Rooms | Medium | Graphs, BFS | [Solution](./graphs/keys-and-rooms.py) | Not Competent |
 | 875 | Koko Eating Bananas | Medium | Binary Search | [Solution](./binary_search/koko-eating-bananas.py) | Competent |
@@ -78,7 +79,7 @@ leetcode-python/
 | 3498 | Widest Possible Fence | Medium | Arrays | [Solution](./arrays/widest-possible-fence.py) | Not Competent |
 | 3604 | Minimum Cost Path with Alternating Directions III | Hard | Graphs | [Solution](./graphs/minimum-cost-path-with-alternating-directions-iii%20.py) | Not Competent |
 
-**Stats**: 47 solved | 36 competent | 5 needs review | 6 not competent
+**Stats**: 48 solved | 36 competent | 6 needs review | 6 not competent
 
 ## Problem Solution Pattern
 
