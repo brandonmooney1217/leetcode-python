@@ -82,12 +82,13 @@ leetcode-python/
 | 1786 | Number of Restricted Paths From First to Last Node | Medium | Graphs, DP | [Solution](./graphs/number-of-restricted-paths-from-first-to-last-node.py) | Not Competent |
 | 1926 | Nearest Exit From Entrance in Maze | Medium | Greedy, BFS | [Solution](./greedy/nearest-exit-from-entrance-in-maze.py) | Competent |
 | 2389 | Longest Subsequence With Limited Sum | Easy | Prefix Sum, Binary Search | [Solution](./prefix_sum/longest-subsequence-with-limited-sum.py) | Needs Review |
+| 2602 | Minimum Operations to Make All Array Elements Equal | Medium | Prefix Sum, Binary Search | [Solution](./prefix_sum/minimum-operations-to-make-all-array-elements-equal.py) | Not Competent |
 | 3424 | Count Dominant Nodes in a Binary Tree | Medium | Trees | [Solution](./trees/count-dominant-nodes-in-a-binary-tree.py) | Competent |
 | 3498 | Widest Possible Fence | Medium | Arrays | [Solution](./arrays/widest-possible-fence.py) | Not Competent |
 | 3604 | Minimum Cost Path with Alternating Directions III | Hard | Graphs | [Solution](./graphs/minimum-cost-path-with-alternating-directions-iii%20.py) | Not Competent |
 | 4012 | Count of Unfinished Tasks After Each Shift | Medium | Prefix Sum, Binary Search | [Solution](./prefix_sum/count-of-unfinished-tasks-after-each-shift.py) | Not Competent |
 
-**Stats**: 55 solved | 38 competent | 10 needs review | 7 not competent
+**Stats**: 56 solved | 38 competent | 10 needs review | 8 not competent
 
 ## Problem Solution Pattern
 
