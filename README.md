@@ -79,14 +79,15 @@ leetcode-python/
 | 1372 | Longest ZigZag Path in a Binary Tree | Medium | Trees | [Solution](./dynamic_programming/longest-zigzag-path-in-a-binary-tree.py) | Needs Review |
 | 1376 | Time Needed to Inform All Employees | Medium | Graphs, BFS | [Solution](./graphs/time-needed-to-inform-all-employees.py) | Competent |
 | 1466 | Reorder Routes to Make All Paths Lead to the City Zero | Medium | Graphs, BFS | [Solution](./graphs/reorder-routes-to-make-all-paths-lead-to-the-city-zero.py) | Needs Review |
-| 1926 | Nearest Exit From Entrance in Maze | Medium | Greedy, BFS | [Solution](./greedy/nearest-exit-from-entrance-in-maze.py) | Competent |
 | 1786 | Number of Restricted Paths From First to Last Node | Medium | Graphs, DP | [Solution](./graphs/number-of-restricted-paths-from-first-to-last-node.py) | Not Competent |
+| 1926 | Nearest Exit From Entrance in Maze | Medium | Greedy, BFS | [Solution](./greedy/nearest-exit-from-entrance-in-maze.py) | Competent |
+| 2389 | Longest Subsequence With Limited Sum | Easy | Prefix Sum, Binary Search | [Solution](./prefix_sum/longest-subsequence-with-limited-sum.py) | Needs Review |
 | 3424 | Count Dominant Nodes in a Binary Tree | Medium | Trees | [Solution](./trees/count-dominant-nodes-in-a-binary-tree.py) | Competent |
 | 3498 | Widest Possible Fence | Medium | Arrays | [Solution](./arrays/widest-possible-fence.py) | Not Competent |
 | 3604 | Minimum Cost Path with Alternating Directions III | Hard | Graphs | [Solution](./graphs/minimum-cost-path-with-alternating-directions-iii%20.py) | Not Competent |
 | 4012 | Count of Unfinished Tasks After Each Shift | Medium | Prefix Sum, Binary Search | [Solution](./prefix_sum/count-of-unfinished-tasks-after-each-shift.py) | Not Competent |
 
-**Stats**: 54 solved | 38 competent | 9 needs review | 7 not competent
+**Stats**: 55 solved | 38 competent | 10 needs review | 7 not competent
 
 ## Problem Solution Pattern
 
