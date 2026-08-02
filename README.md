@@ -23,6 +23,7 @@ leetcode-python/
 ├── queue/               # Queue problems
 ├── greedy/              # Greedy algorithms
 ├── intervals/           # Interval problems
+├── prefix_sum/          # Prefix sum problems
 └── sliding_window/      # Sliding window problems
 ```
 
@@ -82,8 +83,9 @@ leetcode-python/
 | 3424 | Count Dominant Nodes in a Binary Tree | Medium | Trees | [Solution](./trees/count-dominant-nodes-in-a-binary-tree.py) | Competent |
 | 3498 | Widest Possible Fence | Medium | Arrays | [Solution](./arrays/widest-possible-fence.py) | Not Competent |
 | 3604 | Minimum Cost Path with Alternating Directions III | Hard | Graphs | [Solution](./graphs/minimum-cost-path-with-alternating-directions-iii%20.py) | Not Competent |
+| 4012 | Count of Unfinished Tasks After Each Shift | Medium | Prefix Sum, Binary Search | [Solution](./prefix_sum/count-of-unfinished-tasks-after-each-shift.py) | Not Competent |
 
-**Stats**: 52 solved | 38 competent | 8 needs review | 6 not competent
+**Stats**: 53 solved | 38 competent | 8 needs review | 7 not competent
 
 ## Problem Solution Pattern
 
