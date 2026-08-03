@@ -55,6 +55,7 @@ leetcode-python/
 | 416 | Partition Equal Subset Sum | Medium | Dynamic Programming | [Solution](./dynamic_programming/partition-equal-subset-sum.py) | Competent |
 | 433 | Minimum Genetic Mutation | Medium | Graphs, BFS | [Solution](./graphs/minimum-genetic-mutation.py) | Needs Review |
 | 516 | Longest Palindromic Subsequence | Medium | Dynamic Programming | [Solution](./dynamic_programming/longest-palindromic-subsequenc.py) | Competent |
+| 542 | 01 Matrix | Medium | Graphs, BFS | [Solution](./graphs/01-matrix.py) | Competent |
 | 518 | Coin Change II | Medium | Dynamic Programming | [Solution](./dynamic_programming/coin-change-ii%20.py) | Competent |
 | 543 | Diameter of Binary Tree | Easy | Trees | [Solution](./dynamic_programming/diameter-of-binary-tree.py) | Competent |
 | 547 | Number of Provinces | Medium | Graphs, Union Find | [Solution](./graphs/number-of-provinces.py) | Competent |
@@ -76,6 +77,7 @@ leetcode-python/
 | 1048 | Longest String Chain | Medium | Sorting, DP | [Solution](./sorting/longest-string-chain.py) | Competent |
 | 1143 | Longest Common Subsequence | Medium | Dynamic Programming | [Solution](./dynamic_programming/longest-common-subsequence.py) | Competent |
 | 1293 | Shortest Path in a Grid with Obstacles Elimination | Hard | BFS, Graphs | [Solution](./dynamic_programming/shortest-path-in-a-grid-with-obstacles-elimination.py) | Not Competent |
+| 1306 | Jump Game III | Medium | Graphs, DFS | [Solution](./graphs/jump-game-iiijump-game-iii.py) | Competent |
 | 1312 | Minimum Insertion Steps to Make a String Palindrome | Hard | Dynamic Programming | [Solution](./dynamic_programming/minimum-insertion-steps-to-make-a-string-palindrome.py) | Competent |
 | 1372 | Longest ZigZag Path in a Binary Tree | Medium | Trees | [Solution](./dynamic_programming/longest-zigzag-path-in-a-binary-tree.py) | Needs Review |
 | 1376 | Time Needed to Inform All Employees | Medium | Graphs, BFS | [Solution](./graphs/time-needed-to-inform-all-employees.py) | Competent |
@@ -91,7 +93,7 @@ leetcode-python/
 | 3604 | Minimum Cost Path with Alternating Directions III | Hard | Graphs | [Solution](./graphs/minimum-cost-path-with-alternating-directions-iii%20.py) | Not Competent |
 | 4012 | Count of Unfinished Tasks After Each Shift | Medium | Prefix Sum, Binary Search | [Solution](./prefix_sum/count-of-unfinished-tasks-after-each-shift.py) | Not Competent |
 
-**Stats**: 58 solved | 38 competent | 12 needs review | 8 not competent
+**Stats**: 60 solved | 40 competent | 12 needs review | 8 not competent
 
 ## Problem Solution Pattern
 
