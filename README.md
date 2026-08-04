@@ -49,6 +49,7 @@ leetcode-python/
 | 198 | House Robber | Medium | Dynamic Programming | [Solution](./dynamic_programming/house-robber.py) | Competent |
 | 209 | Minimum Size Subarray Sum | Medium | Prefix Sum, Binary Search | [Solution](./prefix_sum/minimum-size-subarray-sum.py) | Needs Review |
 | 221 | Maximal Square | Medium | Dynamic Programming | [Solution](./dynamic_programming/maximal-square.py) | Competent |
+| 231 | Power of Two | Easy | Bitwise | [Solution](./bitwise/power-of-two.py) | Not Competent |
 | 300 | Longest Increasing Subsequence | Medium | Dynamic Programming | [Solution](./dynamic_programming/longest-increasing-subsequence.py) | Competent |
 | 309 | Best Time to Buy and Sell Stock with Cooldown | Medium | Dynamic Programming | [Solution](./dynamic_programming/best-time-to-buy-and-sell-stock-with-cooldown%20.py) | Competent |
 | 322 | Coin Change | Medium | Dynamic Programming | [Solution](./dynamic_programming/coin-change.py) | Competent |
@@ -97,7 +98,7 @@ leetcode-python/
 | 864 | Shortest Path to Get All Keys | Hard | Graphs, BFS | [Solution](./graphs/shortest-path-to-get-all-keys.py) | Not Competent |
 | 4012 | Count of Unfinished Tasks After Each Shift | Medium | Prefix Sum, Binary Search | [Solution](./prefix_sum/count-of-unfinished-tasks-after-each-shift.py) | Not Competent |
 
-**Stats**: 63 solved | 40 competent | 13 needs review | 10 not competent
+**Stats**: 64 solved | 40 competent | 13 needs review | 11 not competent
 
 ## Problem Solution Pattern
 
