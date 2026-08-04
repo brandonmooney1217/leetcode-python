@@ -47,6 +47,7 @@ leetcode-python/
 | 124 | Binary Tree Maximum Path Sum | Hard | Trees, DP | [Solution](./dynamic_programming/binary-tree-maximum-path-sum.py) | Competent |
 | 191 | Number of 1 Bits | Easy | Bitwise | [Solution](./bitwise/number-of-1-bits.py) | Needs Review |
 | 198 | House Robber | Medium | Dynamic Programming | [Solution](./dynamic_programming/house-robber.py) | Competent |
+| 200 | Number of Islands | Medium | Graphs, DFS | [Solution](./graphs/number-of-islands.py) | Competent |
 | 209 | Minimum Size Subarray Sum | Medium | Prefix Sum, Binary Search | [Solution](./prefix_sum/minimum-size-subarray-sum.py) | Needs Review |
 | 221 | Maximal Square | Medium | Dynamic Programming | [Solution](./dynamic_programming/maximal-square.py) | Competent |
 | 231 | Power of Two | Easy | Bitwise | [Solution](./bitwise/power-of-two.py) | Not Competent |
@@ -98,7 +99,7 @@ leetcode-python/
 | 864 | Shortest Path to Get All Keys | Hard | Graphs, BFS | [Solution](./graphs/shortest-path-to-get-all-keys.py) | Not Competent |
 | 4012 | Count of Unfinished Tasks After Each Shift | Medium | Prefix Sum, Binary Search | [Solution](./prefix_sum/count-of-unfinished-tasks-after-each-shift.py) | Not Competent |
 
-**Stats**: 64 solved | 40 competent | 13 needs review | 11 not competent
+**Stats**: 65 solved | 41 competent | 13 needs review | 11 not competent
 
 ## Problem Solution Pattern
 
