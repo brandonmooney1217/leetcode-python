@@ -17,6 +17,7 @@ leetcode-python/
 ├── sorting/             # Sorting algorithms
 ├── binary_search/       # Binary search variants
 ├── backtracking/        # Backtracking problems
+├── bitwise/             # Bit manipulation problems
 ├── math/                # Mathematical problems
 ├── hash_table/          # Hash table problems
 ├── stack/               # Stack problems
@@ -44,6 +45,7 @@ leetcode-python/
 | 127 | Word Ladder | Hard | Graphs, BFS | [Solution](./graphs/word-ladder.py) | Needs Review |
 | 122 | Best Time to Buy and Sell Stock II | Medium | Dynamic Programming | [Solution](./dynamic_programming/best-time-to-buy-and-sell-stock-ii.py) | Competent |
 | 124 | Binary Tree Maximum Path Sum | Hard | Trees, DP | [Solution](./dynamic_programming/binary-tree-maximum-path-sum.py) | Competent |
+| 191 | Number of 1 Bits | Easy | Bitwise | [Solution](./bitwise/number-of-1-bits.py) | Needs Review |
 | 198 | House Robber | Medium | Dynamic Programming | [Solution](./dynamic_programming/house-robber.py) | Competent |
 | 209 | Minimum Size Subarray Sum | Medium | Prefix Sum, Binary Search | [Solution](./prefix_sum/minimum-size-subarray-sum.py) | Needs Review |
 | 221 | Maximal Square | Medium | Dynamic Programming | [Solution](./dynamic_programming/maximal-square.py) | Competent |
@@ -94,7 +96,7 @@ leetcode-python/
 | 864 | Shortest Path to Get All Keys | Hard | Graphs, BFS | [Solution](./graphs/shortest-path-to-get-all-keys.py) | Not Competent |
 | 4012 | Count of Unfinished Tasks After Each Shift | Medium | Prefix Sum, Binary Search | [Solution](./prefix_sum/count-of-unfinished-tasks-after-each-shift.py) | Not Competent |
 
-**Stats**: 61 solved | 40 competent | 12 needs review | 9 not competent
+**Stats**: 62 solved | 40 competent | 13 needs review | 9 not competent
 
 ## Problem Solution Pattern
 
