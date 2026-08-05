@@ -69,6 +69,7 @@ leetcode-python/
 | 673 | Number of Longest Increasing Subsequence | Medium | Sorting, DP | [Solution](./sorting/number-of-longest-increasing-subsequence.py) | Competent |
 | 684 | Redundant Connection | Medium | Graphs, Union Find | [Solution](./graphs/redundant-connection.py) | Competent |
 | 687 | Longest Univalue Path | Medium | Trees | [Solution](./dynamic_programming/longest-univalue-path.py) | Needs Review |
+| 695 | Max Area of Island | Medium | Graphs, DFS | [Solution](./graphs/max-area-of-island.py) | Competent |
 | 743 | Network Delay Time | Medium | Graphs | [Solution](./graphs/network-delay-time.py) | Competent |
 | 787 | Cheapest Flights Within K Stops | Medium | Graphs | [Solution](./graphs/cheapest-flights-within-k-stop.py) | Not Competent |
 | 797 | All Paths From Source to Target | Medium | Backtracking | [Solution](./backtracking/all-paths-from-source-to-targe.py) | Needs Review |
@@ -101,7 +102,7 @@ leetcode-python/
 | 864 | Shortest Path to Get All Keys | Hard | Graphs, BFS | [Solution](./graphs/shortest-path-to-get-all-keys.py) | Not Competent |
 | 4012 | Count of Unfinished Tasks After Each Shift | Medium | Prefix Sum, Binary Search | [Solution](./prefix_sum/count-of-unfinished-tasks-after-each-shift.py) | Not Competent |
 
-**Stats**: 67 solved | 42 competent | 13 needs review | 12 not competent
+**Stats**: 68 solved | 43 competent | 13 needs review | 12 not competent
 
 ## Problem Solution Pattern
 
