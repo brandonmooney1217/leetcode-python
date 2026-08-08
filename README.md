@@ -84,6 +84,7 @@ leetcode-python/
 | 1091 | Shortest Path in Binary Matrix | Medium | Graphs, BFS | [Solution](./graphs/shortest-path-in-binary-matrix.py) | Needs Review |
 | 997 | Find the Town Judge | Easy | Graphs | [Solution](./graphs/find-the-town-judge.py) | Not Competent |
 | 1020 | Number of Enclaves | Medium | Graphs, DFS | [Solution](./graphs/number-of-enclaves.py) | Competent |
+| 1042 | Flower Planting With No Adjacent | Medium | Graphs | [Solution](./graphs/flower-planting-with-no-adjacent.py) | Not Competent |
 | 1048 | Longest String Chain | Medium | Sorting, DP | [Solution](./sorting/longest-string-chain.py) | Competent |
 | 1143 | Longest Common Subsequence | Medium | Dynamic Programming | [Solution](./dynamic_programming/longest-common-subsequence.py) | Competent |
 | 1254 | Number of Closed Islands | Medium | Graphs, DFS | [Solution](./graphs/number-of-closed-islands.py) | Not Competent |
@@ -107,7 +108,7 @@ leetcode-python/
 | 864 | Shortest Path to Get All Keys | Hard | Graphs, BFS | [Solution](./graphs/shortest-path-to-get-all-keys.py) | Not Competent |
 | 4012 | Count of Unfinished Tasks After Each Shift | Medium | Prefix Sum, Binary Search | [Solution](./prefix_sum/count-of-unfinished-tasks-after-each-shift.py) | Not Competent |
 
-**Stats**: 73 solved | 44 competent | 14 needs review | 15 not competent
+**Stats**: 74 solved | 44 competent | 14 needs review | 16 not competent
 
 ## Problem Solution Pattern
 
