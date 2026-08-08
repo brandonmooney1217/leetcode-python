@@ -1,28 +1,30 @@
+
 from typing import List
 import collections
 
 class Solution:
-    def isBipartite(self, graph: List[List[int]]) -> bool:
+    def possibleBipartition(self, n: int, dislikes: List[List[int]]) -> bool:
         dct = collections.defaultdict(list)
-        n = len(graph)
-        for index, val in enumerate(graph):
-            for v in val:
-                dct[index].append(v)
-
+        for a, b in dislikes:
+            dct[a].append(b)
+            dct[b].append(a)
+        print(dct)
         color = {}
         def dfs(node, c):
             color[node] = c
             for nei in dct[node]:
                 if nei not in color:
-                    tmp = dfs(nei, 1-c)
-                    if not tmp:
+                    if not dfs(nei, 1-c):
                         return False
+
                 elif color[nei] == c:
                     return False
             return True
 
-        for node in range(n):
-            if node not in color:
-                if not dfs(node, 1):
+        for i in range(1, n+1):
+            if i not in color:
+                tmp = dfs(i, 1)
+                print(i, tmp)
+                if not tmp:
                     return False
         return True

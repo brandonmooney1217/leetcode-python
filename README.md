@@ -77,6 +77,7 @@ leetcode-python/
 | 802 | Find Eventual Safe States | Medium | Graphs, Topological Sort | [Solution](./graphs/find-eventual-safe-states.py) | Competent |
 | 841 | Keys and Rooms | Medium | Graphs, BFS | [Solution](./graphs/keys-and-rooms.py) | Not Competent |
 | 875 | Koko Eating Bananas | Medium | Binary Search | [Solution](./binary_search/koko-eating-bananas.py) | Competent |
+| 886 | Possible Bipartition | Medium | Graphs, DFS | [Solution](./graphs/possible-bipartition.py) | Not Competent |
 | 934 | Shortest Bridge | Medium | Graphs, BFS, DFS | [Solution](./graphs/shortest-bridge.py) | Competent |
 | 931 | Minimum Falling Path Sum | Medium | Dynamic Programming | [Solution](./dynamic_programming/minimum-falling-path-sum.py) | Competent |
 | 979 | Distribute Coins in Binary Tree | Medium | Trees | [Solution](./dynamic_programming/distribute-coins-in-binary-tree.py) | Needs Review |
@@ -106,7 +107,7 @@ leetcode-python/
 | 864 | Shortest Path to Get All Keys | Hard | Graphs, BFS | [Solution](./graphs/shortest-path-to-get-all-keys.py) | Not Competent |
 | 4012 | Count of Unfinished Tasks After Each Shift | Medium | Prefix Sum, Binary Search | [Solution](./prefix_sum/count-of-unfinished-tasks-after-each-shift.py) | Not Competent |
 
-**Stats**: 72 solved | 44 competent | 14 needs review | 14 not competent
+**Stats**: 73 solved | 44 competent | 14 needs review | 15 not competent
 
 ## Problem Solution Pattern
 
