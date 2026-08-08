@@ -70,6 +70,7 @@ leetcode-python/
 | 684 | Redundant Connection | Medium | Graphs, Union Find | [Solution](./graphs/redundant-connection.py) | Competent |
 | 687 | Longest Univalue Path | Medium | Trees | [Solution](./dynamic_programming/longest-univalue-path.py) | Needs Review |
 | 695 | Max Area of Island | Medium | Graphs, DFS | [Solution](./graphs/max-area-of-island.py) | Competent |
+| 721 | Accounts Merge | Medium | Graphs, Union Find | [Solution](./graphs/accounts-merge.py) | Not Competent |
 | 743 | Network Delay Time | Medium | Graphs | [Solution](./graphs/network-delay-time.py) | Competent |
 | 785 | Is Graph Bipartite? | Medium | Graphs, DFS | [Solution](./graphs/is-graph-bipartite.py) | Not Competent |
 | 787 | Cheapest Flights Within K Stops | Medium | Graphs | [Solution](./graphs/cheapest-flights-within-k-stop.py) | Not Competent |
@@ -108,7 +109,7 @@ leetcode-python/
 | 864 | Shortest Path to Get All Keys | Hard | Graphs, BFS | [Solution](./graphs/shortest-path-to-get-all-keys.py) | Not Competent |
 | 4012 | Count of Unfinished Tasks After Each Shift | Medium | Prefix Sum, Binary Search | [Solution](./prefix_sum/count-of-unfinished-tasks-after-each-shift.py) | Not Competent |
 
-**Stats**: 74 solved | 44 competent | 14 needs review | 16 not competent
+**Stats**: 75 solved | 44 competent | 14 needs review | 17 not competent
 
 ## Problem Solution Pattern
 
