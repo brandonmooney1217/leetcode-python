@@ -34,6 +34,7 @@ class Solution:
                 for c1, c2 in zip(s1, s2):
                     if c1 != c2:
                         count +=1
+                # strings are similar if they have 2 or 0 mismatches; they are always anagrams
                 if count == 2 or count == 0:
                     uf.union(s1, s2)
 
