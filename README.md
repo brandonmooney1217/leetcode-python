@@ -57,6 +57,7 @@ leetcode-python/
 | 337 | House Robber III | Medium | Dynamic Programming, Trees | [Solution](./dynamic_programming/house-robber-iii.py) | Competent |
 | 338 | Counting Bits | Easy | Bitwise, DP | [Solution](./bitwise/counting-bits.py) | Not Competent |
 | 377 | Combination Sum IV | Medium | Dynamic Programming | [Solution](./dynamic_programming/combination-sum-iv.py) | Competent |
+| 410 | Split Array Largest Sum | Hard | Binary Search | [Solution](./binary_search/split-array-largest-sum.py) | Competent |
 | 416 | Partition Equal Subset Sum | Medium | Dynamic Programming | [Solution](./dynamic_programming/partition-equal-subset-sum.py) | Competent |
 | 433 | Minimum Genetic Mutation | Medium | Graphs, BFS | [Solution](./graphs/minimum-genetic-mutation.py) | Needs Review |
 | 516 | Longest Palindromic Subsequence | Medium | Dynamic Programming | [Solution](./dynamic_programming/longest-palindromic-subsequenc.py) | Competent |
@@ -89,6 +90,7 @@ leetcode-python/
 | 207 | Course Schedule | Medium | Graphs, Topological Sort | [Solution](./graphs/course-schedule.py) | Competent |
 | 997 | Find the Town Judge | Easy | Graphs | [Solution](./graphs/find-the-town-judge.py) | Not Competent |
 | 1020 | Number of Enclaves | Medium | Graphs, DFS | [Solution](./graphs/number-of-enclaves.py) | Competent |
+| 1011 | Capacity To Ship Packages Within D Days | Medium | Binary Search | [Solution](./binary_search/capacity-to-ship-packages-within-d-days.py) | Competent |
 | 1042 | Flower Planting With No Adjacent | Medium | Graphs | [Solution](./graphs/flower-planting-with-no-adjacent.py) | Not Competent |
 | 1048 | Longest String Chain | Medium | Sorting, DP | [Solution](./sorting/longest-string-chain.py) | Competent |
 | 1143 | Longest Common Subsequence | Medium | Dynamic Programming | [Solution](./dynamic_programming/longest-common-subsequence.py) | Competent |
@@ -99,6 +101,7 @@ leetcode-python/
 | 1372 | Longest ZigZag Path in a Binary Tree | Medium | Trees | [Solution](./dynamic_programming/longest-zigzag-path-in-a-binary-tree.py) | Needs Review |
 | 1376 | Time Needed to Inform All Employees | Medium | Graphs, BFS | [Solution](./graphs/time-needed-to-inform-all-employees.py) | Competent |
 | 1466 | Reorder Routes to Make All Paths Lead to the City Zero | Medium | Graphs, BFS | [Solution](./graphs/reorder-routes-to-make-all-paths-lead-to-the-city-zero.py) | Needs Review |
+| 1482 | Minimum Number of Days to Make m Bouquets | Medium | Binary Search | [Solution](./binary_search/minimum-number-of-days-to-make-m-bouquets.py) | Competent |
 | 1557 | Minimum Number of Vertices to Reach All Nodes | Medium | Graphs | [Solution](./graphs/minimum-number-of-vertices-to-reach-all-nodes.py) | Competent |
 | 1615 | Maximal Network Rank | Medium | Graphs | [Solution](./graphs/maximal-network-rank.py) | Needs Review |
 | 1786 | Number of Restricted Paths From First to Last Node | Medium | Graphs, DP | [Solution](./graphs/number-of-restricted-paths-from-first-to-last-node.py) | Not Competent |
@@ -112,8 +115,9 @@ leetcode-python/
 | 3604 | Minimum Cost Path with Alternating Directions III | Hard | Graphs | [Solution](./graphs/minimum-cost-path-with-alternating-directions-iii%20.py) | Not Competent |
 | 864 | Shortest Path to Get All Keys | Hard | Graphs, BFS | [Solution](./graphs/shortest-path-to-get-all-keys.py) | Not Competent |
 | 4012 | Count of Unfinished Tasks After Each Shift | Medium | Prefix Sum, Binary Search | [Solution](./prefix_sum/count-of-unfinished-tasks-after-each-shift.py) | Not Competent |
+| — | Maximum Area of Two Non-Overlapping Square Submatrices | Medium | Binary Search, DP | [Solution](./binary_search/maximum-area-of-two-non-overlapping-square-submatrices.py) | Not Competent |
 
-**Stats**: 79 solved | 45 competent | 17 needs review | 17 not competent
+**Stats**: 83 solved | 48 competent | 17 needs review | 18 not competent
 
 ## Problem Solution Pattern
 
