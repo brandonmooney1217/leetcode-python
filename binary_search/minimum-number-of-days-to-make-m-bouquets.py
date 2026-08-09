@@ -1,9 +1,11 @@
+
+from typing import List
+
 class Solution:
     def minDays(self, bloomDay: List[int], m: int, k: int) -> int:
         n = len(bloomDay)
-        sm = sum(bloomDay)
 
-        if n / k < m:
+        if n < m*k:
             return -1
 
         def can(test_day):
