@@ -88,7 +88,7 @@ leetcode-python/
 | 1091 | Shortest Path in Binary Matrix | Medium | Graphs, BFS | [Solution](./graphs/shortest-path-in-binary-matrix.py) | Competent | 2026-08-15 |
 | 990 | Satisfiability of Equality Equations | Medium | Graphs, Union Find | [Solution](./graphs/satisfiability-of-equality-equations.py) | Needs Review | |
 | 207 | Course Schedule | Medium | Graphs, Topological Sort | [Solution](./graphs/course-schedule.py) | Competent | |
-| 997 | Find the Town Judge | Easy | Graphs | [Solution](./graphs/find-the-town-judge.py) | Not Competent | |
+| 997 | Find the Town Judge | Easy | Graphs | [Solution](./graphs/find-the-town-judge.py) | Competent | 2026-08-15 |
 | 1020 | Number of Enclaves | Medium | Graphs, DFS | [Solution](./graphs/number-of-enclaves.py) | Competent | |
 | 1011 | Capacity To Ship Packages Within D Days | Medium | Binary Search | [Solution](./binary_search/capacity-to-ship-packages-within-d-days.py) | Competent | |
 | 1042 | Flower Planting With No Adjacent | Medium | Graphs | [Solution](./graphs/flower-planting-with-no-adjacent.py) | Not Competent | |
@@ -118,7 +118,7 @@ leetcode-python/
 | 4012 | Count of Unfinished Tasks After Each Shift | Medium | Prefix Sum, Binary Search | [Solution](./prefix_sum/count-of-unfinished-tasks-after-each-shift.py) | Not Competent | |
 | — | Maximum Area of Two Non-Overlapping Square Submatrices | Medium | Binary Search, DP | [Solution](./binary_search/maximum-area-of-two-non-overlapping-square-submatrices.py) | Not Competent | |
 
-**Stats**: 84 solved | 51 competent | 16 needs review | 17 not competent
+**Stats**: 84 solved | 52 competent | 16 needs review | 16 not competent
 
 ## Problem Solution Pattern
 
