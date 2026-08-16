@@ -118,7 +118,7 @@ leetcode-python/
 | 4012 | Count of Unfinished Tasks After Each Shift | Medium | Prefix Sum, Binary Search | [Solution](./prefix_sum/count-of-unfinished-tasks-after-each-shift.py) | Not Competent | |
 | — | Maximum Area of Two Non-Overlapping Square Submatrices | Medium | Binary Search, DP | [Solution](./binary_search/maximum-area-of-two-non-overlapping-square-submatrices.py) | Not Competent | |
 
-**Stats**: 84 solved | 49 competent | 17 needs review | 18 not competent
+**Stats**: 84 solved | 51 competent | 16 needs review | 17 not competent
 
 ## Problem Solution Pattern
 
