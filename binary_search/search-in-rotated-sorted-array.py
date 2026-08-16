@@ -21,8 +21,3 @@ class Solution:
                 else:
                     l = mid+1
         return -1
-
-
-
-
-        return -1
