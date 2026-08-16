@@ -132,7 +132,16 @@ Each problem follows a consistent structure:
 
 1. Identify the primary topic category
 2. Create `topic/problem_name.py` with the stub
-3. Update the progress tracking table in this README
+3. Add a row to the progress tracking table with the Last Solved date set to today
+4. Update the **Stats** line (increment total solved count)
+
+## Revisiting Problems
+
+When a problem is revisited and the competency level changes:
+
+1. Update the **Competency** column to the new level (Competent, Needs Review, or Not Competent)
+2. Set the **Last Solved** column to today's date
+3. Recount and update the **Stats** line to reflect the new totals across all three competency levels
 
 ## Resources
 
