@@ -53,7 +53,7 @@ leetcode-python/
 | 231 | Power of Two | Easy | Bitwise | [Solution](./bitwise/power-of-two.py) | Not Competent | |
 | 300 | Longest Increasing Subsequence | Medium | Dynamic Programming | [Solution](./dynamic_programming/longest-increasing-subsequence.py) | Competent | |
 | 309 | Best Time to Buy and Sell Stock with Cooldown | Medium | Dynamic Programming | [Solution](./dynamic_programming/best-time-to-buy-and-sell-stock-with-cooldown%20.py) | Competent | |
-| 322 | Coin Change | Medium | Dynamic Programming | [Solution](./dynamic_programming/coin-change.py) | Needs Review | 2026-08-15 |
+| 322 | Coin Change | Medium | Dynamic Programming | [Solution](./dynamic_programming/coin-change.py) | Needs Review | 2026-08-19 |
 | 337 | House Robber III | Medium | Dynamic Programming, Trees | [Solution](./dynamic_programming/house-robber-iii.py) | Competent | |
 | 338 | Counting Bits | Easy | Bitwise, DP | [Solution](./bitwise/counting-bits.py) | Not Competent | |
 | 377 | Combination Sum IV | Medium | Dynamic Programming | [Solution](./dynamic_programming/combination-sum-iv.py) | Competent | |
@@ -69,11 +69,11 @@ leetcode-python/
 | 647 | Palindromic Substrings | Medium | Dynamic Programming | [Solution](./dynamic_programming/palindromic-substrings.py) | Competent | |
 | 673 | Number of Longest Increasing Subsequence | Medium | Sorting, DP | [Solution](./sorting/number-of-longest-increasing-subsequence.py) | Competent | |
 | 684 | Redundant Connection | Medium | Graphs, Union Find | [Solution](./graphs/redundant-connection.py) | Competent | |
-| 687 | Longest Univalue Path | Medium | Trees | [Solution](./dynamic_programming/longest-univalue-path.py) | Needs Review | |
+| 687 | Longest Univalue Path | Medium | Trees | [Solution](./dynamic_programming/longest-univalue-path.py) | Needs Review | 2026-08-19 |
 | 695 | Max Area of Island | Medium | Graphs, DFS | [Solution](./graphs/max-area-of-island.py) | Competent | |
 | 721 | Accounts Merge | Medium | Graphs, Union Find | [Solution](./graphs/accounts-merge.py) | Not Competent | |
 | 743 | Network Delay Time | Medium | Graphs | [Solution](./graphs/network-delay-time.py) | Competent | |
-| 785 | Is Graph Bipartite? | Medium | Graphs, DFS | [Solution](./graphs/is-graph-bipartite.py) | Not Competent | |
+| 785 | Is Graph Bipartite? | Medium | Graphs, DFS | [Solution](./graphs/is-graph-bipartite.py) | Competent | 2026-08-19 |
 | 787 | Cheapest Flights Within K Stops | Medium | Graphs | [Solution](./graphs/cheapest-flights-within-k-stop.py) | Not Competent | |
 | 797 | All Paths From Source to Target | Medium | Backtracking | [Solution](./backtracking/all-paths-from-source-to-targe.py) | Needs Review | |
 | 802 | Find Eventual Safe States | Medium | Graphs, Topological Sort | [Solution](./graphs/find-eventual-safe-states.py) | Competent | |
@@ -118,7 +118,7 @@ leetcode-python/
 | 4012 | Count of Unfinished Tasks After Each Shift | Medium | Prefix Sum, Binary Search | [Solution](./prefix_sum/count-of-unfinished-tasks-after-each-shift.py) | Not Competent | |
 | — | Maximum Area of Two Non-Overlapping Square Submatrices | Medium | Binary Search, DP | [Solution](./binary_search/maximum-area-of-two-non-overlapping-square-submatrices.py) | Not Competent | |
 
-**Stats**: 84 solved | 51 competent | 17 needs review | 16 not competent
+**Stats**: 84 solved | 52 competent | 17 needs review | 15 not competent
 
 ## Problem Solution Pattern
 
