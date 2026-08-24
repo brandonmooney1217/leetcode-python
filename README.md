@@ -51,7 +51,7 @@ leetcode-python/
 | 209 | Minimum Size Subarray Sum | Medium | Prefix Sum, Binary Search | [Solution](./prefix_sum/minimum-size-subarray-sum.py) | Needs Review | |
 | 221 | Maximal Square | Medium | Dynamic Programming | [Solution](./dynamic_programming/maximal-square.py) | Competent | |
 | 231 | Power of Two | Easy | Bitwise | [Solution](./bitwise/power-of-two.py) | Not Competent | |
-| 300 | Longest Increasing Subsequence | Medium | Dynamic Programming | [Solution](./dynamic_programming/longest-increasing-subsequence.py) | Competent | |
+| 300 | Longest Increasing Subsequence | Medium | Dynamic Programming | [Solution](./dynamic_programming/longest-increasing-subsequence.py) | Competent | 2026-08-21 |
 | 309 | Best Time to Buy and Sell Stock with Cooldown | Medium | Dynamic Programming | [Solution](./dynamic_programming/best-time-to-buy-and-sell-stock-with-cooldown%20.py) | Competent | |
 | 322 | Coin Change | Medium | Dynamic Programming | [Solution](./dynamic_programming/coin-change.py) | Needs Review | 2026-08-19 |
 | 337 | House Robber III | Medium | Dynamic Programming, Trees | [Solution](./dynamic_programming/house-robber-iii.py) | Competent | |
@@ -74,7 +74,7 @@ leetcode-python/
 | 721 | Accounts Merge | Medium | Graphs, Union Find | [Solution](./graphs/accounts-merge.py) | Not Competent | |
 | 743 | Network Delay Time | Medium | Graphs | [Solution](./graphs/network-delay-time.py) | Competent | |
 | 785 | Is Graph Bipartite? | Medium | Graphs, DFS | [Solution](./graphs/is-graph-bipartite.py) | Competent | 2026-08-19 |
-| 787 | Cheapest Flights Within K Stops | Medium | Graphs | [Solution](./graphs/cheapest-flights-within-k-stop.py) | Not Competent | |
+| 787 | Cheapest Flights Within K Stops | Medium | Graphs | [Solution](./graphs/cheapest-flights-within-k-stop.py) | Not Competent | 2026-08-21 |
 | 797 | All Paths From Source to Target | Medium | Backtracking | [Solution](./backtracking/all-paths-from-source-to-targe.py) | Needs Review | |
 | 802 | Find Eventual Safe States | Medium | Graphs, Topological Sort | [Solution](./graphs/find-eventual-safe-states.py) | Competent | |
 | 839 | Similar String Groups | Hard | Graphs, Union Find | [Solution](./graphs/similar-string-groups.py) | Needs Review | |
@@ -106,7 +106,7 @@ leetcode-python/
 | 1557 | Minimum Number of Vertices to Reach All Nodes | Medium | Graphs | [Solution](./graphs/minimum-number-of-vertices-to-reach-all-nodes.py) | Competent | |
 | 1615 | Maximal Network Rank | Medium | Graphs | [Solution](./graphs/maximal-network-rank.py) | Needs Review | |
 | 1786 | Number of Restricted Paths From First to Last Node | Medium | Graphs, DP | [Solution](./graphs/number-of-restricted-paths-from-first-to-last-node.py) | Not Competent | |
-| 1893 | Check if All the Integers in a Range Are Covered | Easy | Line Sweep | [Solution](./line_sweep/check-if-all-the-integers-in-a-range-are-covered.py) | Needs Review | |
+| 1893 | Check if All the Integers in a Range Are Covered | Easy | Line Sweep | [Solution](./line_sweep/check-if-all-the-integers-in-a-range-are-covered.py) | Not Competent | 2026-08-21 |
 | 1926 | Nearest Exit From Entrance in Maze | Medium | Greedy, BFS | [Solution](./greedy/nearest-exit-from-entrance-in-maze.py) | Competent | |
 | 2064 | Minimized Maximum of Products Distributed to Any Store | Medium | Binary Search | [Solution](./binary_search/minimized-maximum-of-products-distributed-to-any-store.py) | Competent | |
 | 2251 | Number of Flowers in Full Bloom | Hard | Line Sweep | [Solution](./line_sweep/number-of-flowers-in-full-bloom.py) | Needs Review | |
@@ -122,7 +122,7 @@ leetcode-python/
 | 1575 | Count All Possible Routes | Medium | Dynamic Programming | [Solution](./dynamic_programming/count-all-possible-routes.py) | Competent | 2026-08-21 |
 | 1671 | Minimum Number of Removals to Make Mountain Array | Hard | Dynamic Programming | [Solution](./dynamic_programming/minimum-number-of-removals-to-make-mountain-array.py) | Not Competent | 2026-08-21 |
 
-**Stats**: 88 solved | 54 competent | 17 needs review | 17 not competent
+**Stats**: 88 solved | 54 competent | 16 needs review | 18 not competent
 
 ## Problem Solution Pattern
 
