@@ -118,6 +118,7 @@ leetcode-python/
 | 2300 | Successful Pairs of Spells and Potions | Medium | Binary Search | [Solution](./binary_search/successful-pairs-of-spells-and-potions.py) | Competent | 2026-08-19 |
 | 2389 | Longest Subsequence With Limited Sum | Easy | Prefix Sum, Binary Search | [Solution](./prefix_sum/longest-subsequence-with-limited-sum.py) | Needs Review | |
 | 2602 | Minimum Operations to Make All Array Elements Equal | Medium | Prefix Sum, Binary Search | [Solution](./prefix_sum/minimum-operations-to-make-all-array-elements-equal.py) | Not Competent | |
+| 2799 | Count Complete Subarrays in an Array | Medium | Sliding Window | [Solution](./sliding_window/count-complete-subarrays-in-an-array.py) | Competent | 2026-09-01 |
 | 2962 | Count Subarrays Where Max Element Appears at Least K Times | Medium | Sliding Window | [Solution](./sliding_window/count-subarrays-where-max-element-appears-at-least-k-times.py) | Competent | 2026-09-01 |
 | 3424 | Count Dominant Nodes in a Binary Tree | Medium | Trees | [Solution](./trees/count-dominant-nodes-in-a-binary-tree.py) | Competent | |
 | 3498 | Widest Possible Fence | Medium | Arrays | [Solution](./arrays/widest-possible-fence.py) | Not Competent | |
@@ -125,7 +126,7 @@ leetcode-python/
 | 4012 | Count of Unfinished Tasks After Each Shift | Medium | Prefix Sum, Binary Search | [Solution](./prefix_sum/count-of-unfinished-tasks-after-each-shift.py) | Not Competent | |
 | — | Maximum Area of Two Non-Overlapping Square Submatrices | Medium | Binary Search, DP | [Solution](./binary_search/maximum-area-of-two-non-overlapping-square-submatrices.py) | Not Competent | |
 
-**Stats**: 91 solved | 57 competent | 16 needs review | 18 not competent
+**Stats**: 92 solved | 58 competent | 16 needs review | 18 not competent
 
 ## Problem Solution Pattern
 
