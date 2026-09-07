@@ -96,6 +96,7 @@ leetcode-python/
 | 1061 | Lexicographically Smallest Equivalent String | Medium | Graphs, Union Find | [Solution](./graphs/lexicographically-smallest-equivalent-string.py) | Needs Review | |
 | 1091 | Shortest Path in Binary Matrix | Medium | Graphs, BFS | [Solution](./graphs/shortest-path-in-binary-matrix.py) | Competent | 2026-08-15 |
 | 1143 | Longest Common Subsequence | Medium | Dynamic Programming | [Solution](./dynamic_programming/longest-common-subsequence.py) | Competent | |
+| 1235 | Maximum Profit in Job Scheduling | Hard | Dynamic Programming | [Solution](./dynamic_programming/maximum-profit-in-job-scheduling.py) | Not Competent | 2026-09-07 |
 | 1254 | Number of Closed Islands | Medium | Graphs, DFS | [Solution](./graphs/number-of-closed-islands.py) | Not Competent | |
 | 1292 | Maximum Side Length of a Square with Sum Less than or Equal to Threshold | Medium | Dynamic Programming | [Solution](./dynamic_programming/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold.py) | Not Competent | 2026-08-19 |
 | 1293 | Shortest Path in a Grid with Obstacles Elimination | Hard | BFS, Graphs | [Solution](./dynamic_programming/shortest-path-in-a-grid-with-obstacles-elimination.py) | Not Competent | |
@@ -128,7 +129,7 @@ leetcode-python/
 | 4012 | Count of Unfinished Tasks After Each Shift | Medium | Prefix Sum, Binary Search | [Solution](./prefix_sum/count-of-unfinished-tasks-after-each-shift.py) | Not Competent | |
 | — | Maximum Area of Two Non-Overlapping Square Submatrices | Medium | Binary Search, DP | [Solution](./binary_search/maximum-area-of-two-non-overlapping-square-submatrices.py) | Not Competent | |
 
-**Stats**: 94 solved | 58 competent | 16 needs review | 20 not competent
+**Stats**: 95 solved | 58 competent | 16 needs review | 21 not competent
 
 ## Problem Solution Pattern
 
