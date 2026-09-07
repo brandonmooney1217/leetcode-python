@@ -55,6 +55,7 @@ leetcode-python/
 | 300 | Longest Increasing Subsequence | Medium | Dynamic Programming | [Solution](./dynamic_programming/longest-increasing-subsequence.py) | Competent | 2026-08-21 |
 | 309 | Best Time to Buy and Sell Stock with Cooldown | Medium | Dynamic Programming | [Solution](./dynamic_programming/best-time-to-buy-and-sell-stock-with-cooldown.py) | Competent | |
 | 322 | Coin Change | Medium | Dynamic Programming | [Solution](./dynamic_programming/coin-change.py) | Needs Review | 2026-08-19 |
+| 343 | Integer Break | Medium | Dynamic Programming | [Solution](./dynamic_programming/integer-break.py) | Not Competent | 2026-09-07 |
 | 337 | House Robber III | Medium | Dynamic Programming, Trees | [Solution](./dynamic_programming/house-robber-iii.py) | Competent | |
 | 338 | Counting Bits | Easy | Bitwise, DP | [Solution](./bitwise/counting-bits.py) | Not Competent | |
 | 377 | Combination Sum IV | Medium | Dynamic Programming | [Solution](./dynamic_programming/combination-sum-iv.py) | Competent | |
@@ -109,6 +110,7 @@ leetcode-python/
 | 1615 | Maximal Network Rank | Medium | Graphs | [Solution](./graphs/maximal-network-rank.py) | Needs Review | |
 | 1671 | Minimum Number of Removals to Make Mountain Array | Hard | Dynamic Programming | [Solution](./dynamic_programming/minimum-number-of-removals-to-make-mountain-array.py) | Not Competent | 2026-08-21 |
 | 1695 | Maximum Erasure Value | Medium | Sliding Window | [Solution](./sliding_window/maximum-erasure-value.py) | Competent | 2026-09-01 |
+| 1751 | Maximum Number of Events That Can Be Attended II | Hard | Dynamic Programming | [Solution](./dynamic_programming/maximum-number-of-events-that-can-be-attended-ii.py) | Not Competent | 2026-09-07 |
 | 1786 | Number of Restricted Paths From First to Last Node | Medium | Graphs, DP | [Solution](./graphs/number-of-restricted-paths-from-first-to-last-node.py) | Not Competent | |
 | 1893 | Check if All the Integers in a Range Are Covered | Easy | Line Sweep | [Solution](./line_sweep/check-if-all-the-integers-in-a-range-are-covered.py) | Not Competent | 2026-08-21 |
 | 1926 | Nearest Exit From Entrance in Maze | Medium | Greedy, BFS | [Solution](./greedy/nearest-exit-from-entrance-in-maze.py) | Competent | |
@@ -126,7 +128,7 @@ leetcode-python/
 | 4012 | Count of Unfinished Tasks After Each Shift | Medium | Prefix Sum, Binary Search | [Solution](./prefix_sum/count-of-unfinished-tasks-after-each-shift.py) | Not Competent | |
 | — | Maximum Area of Two Non-Overlapping Square Submatrices | Medium | Binary Search, DP | [Solution](./binary_search/maximum-area-of-two-non-overlapping-square-submatrices.py) | Not Competent | |
 
-**Stats**: 92 solved | 58 competent | 16 needs review | 18 not competent
+**Stats**: 94 solved | 58 competent | 16 needs review | 20 not competent
 
 ## Problem Solution Pattern
 
