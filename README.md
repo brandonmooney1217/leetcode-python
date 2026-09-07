@@ -115,6 +115,7 @@ leetcode-python/
 | 1786 | Number of Restricted Paths From First to Last Node | Medium | Graphs, DP | [Solution](./graphs/number-of-restricted-paths-from-first-to-last-node.py) | Not Competent | |
 | 1893 | Check if All the Integers in a Range Are Covered | Easy | Line Sweep | [Solution](./line_sweep/check-if-all-the-integers-in-a-range-are-covered.py) | Not Competent | 2026-08-21 |
 | 1926 | Nearest Exit From Entrance in Maze | Medium | Greedy, BFS | [Solution](./greedy/nearest-exit-from-entrance-in-maze.py) | Competent | |
+| 2008 | Maximum Earnings From Taxi | Medium | Dynamic Programming | [Solution](./dynamic_programming/maximum-earnings-from-taxi.py) | Needs Review | 2026-09-07 |
 | 2024 | Maximize the Confusion of an Exam | Medium | Sliding Window | [Solution](./sliding_window/maximize-the-confusion-of-an-exam.py) | Competent | 2026-09-01 |
 | 2064 | Minimized Maximum of Products Distributed to Any Store | Medium | Binary Search | [Solution](./binary_search/minimized-maximum-of-products-distributed-to-any-store.py) | Competent | |
 | 2251 | Number of Flowers in Full Bloom | Hard | Line Sweep | [Solution](./line_sweep/number-of-flowers-in-full-bloom.py) | Needs Review | |
@@ -129,7 +130,7 @@ leetcode-python/
 | 4012 | Count of Unfinished Tasks After Each Shift | Medium | Prefix Sum, Binary Search | [Solution](./prefix_sum/count-of-unfinished-tasks-after-each-shift.py) | Not Competent | |
 | — | Maximum Area of Two Non-Overlapping Square Submatrices | Medium | Binary Search, DP | [Solution](./binary_search/maximum-area-of-two-non-overlapping-square-submatrices.py) | Not Competent | |
 
-**Stats**: 95 solved | 58 competent | 16 needs review | 21 not competent
+**Stats**: 96 solved | 58 competent | 17 needs review | 21 not competent
 
 ## Problem Solution Pattern
 
