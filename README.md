@@ -96,6 +96,7 @@ leetcode-python/
 | 1042 | Flower Planting With No Adjacent | Medium | Graphs | [Solution](./graphs/flower-planting-with-no-adjacent.py) | Not Competent | |
 | 1048 | Longest String Chain | Medium | Sorting, DP | [Solution](./sorting/longest-string-chain.py) | Competent | |
 | 1061 | Lexicographically Smallest Equivalent String | Medium | Graphs, Union Find | [Solution](./graphs/lexicographically-smallest-equivalent-string.py) | Needs Review | |
+| 1109 | Corporate Flight Bookings | Medium | Prefix Sum | [Solution](./prefix_sum/corporate-flight-bookings.py) | Competent | 2026-09-13 |
 | 1091 | Shortest Path in Binary Matrix | Medium | Graphs, BFS | [Solution](./graphs/shortest-path-in-binary-matrix.py) | Competent | 2026-08-15 |
 | 1143 | Longest Common Subsequence | Medium | Dynamic Programming | [Solution](./dynamic_programming/longest-common-subsequence.py) | Competent | |
 | 1235 | Maximum Profit in Job Scheduling | Hard | Dynamic Programming | [Solution](./dynamic_programming/maximum-profit-in-job-scheduling.py) | Not Competent | 2026-09-07 |
@@ -132,7 +133,7 @@ leetcode-python/
 | 4012 | Count of Unfinished Tasks After Each Shift | Medium | Prefix Sum, Binary Search | [Solution](./prefix_sum/count-of-unfinished-tasks-after-each-shift.py) | Not Competent | |
 | — | Maximum Area of Two Non-Overlapping Square Submatrices | Medium | Binary Search, DP | [Solution](./binary_search/maximum-area-of-two-non-overlapping-square-submatrices.py) | Not Competent | |
 
-**Stats**: 98 solved | 60 competent | 17 needs review | 21 not competent
+**Stats**: 99 solved | 61 competent | 17 needs review | 21 not competent
 
 ## Problem Solution Pattern
 
