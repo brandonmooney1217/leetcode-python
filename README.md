@@ -64,6 +64,7 @@ leetcode-python/
 | 433 | Minimum Genetic Mutation | Medium | Graphs, BFS | [Solution](./graphs/minimum-genetic-mutation.py) | Needs Review | |
 | 516 | Longest Palindromic Subsequence | Medium | Dynamic Programming | [Solution](./dynamic_programming/longest-palindromic-subsequenc.py) | Competent | |
 | 518 | Coin Change II | Medium | Dynamic Programming | [Solution](./dynamic_programming/coin-change-ii.py) | Competent | |
+| 525 | Contiguous Array | Medium | Prefix Sum | [Solution](./prefix_sum/contiguous-array.py) | Competent | 2026-09-13 |
 | 542 | 01 Matrix | Medium | Graphs, BFS | [Solution](./graphs/01-matrix.py) | Competent | |
 | 543 | Diameter of Binary Tree | Easy | Trees | [Solution](./dynamic_programming/diameter-of-binary-tree.py) | Competent | |
 | 547 | Number of Provinces | Medium | Graphs, Union Find | [Solution](./graphs/number-of-provinces.py) | Competent | |
@@ -86,6 +87,7 @@ leetcode-python/
 | 886 | Possible Bipartition | Medium | Graphs, DFS | [Solution](./graphs/possible-bipartition.py) | Not Competent | |
 | 931 | Minimum Falling Path Sum | Medium | Dynamic Programming | [Solution](./dynamic_programming/minimum-falling-path-sum.py) | Competent | |
 | 934 | Shortest Bridge | Medium | Graphs, BFS, DFS | [Solution](./graphs/shortest-bridge.py) | Competent | |
+| 974 | Subarray Sums Divisible by K | Medium | Prefix Sum | [Solution](./prefix_sum/subarray-sums-divisible-by-k.py) | Competent | 2026-09-13 |
 | 979 | Distribute Coins in Binary Tree | Medium | Trees | [Solution](./dynamic_programming/distribute-coins-in-binary-tree.py) | Needs Review | |
 | 990 | Satisfiability of Equality Equations | Medium | Graphs, Union Find | [Solution](./graphs/satisfiability-of-equality-equations.py) | Needs Review | |
 | 997 | Find the Town Judge | Easy | Graphs | [Solution](./graphs/find-the-town-judge.py) | Competent | 2026-08-15 |
@@ -130,7 +132,7 @@ leetcode-python/
 | 4012 | Count of Unfinished Tasks After Each Shift | Medium | Prefix Sum, Binary Search | [Solution](./prefix_sum/count-of-unfinished-tasks-after-each-shift.py) | Not Competent | |
 | — | Maximum Area of Two Non-Overlapping Square Submatrices | Medium | Binary Search, DP | [Solution](./binary_search/maximum-area-of-two-non-overlapping-square-submatrices.py) | Not Competent | |
 
-**Stats**: 96 solved | 58 competent | 17 needs review | 21 not competent
+**Stats**: 98 solved | 60 competent | 17 needs review | 21 not competent
 
 ## Problem Solution Pattern
 
