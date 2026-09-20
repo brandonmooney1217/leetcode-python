@@ -57,7 +57,7 @@ leetcode-python/
 | 309 | Best Time to Buy and Sell Stock with Cooldown | Medium | Dynamic Programming | [Solution](./dynamic_programming/best-time-to-buy-and-sell-stock-with-cooldown.py) | Competent | |
 | 322 | Coin Change | Medium | Dynamic Programming | [Solution](./dynamic_programming/coin-change.py) | Needs Review | 2026-08-19 |
 | 343 | Integer Break | Medium | Dynamic Programming | [Solution](./dynamic_programming/integer-break.py) | Not Competent | 2026-09-07 |
-| 337 | House Robber III | Medium | Dynamic Programming, Trees | [Solution](./dynamic_programming/house-robber-iii.py) | Competent | |
+| 337 | House Robber III | Medium | Dynamic Programming, Trees | [Solution](./dynamic_programming/house-robber-iii.py) | Competent | 2026-09-19 |
 | 338 | Counting Bits | Easy | Bitwise, DP | [Solution](./bitwise/counting-bits.py) | Not Competent | |
 | 377 | Combination Sum IV | Medium | Dynamic Programming | [Solution](./dynamic_programming/combination-sum-iv.py) | Competent | |
 | 410 | Split Array Largest Sum | Hard | Binary Search | [Solution](./binary_search/split-array-largest-sum.py) | Competent | |
