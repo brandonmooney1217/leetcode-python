@@ -104,7 +104,7 @@ leetcode-python/
 | 1254 | Number of Closed Islands | Medium | Graphs, DFS | [Solution](./graphs/number-of-closed-islands.py) | Not Competent | |
 | 1292 | Maximum Side Length of a Square with Sum Less than or Equal to Threshold | Medium | Dynamic Programming | [Solution](./dynamic_programming/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold.py) | Not Competent | 2026-08-19 |
 | 1293 | Shortest Path in a Grid with Obstacles Elimination | Hard | BFS, Graphs | [Solution](./dynamic_programming/shortest-path-in-a-grid-with-obstacles-elimination.py) | Not Competent | |
-| 1306 | Jump Game III | Medium | Graphs, DFS | [Solution](./graphs/jump-game-iii.py) | Competent | |
+| 1306 | Jump Game III | Medium | Graphs, DFS | [Solution](./graphs/jump-game-iii.py) | Not Competent | 2026-09-19 |
 | 1312 | Minimum Insertion Steps to Make a String Palindrome | Hard | Dynamic Programming | [Solution](./dynamic_programming/minimum-insertion-steps-to-make-a-string-palindrome.py) | Competent | |
 | 1372 | Longest ZigZag Path in a Binary Tree | Medium | Trees | [Solution](./dynamic_programming/longest-zigzag-path-in-a-binary-tree.py) | Needs Review | |
 | 1376 | Time Needed to Inform All Employees | Medium | Graphs, BFS | [Solution](./graphs/time-needed-to-inform-all-employees.py) | Competent | |
@@ -134,7 +134,7 @@ leetcode-python/
 | 4012 | Count of Unfinished Tasks After Each Shift | Medium | Prefix Sum, Binary Search | [Solution](./prefix_sum/count-of-unfinished-tasks-after-each-shift.py) | Not Competent | |
 | — | Maximum Area of Two Non-Overlapping Square Submatrices | Medium | Binary Search, DP | [Solution](./binary_search/maximum-area-of-two-non-overlapping-square-submatrices.py) | Not Competent | |
 
-**Stats**: 100 solved | 61 competent | 17 needs review | 22 not competent
+**Stats**: 100 solved | 60 competent | 17 needs review | 23 not competent
 
 ## Problem Solution Pattern
 
