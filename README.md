@@ -37,7 +37,7 @@ leetcode-python/
 | 63 | Unique Paths II | Medium | Dynamic Programming | [Solution](./dynamic_programming/unique-paths-ii.py) | Competent | |
 | 64 | Minimum Path Sum | Medium | Dynamic Programming | [Solution](./dynamic_programming/minimum-path-sum.py) | Competent | |
 | 70 | Climbing Stairs | Easy | Dynamic Programming | [Solution](./dynamic_programming/climbing-stairs.py) | Competent | |
-| 72 | Edit Distance | Hard | Dynamic Programming | [Solution](./dynamic_programming/edit-distance.py) | Competent | |
+| 72 | Edit Distance | Hard | Dynamic Programming | [Solution](./dynamic_programming/edit-distance.py) | Competent | 2026-09-19 |
 | 91 | Decode Ways | Medium | Dynamic Programming | [Solution](./dynamic_programming/decode-ways.py) | Competent | |
 | 97 | Interleaving String | Medium | Dynamic Programming | [Solution](./dynamic_programming/interleaving-string.py) | Competent | |
 | 115 | Distinct Subsequences | Hard | Dynamic Programming | [Solution](./dynamic_programming/distinct-subsequences.py) | Competent | |
