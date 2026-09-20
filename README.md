@@ -97,7 +97,7 @@ leetcode-python/
 | 1042 | Flower Planting With No Adjacent | Medium | Graphs | [Solution](./graphs/flower-planting-with-no-adjacent.py) | Not Competent | |
 | 1048 | Longest String Chain | Medium | Sorting, DP | [Solution](./sorting/longest-string-chain.py) | Competent | |
 | 1061 | Lexicographically Smallest Equivalent String | Medium | Graphs, Union Find | [Solution](./graphs/lexicographically-smallest-equivalent-string.py) | Needs Review | |
-| 1109 | Corporate Flight Bookings | Medium | Prefix Sum | [Solution](./prefix_sum/corporate-flight-bookings.py) | Competent | 2026-09-13 |
+| 1109 | Corporate Flight Bookings | Medium | Prefix Sum | [Solution](./prefix_sum/corporate-flight-bookings.py) | Not Competent | 2026-09-19 |
 | 1091 | Shortest Path in Binary Matrix | Medium | Graphs, BFS | [Solution](./graphs/shortest-path-in-binary-matrix.py) | Competent | 2026-08-15 |
 | 1143 | Longest Common Subsequence | Medium | Dynamic Programming | [Solution](./dynamic_programming/longest-common-subsequence.py) | Competent | |
 | 1235 | Maximum Profit in Job Scheduling | Hard | Dynamic Programming | [Solution](./dynamic_programming/maximum-profit-in-job-scheduling.py) | Not Competent | 2026-09-07 |
@@ -114,6 +114,7 @@ leetcode-python/
 | 1575 | Count All Possible Routes | Medium | Dynamic Programming | [Solution](./dynamic_programming/count-all-possible-routes.py) | Competent | 2026-08-21 |
 | 1615 | Maximal Network Rank | Medium | Graphs | [Solution](./graphs/maximal-network-rank.py) | Needs Review | |
 | 1671 | Minimum Number of Removals to Make Mountain Array | Hard | Dynamic Programming | [Solution](./dynamic_programming/minimum-number-of-removals-to-make-mountain-array.py) | Not Competent | 2026-08-21 |
+| 1654 | Minimum Jumps to Reach Home | Medium | Graphs, BFS | [Solution](./graphs/minimum-jumps-to-reach-home.py) | Not Competent | 2026-09-19 |
 | 1695 | Maximum Erasure Value | Medium | Sliding Window | [Solution](./sliding_window/maximum-erasure-value.py) | Competent | 2026-09-01 |
 | 1751 | Maximum Number of Events That Can Be Attended II | Hard | Dynamic Programming | [Solution](./dynamic_programming/maximum-number-of-events-that-can-be-attended-ii.py) | Not Competent | 2026-09-07 |
 | 1786 | Number of Restricted Paths From First to Last Node | Medium | Graphs, DP | [Solution](./graphs/number-of-restricted-paths-from-first-to-last-node.py) | Not Competent | |
@@ -134,7 +135,7 @@ leetcode-python/
 | 4012 | Count of Unfinished Tasks After Each Shift | Medium | Prefix Sum, Binary Search | [Solution](./prefix_sum/count-of-unfinished-tasks-after-each-shift.py) | Not Competent | |
 | — | Maximum Area of Two Non-Overlapping Square Submatrices | Medium | Binary Search, DP | [Solution](./binary_search/maximum-area-of-two-non-overlapping-square-submatrices.py) | Not Competent | |
 
-**Stats**: 100 solved | 60 competent | 17 needs review | 23 not competent
+**Stats**: 101 solved | 59 competent | 17 needs review | 25 not competent
 
 ## Problem Solution Pattern
 
