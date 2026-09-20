@@ -120,6 +120,7 @@ leetcode-python/
 | 1695 | Maximum Erasure Value | Medium | Sliding Window | [Solution](./sliding_window/maximum-erasure-value.py) | Competent | 2026-09-01 |
 | 1751 | Maximum Number of Events That Can Be Attended II | Hard | Dynamic Programming | [Solution](./dynamic_programming/maximum-number-of-events-that-can-be-attended-ii.py) | Not Competent | 2026-09-07 |
 | 1786 | Number of Restricted Paths From First to Last Node | Medium | Graphs, DP | [Solution](./graphs/number-of-restricted-paths-from-first-to-last-node.py) | Not Competent | |
+| 1871 | Jump Game VII | Medium | Greedy, BFS | [Solution](./greedy/jump-game-vii.py) | Not Competent | 2026-09-19 |
 | 1893 | Check if All the Integers in a Range Are Covered | Easy | Line Sweep | [Solution](./line_sweep/check-if-all-the-integers-in-a-range-are-covered.py) | Not Competent | 2026-08-21 |
 | 1926 | Nearest Exit From Entrance in Maze | Medium | Greedy, BFS | [Solution](./greedy/nearest-exit-from-entrance-in-maze.py) | Competent | |
 | 2008 | Maximum Earnings From Taxi | Medium | Dynamic Programming | [Solution](./dynamic_programming/maximum-earnings-from-taxi.py) | Needs Review | 2026-09-07 |
@@ -137,7 +138,7 @@ leetcode-python/
 | 4012 | Count of Unfinished Tasks After Each Shift | Medium | Prefix Sum, Binary Search | [Solution](./prefix_sum/count-of-unfinished-tasks-after-each-shift.py) | Not Competent | |
 | — | Maximum Area of Two Non-Overlapping Square Submatrices | Medium | Binary Search, DP | [Solution](./binary_search/maximum-area-of-two-non-overlapping-square-submatrices.py) | Not Competent | |
 
-**Stats**: 103 solved | 60 competent | 17 needs review | 26 not competent
+**Stats**: 104 solved | 60 competent | 17 needs review | 27 not competent
 
 ## Problem Solution Pattern
 
