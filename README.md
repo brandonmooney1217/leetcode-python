@@ -43,6 +43,7 @@ leetcode-python/
 | 64 | Minimum Path Sum | Medium | Dynamic Programming | [Solution](./dynamic_programming/minimum-path-sum.py) | Competent | |
 | 70 | Climbing Stairs | Easy | Dynamic Programming | [Solution](./dynamic_programming/climbing-stairs.py) | Competent | |
 | 72 | Edit Distance | Hard | Dynamic Programming | [Solution](./dynamic_programming/edit-distance.py) | Competent | 2026-09-19 |
+| 75 | Sort Colors | Medium | Two Pointer | [Solution](./two_pointer/sort-colors.py) | Not Competent | 2026-10-03 |
 | 91 | Decode Ways | Medium | Dynamic Programming | [Solution](./dynamic_programming/decode-ways.py) | Competent | |
 | 97 | Interleaving String | Medium | Dynamic Programming | [Solution](./dynamic_programming/interleaving-string.py) | Competent | |
 | 115 | Distinct Subsequences | Hard | Dynamic Programming | [Solution](./dynamic_programming/distinct-subsequences.py) | Competent | |
@@ -142,7 +143,7 @@ leetcode-python/
 | 4012 | Count of Unfinished Tasks After Each Shift | Medium | Prefix Sum, Binary Search | [Solution](./prefix_sum/count-of-unfinished-tasks-after-each-shift.py) | Not Competent | |
 | — | Maximum Area of Two Non-Overlapping Square Submatrices | Medium | Binary Search, DP | [Solution](./binary_search/maximum-area-of-two-non-overlapping-square-submatrices.py) | Not Competent | |
 
-**Stats**: 107 solved | 61 competent | 17 needs review | 29 not competent
+**Stats**: 108 solved | 61 competent | 17 needs review | 30 not competent
 
 ## Problem Solution Pattern
 
