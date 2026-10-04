@@ -87,6 +87,7 @@ leetcode-python/
 | 687 | Longest Univalue Path | Medium | Trees | [Solution](./dynamic_programming/longest-univalue-path.py) | Needs Review | 2026-09-14 |
 | 695 | Max Area of Island | Medium | Graphs, DFS | [Solution](./graphs/max-area-of-island.py) | Competent | |
 | 721 | Accounts Merge | Medium | Graphs, Union Find | [Solution](./graphs/accounts-merge.py) | Not Competent | |
+| 739 | Daily Temperatures | Medium | Stack | [Solution](./stack/daily-temperatures.py) | Competent | 2026-10-03 |
 | 743 | Network Delay Time | Medium | Graphs | [Solution](./graphs/network-delay-time.py) | Competent | |
 | 785 | Is Graph Bipartite? | Medium | Graphs, DFS | [Solution](./graphs/is-graph-bipartite.py) | Competent | 2026-08-19 |
 | 787 | Cheapest Flights Within K Stops | Medium | Graphs | [Solution](./graphs/cheapest-flights-within-k-stop.py) | Not Competent | 2026-08-21 |
@@ -151,7 +152,7 @@ leetcode-python/
 | 4012 | Count of Unfinished Tasks After Each Shift | Medium | Prefix Sum, Binary Search | [Solution](./prefix_sum/count-of-unfinished-tasks-after-each-shift.py) | Not Competent | |
 | — | Maximum Area of Two Non-Overlapping Square Submatrices | Medium | Binary Search, DP | [Solution](./binary_search/maximum-area-of-two-non-overlapping-square-submatrices.py) | Not Competent | |
 
-**Stats**: 116 solved | 67 competent | 18 needs review | 31 not competent
+**Stats**: 117 solved | 68 competent | 18 needs review | 31 not competent
 
 ## Problem Solution Pattern
 
