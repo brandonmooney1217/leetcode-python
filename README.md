@@ -115,6 +115,7 @@ leetcode-python/
 | 1312 | Minimum Insertion Steps to Make a String Palindrome | Hard | Dynamic Programming | [Solution](./dynamic_programming/minimum-insertion-steps-to-make-a-string-palindrome.py) | Competent | |
 | 1372 | Longest ZigZag Path in a Binary Tree | Medium | Trees | [Solution](./dynamic_programming/longest-zigzag-path-in-a-binary-tree.py) | Needs Review | |
 | 1376 | Time Needed to Inform All Employees | Medium | Graphs, BFS | [Solution](./graphs/time-needed-to-inform-all-employees.py) | Competent | |
+| 1423 | Maximum Points You Can Obtain from Cards | Medium | Sliding Window | [Solution](./sliding_window/maximum-points-you-can-obtain-from-cards.py) | Competent | 2026-10-03 |
 | 1466 | Reorder Routes to Make All Paths Lead to the City Zero | Medium | Graphs, BFS | [Solution](./graphs/reorder-routes-to-make-all-paths-lead-to-the-city-zero.py) | Needs Review | |
 | 1482 | Minimum Number of Days to Make m Bouquets | Medium | Binary Search | [Solution](./binary_search/minimum-number-of-days-to-make-m-bouquets.py) | Competent | |
 | 1557 | Minimum Number of Vertices to Reach All Nodes | Medium | Graphs | [Solution](./graphs/minimum-number-of-vertices-to-reach-all-nodes.py) | Competent | |
@@ -144,7 +145,7 @@ leetcode-python/
 | 4012 | Count of Unfinished Tasks After Each Shift | Medium | Prefix Sum, Binary Search | [Solution](./prefix_sum/count-of-unfinished-tasks-after-each-shift.py) | Not Competent | |
 | — | Maximum Area of Two Non-Overlapping Square Submatrices | Medium | Binary Search, DP | [Solution](./binary_search/maximum-area-of-two-non-overlapping-square-submatrices.py) | Not Competent | |
 
-**Stats**: 109 solved | 61 competent | 18 needs review | 30 not competent
+**Stats**: 110 solved | 62 competent | 18 needs review | 30 not competent
 
 ## Problem Solution Pattern
 
