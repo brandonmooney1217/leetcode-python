@@ -34,6 +34,7 @@ leetcode-python/
 
 | # | Problem Name | Difficulty | Topic(s) | Solution | Competency | Last Solved |
 |---|--------------|------------|----------|----------|------------|-------------|
+| 3 | Longest Substring Without Repeating Characters | Medium | Sliding Window | [Solution](./sliding_window/longest-substring-without-repeating-characters.py) | Competent | 2026-10-03 |
 | 11 | Container With Most Water | Medium | Two Pointer | [Solution](./two_pointer/container-with-most-water.py) | Not Competent | 2026-10-03 |
 | 15 | 3Sum | Medium | Two Pointer | [Solution](./two_pointer/3sum.py) | Competent | 2026-10-03 |
 | 45 | Jump Game II | Medium | Greedy | [Solution](./greedy/jump-game-ii.py) | Not Competent | 2026-09-19 |
@@ -145,7 +146,7 @@ leetcode-python/
 | 4012 | Count of Unfinished Tasks After Each Shift | Medium | Prefix Sum, Binary Search | [Solution](./prefix_sum/count-of-unfinished-tasks-after-each-shift.py) | Not Competent | |
 | — | Maximum Area of Two Non-Overlapping Square Submatrices | Medium | Binary Search, DP | [Solution](./binary_search/maximum-area-of-two-non-overlapping-square-submatrices.py) | Not Competent | |
 
-**Stats**: 110 solved | 62 competent | 18 needs review | 30 not competent
+**Stats**: 111 solved | 63 competent | 18 needs review | 30 not competent
 
 ## Problem Solution Pattern
 
