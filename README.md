@@ -66,7 +66,7 @@ leetcode-python/
 | 309 | Best Time to Buy and Sell Stock with Cooldown | Medium | Dynamic Programming | [Solution](./dynamic_programming/best-time-to-buy-and-sell-stock-with-cooldown.py) | Competent | |
 | 322 | Coin Change | Medium | Dynamic Programming | [Solution](./dynamic_programming/coin-change.py) | Needs Review | 2026-08-19 |
 | 343 | Integer Break | Medium | Dynamic Programming | [Solution](./dynamic_programming/integer-break.py) | Not Competent | 2026-09-07 |
-| 337 | House Robber III | Medium | Dynamic Programming, Trees | [Solution](./dynamic_programming/house-robber-iii.py) | Competent | 2026-09-19 |
+| 337 | House Robber III | Medium | Dynamic Programming, Trees | [Solution](./dynamic_programming/house-robber-iii.py) | Not Competent | 2026-10-03 |
 | 338 | Counting Bits | Easy | Bitwise, DP | [Solution](./bitwise/counting-bits.py) | Not Competent | |
 | 377 | Combination Sum IV | Medium | Dynamic Programming | [Solution](./dynamic_programming/combination-sum-iv.py) | Competent | |
 | 394 | Decode String | Medium | Stack | [Solution](./stack/decode-string.py) | Not Competent | 2026-10-03 |
@@ -152,7 +152,7 @@ leetcode-python/
 | 4012 | Count of Unfinished Tasks After Each Shift | Medium | Prefix Sum, Binary Search | [Solution](./prefix_sum/count-of-unfinished-tasks-after-each-shift.py) | Not Competent | |
 | — | Maximum Area of Two Non-Overlapping Square Submatrices | Medium | Binary Search, DP | [Solution](./binary_search/maximum-area-of-two-non-overlapping-square-submatrices.py) | Not Competent | |
 
-**Stats**: 117 solved | 68 competent | 18 needs review | 31 not competent
+**Stats**: 117 solved | 67 competent | 18 needs review | 32 not competent
 
 ## Problem Solution Pattern
 

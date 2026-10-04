@@ -9,27 +9,24 @@ class TreeNode:
         self.left = left
         self.right = right
 class Solution:
-    def rob(self, root: Optional[TreeNode]) -> int:
+    def rob(self, root: TreeNode | None) -> int:
         """
-        dp[i][parentRobbed] = state is current node and if parent was robbed
-
-        if parentRobbed, then cannot rob
-
-        if NOT parentRobbed
-            - we can rob
-            - can skip
-            return mx of two above
+        need to find max rob
+        cannot rob 2 adjacent nodes
+        organized into binary tree
+            node - has child nodes
         """
         @cache
-        def f(node, p_robbed):
+        def f(node, canRob):
             if not node:
                 return 0
 
-            if p_robbed == 0:
-                rob = f(node.left, 1) + f(node.right, 1) + node.val
-                skip = f(node.left, 0) + f(node.right, 0)
-                return max(rob, skip)
+            skip, take = 0, 0
 
-            else:
-                return f(node.left, 0) + f(node.right, 0)
-        return f(root, 0)
+            if canRob:
+                take = f(node.left, False) + f(node.right, False) + node.val
+
+            skip = f(node.left, True) + f(node.right, True)
+
+            return max(skip, take)
+        return f(root, True)
