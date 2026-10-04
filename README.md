@@ -35,6 +35,7 @@ leetcode-python/
 | # | Problem Name | Difficulty | Topic(s) | Solution | Competency | Last Solved |
 |---|--------------|------------|----------|----------|------------|-------------|
 | 11 | Container With Most Water | Medium | Two Pointer | [Solution](./two_pointer/container-with-most-water.py) | Not Competent | 2026-10-03 |
+| 15 | 3Sum | Medium | Two Pointer | [Solution](./two_pointer/3sum.py) | Competent | 2026-10-03 |
 | 45 | Jump Game II | Medium | Greedy | [Solution](./greedy/jump-game-ii.py) | Not Competent | 2026-09-19 |
 | 55 | Jump Game | Medium | Greedy | [Solution](./greedy/jump-game.py) | Competent | 2026-09-19 |
 | 62 | Unique Paths | Medium | Dynamic Programming | [Solution](./dynamic_programming/unique-paths.py) | Competent | |
@@ -140,7 +141,7 @@ leetcode-python/
 | 4012 | Count of Unfinished Tasks After Each Shift | Medium | Prefix Sum, Binary Search | [Solution](./prefix_sum/count-of-unfinished-tasks-after-each-shift.py) | Not Competent | |
 | — | Maximum Area of Two Non-Overlapping Square Submatrices | Medium | Binary Search, DP | [Solution](./binary_search/maximum-area-of-two-non-overlapping-square-submatrices.py) | Not Competent | |
 
-**Stats**: 105 solved | 60 competent | 17 needs review | 28 not competent
+**Stats**: 106 solved | 61 competent | 17 needs review | 28 not competent
 
 ## Problem Solution Pattern
 
