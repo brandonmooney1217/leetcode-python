@@ -54,6 +54,7 @@ leetcode-python/
 | 122 | Best Time to Buy and Sell Stock II | Medium | Dynamic Programming | [Solution](./dynamic_programming/best-time-to-buy-and-sell-stock-ii.py) | Competent | |
 | 124 | Binary Tree Maximum Path Sum | Hard | Trees, DP | [Solution](./dynamic_programming/binary-tree-maximum-path-sum.py) | Competent | |
 | 127 | Word Ladder | Hard | Graphs, BFS | [Solution](./graphs/word-ladder.py) | Needs Review | |
+| 141 | Linked List Cycle | Easy | Linked Lists | [Solution](./linked_lists/linked-list-cycle.py) | Competent | 2026-10-03 |
 | 191 | Number of 1 Bits | Easy | Bitwise | [Solution](./bitwise/number-of-1-bits.py) | Needs Review | |
 | 198 | House Robber | Medium | Dynamic Programming | [Solution](./dynamic_programming/house-robber.py) | Competent | |
 | 200 | Number of Islands | Medium | Graphs, DFS | [Solution](./graphs/number-of-islands.py) | Competent | |
@@ -152,7 +153,7 @@ leetcode-python/
 | 4012 | Count of Unfinished Tasks After Each Shift | Medium | Prefix Sum, Binary Search | [Solution](./prefix_sum/count-of-unfinished-tasks-after-each-shift.py) | Not Competent | |
 | — | Maximum Area of Two Non-Overlapping Square Submatrices | Medium | Binary Search, DP | [Solution](./binary_search/maximum-area-of-two-non-overlapping-square-submatrices.py) | Not Competent | |
 
-**Stats**: 117 solved | 67 competent | 18 needs review | 32 not competent
+**Stats**: 118 solved | 68 competent | 18 needs review | 32 not competent
 
 ## Problem Solution Pattern
 
