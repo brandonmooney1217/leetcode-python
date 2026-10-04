@@ -26,13 +26,15 @@ leetcode-python/
 ├── intervals/           # Interval problems
 ├── prefix_sum/          # Prefix sum problems
 ├── line_sweep/          # Line sweep problems
-└── sliding_window/      # Sliding window problems
+├── sliding_window/      # Sliding window problems
+└── two_pointer/         # Two pointer problems
 ```
 
 ## Progress Tracking
 
 | # | Problem Name | Difficulty | Topic(s) | Solution | Competency | Last Solved |
 |---|--------------|------------|----------|----------|------------|-------------|
+| 11 | Container With Most Water | Medium | Two Pointer | [Solution](./two_pointer/container-with-most-water.py) | Not Competent | 2026-10-03 |
 | 45 | Jump Game II | Medium | Greedy | [Solution](./greedy/jump-game-ii.py) | Not Competent | 2026-09-19 |
 | 55 | Jump Game | Medium | Greedy | [Solution](./greedy/jump-game.py) | Competent | 2026-09-19 |
 | 62 | Unique Paths | Medium | Dynamic Programming | [Solution](./dynamic_programming/unique-paths.py) | Competent | |
@@ -138,7 +140,7 @@ leetcode-python/
 | 4012 | Count of Unfinished Tasks After Each Shift | Medium | Prefix Sum, Binary Search | [Solution](./prefix_sum/count-of-unfinished-tasks-after-each-shift.py) | Not Competent | |
 | — | Maximum Area of Two Non-Overlapping Square Submatrices | Medium | Binary Search, DP | [Solution](./binary_search/maximum-area-of-two-non-overlapping-square-submatrices.py) | Not Competent | |
 
-**Stats**: 104 solved | 60 competent | 17 needs review | 27 not competent
+**Stats**: 105 solved | 60 competent | 17 needs review | 28 not competent
 
 ## Problem Solution Pattern
 
