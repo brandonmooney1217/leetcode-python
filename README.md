@@ -50,6 +50,7 @@ leetcode-python/
 | 70 | Climbing Stairs | Easy | Dynamic Programming | [Solution](./dynamic_programming/climbing-stairs.py) | Competent | |
 | 72 | Edit Distance | Hard | Dynamic Programming | [Solution](./dynamic_programming/edit-distance.py) | Competent | 2026-09-19 |
 | 75 | Sort Colors | Medium | Two Pointer | [Solution](./two_pointer/sort-colors.py) | Not Competent | 2026-10-03 |
+| 79 | Word Search | Medium | Backtracking | [Solution](./backtracking/word-search.py) | Competent | 2026-10-05 |
 | 91 | Decode Ways | Medium | Dynamic Programming | [Solution](./dynamic_programming/decode-ways.py) | Competent | |
 | 97 | Interleaving String | Medium | Dynamic Programming | [Solution](./dynamic_programming/interleaving-string.py) | Competent | |
 | 113 | Path Sum II | Medium | Backtracking, Trees | [Solution](./backtracking/path-sum-ii.py) | Not Competent | 2026-10-05 |
@@ -160,7 +161,7 @@ leetcode-python/
 | 4012 | Count of Unfinished Tasks After Each Shift | Medium | Prefix Sum, Binary Search | [Solution](./prefix_sum/count-of-unfinished-tasks-after-each-shift.py) | Not Competent | |
 | — | Maximum Area of Two Non-Overlapping Square Submatrices | Medium | Binary Search, DP | [Solution](./binary_search/maximum-area-of-two-non-overlapping-square-submatrices.py) | Not Competent | |
 
-**Stats**: 123 solved | 69 competent | 18 needs review | 36 not competent
+**Stats**: 124 solved | 70 competent | 18 needs review | 36 not competent
 
 ## Problem Solution Pattern
 
