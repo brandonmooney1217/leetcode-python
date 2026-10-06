@@ -20,6 +20,7 @@ leetcode-python/
 ├── bitwise/             # Bit manipulation problems
 ├── math/                # Mathematical problems
 ├── hash_table/          # Hash table problems
+├── heap/                # Heap/priority queue problems
 ├── stack/               # Stack problems
 ├── queue/               # Queue problems
 ├── greedy/              # Greedy algorithms
@@ -103,6 +104,7 @@ leetcode-python/
 | 886 | Possible Bipartition | Medium | Graphs, DFS | [Solution](./graphs/possible-bipartition.py) | Not Competent | |
 | 931 | Minimum Falling Path Sum | Medium | Dynamic Programming | [Solution](./dynamic_programming/minimum-falling-path-sum.py) | Competent | |
 | 934 | Shortest Bridge | Medium | Graphs, BFS, DFS | [Solution](./graphs/shortest-bridge.py) | Competent | |
+| 973 | K Closest Points to Origin | Medium | Heap | [Solution](./heap/k-closest-points-to-origin.py) | Competent | 2026-10-05 |
 | 974 | Subarray Sums Divisible by K | Medium | Prefix Sum | [Solution](./prefix_sum/subarray-sums-divisible-by-k.py) | Competent | 2026-09-13 |
 | 979 | Distribute Coins in Binary Tree | Medium | Trees | [Solution](./dynamic_programming/distribute-coins-in-binary-tree.py) | Needs Review | |
 | 990 | Satisfiability of Equality Equations | Medium | Graphs, Union Find | [Solution](./graphs/satisfiability-of-equality-equations.py) | Needs Review | |
@@ -154,7 +156,7 @@ leetcode-python/
 | 4012 | Count of Unfinished Tasks After Each Shift | Medium | Prefix Sum, Binary Search | [Solution](./prefix_sum/count-of-unfinished-tasks-after-each-shift.py) | Not Competent | |
 | — | Maximum Area of Two Non-Overlapping Square Submatrices | Medium | Binary Search, DP | [Solution](./binary_search/maximum-area-of-two-non-overlapping-square-submatrices.py) | Not Competent | |
 
-**Stats**: 119 solved | 68 competent | 18 needs review | 33 not competent
+**Stats**: 120 solved | 69 competent | 18 needs review | 33 not competent
 
 ## Problem Solution Pattern
 
