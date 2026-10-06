@@ -40,6 +40,7 @@ leetcode-python/
 | 11 | Container With Most Water | Medium | Two Pointer | [Solution](./two_pointer/container-with-most-water.py) | Not Competent | 2026-10-03 |
 | 15 | 3Sum | Medium | Two Pointer | [Solution](./two_pointer/3sum.py) | Competent | 2026-10-03 |
 | 20 | Valid Parentheses | Easy | Stack | [Solution](./stack/valid-parentheses.py) | Competent | 2026-10-03 |
+| 22 | Generate Parentheses | Medium | Backtracking | [Solution](./backtracking/generate-parentheses.py) | Competent | 2026-10-05 |
 | 23 | Merge K Sorted Lists | Hard | Heap, Linked Lists | [Solution](./heap/merge-k-sorted-lists.py) | Not Competent | 2026-10-05 |
 | 45 | Jump Game II | Medium | Greedy | [Solution](./greedy/jump-game-ii.py) | Not Competent | 2026-09-19 |
 | 55 | Jump Game | Medium | Greedy | [Solution](./greedy/jump-game.py) | Competent | 2026-09-19 |
@@ -161,7 +162,7 @@ leetcode-python/
 | 4012 | Count of Unfinished Tasks After Each Shift | Medium | Prefix Sum, Binary Search | [Solution](./prefix_sum/count-of-unfinished-tasks-after-each-shift.py) | Not Competent | |
 | — | Maximum Area of Two Non-Overlapping Square Submatrices | Medium | Binary Search, DP | [Solution](./binary_search/maximum-area-of-two-non-overlapping-square-submatrices.py) | Not Competent | |
 
-**Stats**: 124 solved | 70 competent | 18 needs review | 36 not competent
+**Stats**: 125 solved | 71 competent | 18 needs review | 36 not competent
 
 ## Problem Solution Pattern
 
