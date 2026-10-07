@@ -66,7 +66,7 @@ leetcode-python/
 | 191 | Number of 1 Bits | Easy | Bitwise | [Solution](./bitwise/number-of-1-bits.py) | Needs Review | |
 | 198 | House Robber | Medium | Dynamic Programming | [Solution](./dynamic_programming/house-robber.py) | Competent | |
 | 200 | Number of Islands | Medium | Graphs, DFS | [Solution](./graphs/number-of-islands.py) | Competent | 2026-10-05 |
-| 207 | Course Schedule | Medium | Graphs, Topological Sort | [Solution](./graphs/course-schedule.py) | Competent | |
+| 207 | Course Schedule | Medium | Graphs, Topological Sort | [Solution](./graphs/course-schedule.py) | Competent | 2026-10-05 |
 | 209 | Minimum Size Subarray Sum | Medium | Prefix Sum, Binary Search | [Solution](./prefix_sum/minimum-size-subarray-sum.py) | Needs Review | |
 | 221 | Maximal Square | Medium | Dynamic Programming | [Solution](./dynamic_programming/maximal-square.py) | Competent | |
 | 231 | Power of Two | Easy | Bitwise | [Solution](./bitwise/power-of-two.py) | Not Competent | |
