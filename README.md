@@ -46,7 +46,7 @@ leetcode-python/
 | 45 | Jump Game II | Medium | Greedy | [Solution](./greedy/jump-game-ii.py) | Not Competent | 2026-09-19 |
 | 55 | Jump Game | Medium | Greedy | [Solution](./greedy/jump-game.py) | Competent | 2026-09-19 |
 | 57 | Insert Interval | Medium | Intervals | [Solution](./intervals/insert-interval.py) | Competent | 2026-10-03 |
-| 62 | Unique Paths | Medium | Dynamic Programming | [Solution](./dynamic_programming/unique-paths.py) | Competent | |
+| 62 | Unique Paths | Medium | Dynamic Programming | [Solution](./dynamic_programming/unique-paths.py) | Competent | 2026-10-05 |
 | 63 | Unique Paths II | Medium | Dynamic Programming | [Solution](./dynamic_programming/unique-paths-ii.py) | Competent | |
 | 64 | Minimum Path Sum | Medium | Dynamic Programming | [Solution](./dynamic_programming/minimum-path-sum.py) | Competent | |
 | 70 | Climbing Stairs | Easy | Dynamic Programming | [Solution](./dynamic_programming/climbing-stairs.py) | Competent | |
