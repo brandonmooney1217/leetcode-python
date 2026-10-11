@@ -62,6 +62,7 @@ leetcode-python/
 | 124 | Binary Tree Maximum Path Sum | Hard | Trees, DP | [Solution](./dynamic_programming/binary-tree-maximum-path-sum.py) | Competent | |
 | 127 | Word Ladder | Hard | Graphs, BFS | [Solution](./graphs/word-ladder.py) | Needs Review | |
 | 131 | Palindrome Partitioning | Medium | Backtracking | [Solution](./backtracking/palindrome-partitioning.py) | Competent | 2026-10-05 |
+| 139 | Word Break | Medium | Dynamic Programming | [Solution](./dynamic_programming/word-break.py) | Competent | 2026-10-11 |
 | 141 | Linked List Cycle | Easy | Linked Lists | [Solution](./linked_lists/linked-list-cycle.py) | Competent | 2026-10-03 |
 | 191 | Number of 1 Bits | Easy | Bitwise | [Solution](./bitwise/number-of-1-bits.py) | Needs Review | |
 | 198 | House Robber | Medium | Dynamic Programming | [Solution](./dynamic_programming/house-robber.py) | Competent | |
@@ -164,7 +165,7 @@ leetcode-python/
 | 4012 | Count of Unfinished Tasks After Each Shift | Medium | Prefix Sum, Binary Search | [Solution](./prefix_sum/count-of-unfinished-tasks-after-each-shift.py) | Not Competent | |
 | — | Maximum Area of Two Non-Overlapping Square Submatrices | Medium | Binary Search, DP | [Solution](./binary_search/maximum-area-of-two-non-overlapping-square-submatrices.py) | Not Competent | |
 
-**Stats**: 127 solved | 72 competent | 20 needs review | 35 not competent
+**Stats**: 128 solved | 73 competent | 20 needs review | 35 not competent
 
 ## Problem Solution Pattern
 
