@@ -68,7 +68,7 @@ leetcode-python/
 | 200 | Number of Islands | Medium | Graphs, DFS | [Solution](./graphs/number-of-islands.py) | Competent | 2026-10-05 |
 | 207 | Course Schedule | Medium | Graphs, Topological Sort | [Solution](./graphs/course-schedule.py) | Competent | 2026-10-05 |
 | 209 | Minimum Size Subarray Sum | Medium | Prefix Sum, Binary Search | [Solution](./prefix_sum/minimum-size-subarray-sum.py) | Needs Review | |
-| 221 | Maximal Square | Medium | Dynamic Programming | [Solution](./dynamic_programming/maximal-square.py) | Competent | |
+| 221 | Maximal Square | Medium | Dynamic Programming | [Solution](./dynamic_programming/maximal-square.py) | Competent | 2026-10-11 |
 | 231 | Power of Two | Easy | Bitwise | [Solution](./bitwise/power-of-two.py) | Not Competent | |
 | 234 | Palindrome Linked List | Easy | Linked Lists | [Solution](./linked_lists/palindrome-linked-list.py) | Not Competent | 2026-10-03 |
 | 283 | Move Zeroes | Easy | Two Pointer | [Solution](./two_pointer/move-zeroes.py) | Not Competent | 2026-10-03 |
