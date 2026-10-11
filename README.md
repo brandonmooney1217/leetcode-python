@@ -43,7 +43,7 @@ leetcode-python/
 | 22 | Generate Parentheses | Medium | Backtracking | [Solution](./backtracking/generate-parentheses.py) | Competent | 2026-10-05 |
 | 23 | Merge K Sorted Lists | Hard | Heap, Linked Lists | [Solution](./heap/merge-k-sorted-lists.py) | Not Competent | 2026-10-05 |
 | 39 | Combination Sum | Medium | Backtracking | [Solution](./backtracking/combination-sum.py) | Competent | 2026-10-05 |
-| 45 | Jump Game II | Medium | Greedy | [Solution](./greedy/jump-game-ii.py) | Not Competent | 2026-09-19 |
+| 45 | Jump Game II | Medium | Greedy | [Solution](./greedy/jump-game-ii.py) | Competent | 2026-10-11 |
 | 55 | Jump Game | Medium | Greedy | [Solution](./greedy/jump-game.py) | Competent | 2026-09-19 |
 | 57 | Insert Interval | Medium | Intervals | [Solution](./intervals/insert-interval.py) | Competent | 2026-10-03 |
 | 62 | Unique Paths | Medium | Dynamic Programming | [Solution](./dynamic_programming/unique-paths.py) | Competent | 2026-10-05 |
@@ -165,7 +165,7 @@ leetcode-python/
 | 4012 | Count of Unfinished Tasks After Each Shift | Medium | Prefix Sum, Binary Search | [Solution](./prefix_sum/count-of-unfinished-tasks-after-each-shift.py) | Not Competent | |
 | — | Maximum Area of Two Non-Overlapping Square Submatrices | Medium | Binary Search, DP | [Solution](./binary_search/maximum-area-of-two-non-overlapping-square-submatrices.py) | Not Competent | |
 
-**Stats**: 128 solved | 73 competent | 20 needs review | 35 not competent
+**Stats**: 128 solved | 74 competent | 20 needs review | 34 not competent
 
 ## Problem Solution Pattern
 
