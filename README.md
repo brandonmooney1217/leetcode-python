@@ -65,6 +65,7 @@ leetcode-python/
 | 139 | Word Break | Medium | Dynamic Programming | [Solution](./dynamic_programming/word-break.py) | Competent | 2026-10-11 |
 | 141 | Linked List Cycle | Easy | Linked Lists | [Solution](./linked_lists/linked-list-cycle.py) | Competent | 2026-10-03 |
 | 146 | LRU Cache | Medium | Design | [Solution](./design/lru-cache.py) | Not Competent | 2026-10-11 |
+| 155 | Min Stack | Medium | Design | [Solution](./design/min-stack.py) | Competent | 2026-10-11 |
 | 191 | Number of 1 Bits | Easy | Bitwise | [Solution](./bitwise/number-of-1-bits.py) | Needs Review | |
 | 198 | House Robber | Medium | Dynamic Programming | [Solution](./dynamic_programming/house-robber.py) | Competent | |
 | 200 | Number of Islands | Medium | Graphs, DFS | [Solution](./graphs/number-of-islands.py) | Competent | 2026-10-05 |
@@ -167,7 +168,7 @@ leetcode-python/
 | 4012 | Count of Unfinished Tasks After Each Shift | Medium | Prefix Sum, Binary Search | [Solution](./prefix_sum/count-of-unfinished-tasks-after-each-shift.py) | Not Competent | |
 | — | Maximum Area of Two Non-Overlapping Square Submatrices | Medium | Binary Search, DP | [Solution](./binary_search/maximum-area-of-two-non-overlapping-square-submatrices.py) | Not Competent | |
 
-**Stats**: 130 solved | 75 competent | 20 needs review | 35 not competent
+**Stats**: 131 solved | 76 competent | 20 needs review | 35 not competent
 
 ## Problem Solution Pattern
 
