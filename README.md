@@ -84,6 +84,7 @@ leetcode-python/
 | 338 | Counting Bits | Easy | Bitwise, DP | [Solution](./bitwise/counting-bits.py) | Not Competent | |
 | 377 | Combination Sum IV | Medium | Dynamic Programming | [Solution](./dynamic_programming/combination-sum-iv.py) | Competent | |
 | 380 | Insert Delete GetRandom O(1) | Medium | Design | [Solution](./design/insert-delete-getrandom-o1.py) | Not Competent | 2026-10-11 |
+| 384 | Shuffle an Array | Medium | Design | [Solution](./design/shuffle-an-array.py) | Not Competent | 2026-10-11 |
 | 394 | Decode String | Medium | Stack | [Solution](./stack/decode-string.py) | Not Competent | 2026-10-03 |
 | 410 | Split Array Largest Sum | Hard | Binary Search | [Solution](./binary_search/split-array-largest-sum.py) | Competent | |
 | 416 | Partition Equal Subset Sum | Medium | Dynamic Programming | [Solution](./dynamic_programming/partition-equal-subset-sum.py) | Competent | |
@@ -169,7 +170,7 @@ leetcode-python/
 | 4012 | Count of Unfinished Tasks After Each Shift | Medium | Prefix Sum, Binary Search | [Solution](./prefix_sum/count-of-unfinished-tasks-after-each-shift.py) | Not Competent | |
 | — | Maximum Area of Two Non-Overlapping Square Submatrices | Medium | Binary Search, DP | [Solution](./binary_search/maximum-area-of-two-non-overlapping-square-submatrices.py) | Not Competent | |
 
-**Stats**: 132 solved | 76 competent | 20 needs review | 36 not competent
+**Stats**: 133 solved | 76 competent | 20 needs review | 37 not competent
 
 ## Problem Solution Pattern
 
