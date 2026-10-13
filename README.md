@@ -103,7 +103,7 @@ leetcode-python/
 | 684 | Redundant Connection | Medium | Graphs, Union Find | [Solution](./graphs/redundant-connection.py) | Competent | |
 | 687 | Longest Univalue Path | Medium | Trees | [Solution](./dynamic_programming/longest-univalue-path.py) | Needs Review | 2026-09-14 |
 | 695 | Max Area of Island | Medium | Graphs, DFS | [Solution](./graphs/max-area-of-island.py) | Competent | |
-| 721 | Accounts Merge | Medium | Graphs, Union Find | [Solution](./graphs/accounts-merge.py) | Not Competent | |
+| 721 | Accounts Merge | Medium | Graphs, Union Find | [Solution](./graphs/accounts-merge.py) | Not Competent | 2026-10-12 |
 | 739 | Daily Temperatures | Medium | Stack | [Solution](./stack/daily-temperatures.py) | Competent | 2026-10-03 |
 | 743 | Network Delay Time | Medium | Graphs | [Solution](./graphs/network-delay-time.py) | Competent | 2026-10-05 |
 | 785 | Is Graph Bipartite? | Medium | Graphs, DFS | [Solution](./graphs/is-graph-bipartite.py) | Competent | 2026-08-19 |
