@@ -107,7 +107,7 @@ leetcode-python/
 | 739 | Daily Temperatures | Medium | Stack | [Solution](./stack/daily-temperatures.py) | Competent | 2026-10-03 |
 | 743 | Network Delay Time | Medium | Graphs | [Solution](./graphs/network-delay-time.py) | Competent | 2026-10-05 |
 | 785 | Is Graph Bipartite? | Medium | Graphs, DFS | [Solution](./graphs/is-graph-bipartite.py) | Competent | 2026-08-19 |
-| 787 | Cheapest Flights Within K Stops | Medium | Graphs | [Solution](./graphs/cheapest-flights-within-k-stop.py) | Needs Review | 2026-10-05 |
+| 787 | Cheapest Flights Within K Stops | Medium | Graphs | [Solution](./graphs/cheapest-flights-within-k-stop.py) | Needs Review | 2026-10-12 |
 | 797 | All Paths From Source to Target | Medium | Backtracking | [Solution](./backtracking/all-paths-from-source-to-targe.py) | Needs Review | |
 | 802 | Find Eventual Safe States | Medium | Graphs, Topological Sort | [Solution](./graphs/find-eventual-safe-states.py) | Competent | |
 | 839 | Similar String Groups | Hard | Graphs, Union Find | [Solution](./graphs/similar-string-groups.py) | Needs Review | |
