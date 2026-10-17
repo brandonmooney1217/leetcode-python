@@ -98,7 +98,7 @@ leetcode-python/
 | 547 | Number of Provinces | Medium | Graphs, Union Find | [Solution](./graphs/number-of-provinces.py) | Competent | |
 | 560 | Subarray Sum Equals K | Medium | Prefix Sum | [Solution](./prefix_sum/subarray-sum-equals-k.py) | Competent | 2026-10-11 |
 | 646 | Maximum Length of Pair Chain | Medium | Sorting, Greedy | [Solution](./sorting/maximum-length-of-pair-chain.py) | Competent | |
-| 647 | Palindromic Substrings | Medium | Dynamic Programming | [Solution](./dynamic_programming/palindromic-substrings.py) | Competent | |
+| 647 | Palindromic Substrings | Medium | Dynamic Programming | [Solution](./dynamic_programming/palindromic-substrings.py) | Needs Review | 2026-10-16 |
 | 673 | Number of Longest Increasing Subsequence | Medium | Sorting, DP | [Solution](./sorting/number-of-longest-increasing-subsequence.py) | Competent | |
 | 684 | Redundant Connection | Medium | Graphs, Union Find | [Solution](./graphs/redundant-connection.py) | Competent | |
 | 687 | Longest Univalue Path | Medium | Trees | [Solution](./dynamic_programming/longest-univalue-path.py) | Needs Review | 2026-09-14 |
