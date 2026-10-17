@@ -37,7 +37,7 @@ leetcode-python/
 | # | Problem Name | Difficulty | Topic(s) | Solution | Competency | Last Solved |
 |---|--------------|------------|----------|----------|------------|-------------|
 | 3 | Longest Substring Without Repeating Characters | Medium | Sliding Window | [Solution](./sliding_window/longest-substring-without-repeating-characters.py) | Competent | 2026-10-03 |
-| 11 | Container With Most Water | Medium | Two Pointer | [Solution](./two_pointer/container-with-most-water.py) | Not Competent | 2026-10-03 |
+| 11 | Container With Most Water | Medium | Two Pointer | [Solution](./two_pointer/container-with-most-water.py) | Competent | 2026-10-16 |
 | 15 | 3Sum | Medium | Two Pointer | [Solution](./two_pointer/3sum.py) | Competent | 2026-10-03 |
 | 20 | Valid Parentheses | Easy | Stack | [Solution](./stack/valid-parentheses.py) | Competent | 2026-10-03 |
 | 22 | Generate Parentheses | Medium | Backtracking | [Solution](./backtracking/generate-parentheses.py) | Competent | 2026-10-05 |
@@ -170,7 +170,7 @@ leetcode-python/
 | 4012 | Count of Unfinished Tasks After Each Shift | Medium | Prefix Sum, Binary Search | [Solution](./prefix_sum/count-of-unfinished-tasks-after-each-shift.py) | Not Competent | |
 | — | Maximum Area of Two Non-Overlapping Square Submatrices | Medium | Binary Search, DP | [Solution](./binary_search/maximum-area-of-two-non-overlapping-square-submatrices.py) | Not Competent | |
 
-**Stats**: 133 solved | 75 competent | 21 needs review | 37 not competent
+**Stats**: 133 solved | 76 competent | 21 needs review | 36 not competent
 
 ## Problem Solution Pattern
 

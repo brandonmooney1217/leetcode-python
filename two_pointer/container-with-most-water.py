@@ -1,4 +1,5 @@
 # LeetCode #11 (Medium): https://leetcode.com/problems/container-with-most-water/
+# Status: competent
 
 class Solution:
     def maxArea(self, height: list[int]) -> int:
