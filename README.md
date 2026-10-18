@@ -113,7 +113,7 @@ leetcode-python/
 | 839 | Similar String Groups | Hard | Graphs, Union Find | [Solution](./graphs/similar-string-groups.py) | Needs Review | |
 | 841 | Keys and Rooms | Medium | Graphs, BFS | [Solution](./graphs/keys-and-rooms.py) | Competent | 2026-08-15 |
 | 856 | Score of Parentheses | Medium | Stack | [Solution](./stack/score-of-parentheses.py) | Competent | 2026-10-03 |
-| 864 | Shortest Path to Get All Keys | Hard | Graphs, BFS | [Solution](./graphs/shortest-path-to-get-all-keys.py) | Not Competent | |
+| 864 | Shortest Path to Get All Keys | Hard | Graphs, BFS | [Solution](./graphs/shortest-path-to-get-all-keys.py) | Needs Review | 2026-10-18 |
 | 875 | Koko Eating Bananas | Medium | Binary Search | [Solution](./binary_search/koko-eating-bananas.py) | Competent | 2026-10-03 |
 | 886 | Possible Bipartition | Medium | Graphs, DFS | [Solution](./graphs/possible-bipartition.py) | Not Competent | |
 | 931 | Minimum Falling Path Sum | Medium | Dynamic Programming | [Solution](./dynamic_programming/minimum-falling-path-sum.py) | Competent | |
@@ -170,7 +170,7 @@ leetcode-python/
 | 4012 | Count of Unfinished Tasks After Each Shift | Medium | Prefix Sum, Binary Search | [Solution](./prefix_sum/count-of-unfinished-tasks-after-each-shift.py) | Not Competent | |
 | — | Maximum Area of Two Non-Overlapping Square Submatrices | Medium | Binary Search, DP | [Solution](./binary_search/maximum-area-of-two-non-overlapping-square-submatrices.py) | Not Competent | |
 
-**Stats**: 133 solved | 76 competent | 21 needs review | 36 not competent
+**Stats**: 133 solved | 76 competent | 22 needs review | 35 not competent
 
 ## Problem Solution Pattern
 
