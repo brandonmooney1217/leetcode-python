@@ -145,7 +145,7 @@ leetcode-python/
 | 1482 | Minimum Number of Days to Make m Bouquets | Medium | Binary Search | [Solution](./binary_search/minimum-number-of-days-to-make-m-bouquets.py) | Competent | |
 | 1557 | Minimum Number of Vertices to Reach All Nodes | Medium | Graphs | [Solution](./graphs/minimum-number-of-vertices-to-reach-all-nodes.py) | Competent | |
 | 1575 | Count All Possible Routes | Medium | Dynamic Programming | [Solution](./dynamic_programming/count-all-possible-routes.py) | Competent | 2026-08-21 |
-| 1615 | Maximal Network Rank | Medium | Graphs | [Solution](./graphs/maximal-network-rank.py) | Needs Review | |
+| 1615 | Maximal Network Rank | Medium | Graphs | [Solution](./graphs/maximal-network-rank.py) | Competent | 2026-10-18 |
 | 1671 | Minimum Number of Removals to Make Mountain Array | Hard | Dynamic Programming | [Solution](./dynamic_programming/minimum-number-of-removals-to-make-mountain-array.py) | Not Competent | 2026-08-21 |
 | 1654 | Minimum Jumps to Reach Home | Medium | Graphs, BFS | [Solution](./graphs/minimum-jumps-to-reach-home.py) | Not Competent | 2026-09-19 |
 | 1695 | Maximum Erasure Value | Medium | Sliding Window | [Solution](./sliding_window/maximum-erasure-value.py) | Competent | 2026-09-01 |
@@ -170,7 +170,7 @@ leetcode-python/
 | 4012 | Count of Unfinished Tasks After Each Shift | Medium | Prefix Sum, Binary Search | [Solution](./prefix_sum/count-of-unfinished-tasks-after-each-shift.py) | Not Competent | |
 | — | Maximum Area of Two Non-Overlapping Square Submatrices | Medium | Binary Search, DP | [Solution](./binary_search/maximum-area-of-two-non-overlapping-square-submatrices.py) | Not Competent | |
 
-**Stats**: 133 solved | 77 competent | 23 needs review | 33 not competent
+**Stats**: 133 solved | 78 competent | 22 needs review | 33 not competent
 
 ## Problem Solution Pattern
 
