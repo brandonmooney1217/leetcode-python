@@ -149,6 +149,7 @@ leetcode-python/
 | 1615 | Maximal Network Rank | Medium | Graphs | [Solution](./graphs/maximal-network-rank.py) | Competent | 2026-10-18 |
 | 1671 | Minimum Number of Removals to Make Mountain Array | Hard | Dynamic Programming | [Solution](./dynamic_programming/minimum-number-of-removals-to-make-mountain-array.py) | Not Competent | 2026-08-21 |
 | 1654 | Minimum Jumps to Reach Home | Medium | Graphs, BFS | [Solution](./graphs/minimum-jumps-to-reach-home.py) | Not Competent | 2026-09-19 |
+| 1665 | Minimum Initial Energy to Finish Tasks | Medium | Greedy | [Solution](./greedy/minimum-initial-energy-to-finish-tasks.py) | Competent | 2026-10-18 |
 | 1695 | Maximum Erasure Value | Medium | Sliding Window | [Solution](./sliding_window/maximum-erasure-value.py) | Competent | 2026-09-01 |
 | 1751 | Maximum Number of Events That Can Be Attended II | Hard | Dynamic Programming | [Solution](./dynamic_programming/maximum-number-of-events-that-can-be-attended-ii.py) | Not Competent | 2026-09-07 |
 | 1786 | Number of Restricted Paths From First to Last Node | Medium | Graphs, DP | [Solution](./graphs/number-of-restricted-paths-from-first-to-last-node.py) | Not Competent | |
@@ -171,7 +172,7 @@ leetcode-python/
 | 4012 | Count of Unfinished Tasks After Each Shift | Medium | Prefix Sum, Binary Search | [Solution](./prefix_sum/count-of-unfinished-tasks-after-each-shift.py) | Not Competent | |
 | — | Maximum Area of Two Non-Overlapping Square Submatrices | Medium | Binary Search, DP | [Solution](./binary_search/maximum-area-of-two-non-overlapping-square-submatrices.py) | Not Competent | |
 
-**Stats**: 134 solved | 78 competent | 23 needs review | 33 not competent
+**Stats**: 135 solved | 79 competent | 23 needs review | 33 not competent
 
 ## Problem Solution Pattern
 
