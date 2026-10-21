@@ -103,6 +103,7 @@ leetcode-python/
 | 684 | Redundant Connection | Medium | Graphs, Union Find | [Solution](./graphs/redundant-connection.py) | Competent | |
 | 687 | Longest Univalue Path | Medium | Trees | [Solution](./dynamic_programming/longest-univalue-path.py) | Needs Review | 2026-09-14 |
 | 695 | Max Area of Island | Medium | Graphs, DFS | [Solution](./graphs/max-area-of-island.py) | Competent | |
+| 698 | Partition to K Equal Sum Subsets | Medium | Backtracking | [Solution](./backtracking/partition-to-k-equal-sum-subsets.py) | Not Competent | 2026-10-18 |
 | 721 | Accounts Merge | Medium | Graphs, Union Find | [Solution](./graphs/accounts-merge.py) | Not Competent | 2026-10-12 |
 | 739 | Daily Temperatures | Medium | Stack | [Solution](./stack/daily-temperatures.py) | Competent | 2026-10-03 |
 | 743 | Network Delay Time | Medium | Graphs | [Solution](./graphs/network-delay-time.py) | Competent | 2026-10-18 |
@@ -172,7 +173,7 @@ leetcode-python/
 | 4012 | Count of Unfinished Tasks After Each Shift | Medium | Prefix Sum, Binary Search | [Solution](./prefix_sum/count-of-unfinished-tasks-after-each-shift.py) | Not Competent | |
 | — | Maximum Area of Two Non-Overlapping Square Submatrices | Medium | Binary Search, DP | [Solution](./binary_search/maximum-area-of-two-non-overlapping-square-submatrices.py) | Not Competent | |
 
-**Stats**: 135 solved | 79 competent | 23 needs review | 33 not competent
+**Stats**: 136 solved | 79 competent | 23 needs review | 34 not competent
 
 ## Problem Solution Pattern
 
