@@ -52,7 +52,7 @@ leetcode-python/
 | 70 | Climbing Stairs | Easy | Dynamic Programming | [Solution](./dynamic_programming/climbing-stairs.py) | Competent | |
 | 72 | Edit Distance | Hard | Dynamic Programming | [Solution](./dynamic_programming/edit-distance.py) | Competent | 2026-09-19 |
 | 75 | Sort Colors | Medium | Two Pointer | [Solution](./two_pointer/sort-colors.py) | Not Competent | 2026-10-03 |
-| 79 | Word Search | Medium | Backtracking | [Solution](./backtracking/word-search.py) | Competent | 2026-10-05 |
+| 79 | Word Search | Medium | Backtracking | [Solution](./backtracking/word-search.py) | Competent | 2026-10-18 |
 | 91 | Decode Ways | Medium | Dynamic Programming | [Solution](./dynamic_programming/decode-ways.py) | Needs Review | 2026-10-11 |
 | 97 | Interleaving String | Medium | Dynamic Programming | [Solution](./dynamic_programming/interleaving-string.py) | Competent | |
 | 113 | Path Sum II | Medium | Backtracking, Trees | [Solution](./backtracking/path-sum-ii.py) | Not Competent | 2026-10-05 |
