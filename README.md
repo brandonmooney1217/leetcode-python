@@ -74,6 +74,7 @@ leetcode-python/
 | 221 | Maximal Square | Medium | Dynamic Programming | [Solution](./dynamic_programming/maximal-square.py) | Competent | 2026-10-11 |
 | 231 | Power of Two | Easy | Bitwise | [Solution](./bitwise/power-of-two.py) | Not Competent | |
 | 234 | Palindrome Linked List | Easy | Linked Lists | [Solution](./linked_lists/palindrome-linked-list.py) | Not Competent | 2026-10-03 |
+| 239 | Sliding Window Maximum | Hard | Queue, Sliding Window | [Solution](./queue/sliding-window-maximum.py) | Competent | 2026-10-18 |
 | 283 | Move Zeroes | Easy | Two Pointer | [Solution](./two_pointer/move-zeroes.py) | Not Competent | 2026-10-03 |
 | 295 | Find Median from Data Stream | Hard | Design, Heap | [Solution](./design/find-median-from-data-stream.py) | Not Competent | 2026-10-05 |
 | 300 | Longest Increasing Subsequence | Medium | Dynamic Programming | [Solution](./dynamic_programming/longest-increasing-subsequence.py) | Competent | 2026-08-21 |
@@ -88,6 +89,7 @@ leetcode-python/
 | 394 | Decode String | Medium | Stack | [Solution](./stack/decode-string.py) | Not Competent | 2026-10-03 |
 | 410 | Split Array Largest Sum | Hard | Binary Search | [Solution](./binary_search/split-array-largest-sum.py) | Competent | |
 | 416 | Partition Equal Subset Sum | Medium | Dynamic Programming | [Solution](./dynamic_programming/partition-equal-subset-sum.py) | Competent | |
+| 424 | Longest Repeating Character Replacement | Medium | Sliding Window | [Solution](./sliding_window/longest-repeating-character-replacement.py) | Competent | 2026-10-18 |
 | 433 | Minimum Genetic Mutation | Medium | Graphs, BFS | [Solution](./graphs/minimum-genetic-mutation.py) | Needs Review | |
 | 435 | Non-overlapping Intervals | Medium | Intervals | [Solution](./intervals/non-overlapping-intervals.py) | Competent | 2026-10-03 |
 | 516 | Longest Palindromic Subsequence | Medium | Dynamic Programming | [Solution](./dynamic_programming/longest-palindromic-subsequenc.py) | Competent | |
@@ -174,7 +176,7 @@ leetcode-python/
 | 4012 | Count of Unfinished Tasks After Each Shift | Medium | Prefix Sum, Binary Search | [Solution](./prefix_sum/count-of-unfinished-tasks-after-each-shift.py) | Not Competent | |
 | — | Maximum Area of Two Non-Overlapping Square Submatrices | Medium | Binary Search, DP | [Solution](./binary_search/maximum-area-of-two-non-overlapping-square-submatrices.py) | Not Competent | |
 
-**Stats**: 137 solved | 80 competent | 23 needs review | 34 not competent
+**Stats**: 139 solved | 82 competent | 23 needs review | 34 not competent
 
 ## Problem Solution Pattern
 
