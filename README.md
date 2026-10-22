@@ -171,13 +171,14 @@ leetcode-python/
 | 2602 | Minimum Operations to Make All Array Elements Equal | Medium | Prefix Sum, Binary Search | [Solution](./prefix_sum/minimum-operations-to-make-all-array-elements-equal.py) | Not Competent | |
 | 2799 | Count Complete Subarrays in an Array | Medium | Sliding Window | [Solution](./sliding_window/count-complete-subarrays-in-an-array.py) | Competent | 2026-09-01 |
 | 2962 | Count Subarrays Where Max Element Appears at Least K Times | Medium | Sliding Window | [Solution](./sliding_window/count-subarrays-where-max-element-appears-at-least-k-times.py) | Competent | 2026-09-01 |
+| 2958 | Length of Longest Subarray With at Most K Frequency | Medium | Sliding Window | [Solution](./sliding_window/length-of-longest-subarray-with-at-most-k-frequency.py) | Competent | 2026-10-18 |
 | 3424 | Count Dominant Nodes in a Binary Tree | Medium | Trees | [Solution](./trees/count-dominant-nodes-in-a-binary-tree.py) | Competent | |
 | 3498 | Widest Possible Fence | Medium | Arrays | [Solution](./arrays/widest-possible-fence.py) | Not Competent | |
 | 3604 | Minimum Cost Path with Alternating Directions III | Hard | Graphs | [Solution](./graphs/minimum-cost-path-with-alternating-directions-iii.py) | Not Competent | |
 | 4012 | Count of Unfinished Tasks After Each Shift | Medium | Prefix Sum, Binary Search | [Solution](./prefix_sum/count-of-unfinished-tasks-after-each-shift.py) | Not Competent | |
 | — | Maximum Area of Two Non-Overlapping Square Submatrices | Medium | Binary Search, DP | [Solution](./binary_search/maximum-area-of-two-non-overlapping-square-submatrices.py) | Not Competent | |
 
-**Stats**: 140 solved | 83 competent | 23 needs review | 34 not competent
+**Stats**: 141 solved | 84 competent | 23 needs review | 34 not competent
 
 ## Problem Solution Pattern
 
