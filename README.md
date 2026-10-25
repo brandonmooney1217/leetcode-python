@@ -134,7 +134,7 @@ leetcode-python/
 | 1011 | Capacity To Ship Packages Within D Days | Medium | Binary Search | [Solution](./binary_search/capacity-to-ship-packages-within-d-days.py) | Competent | 2026-10-03 |
 | 1020 | Number of Enclaves | Medium | Graphs, DFS | [Solution](./graphs/number-of-enclaves.py) | Competent | |
 | 1042 | Flower Planting With No Adjacent | Medium | Graphs | [Solution](./graphs/flower-planting-with-no-adjacent.py) | Not Competent | |
-| 1048 | Longest String Chain | Medium | Sorting, DP | [Solution](./sorting/longest-string-chain.py) | Competent | |
+| 1048 | Longest String Chain | Medium | Sorting, DP | [Solution](./sorting/longest-string-chain.py) | Competent | 2026-10-25 |
 | 1061 | Lexicographically Smallest Equivalent String | Medium | Graphs, Union Find | [Solution](./graphs/lexicographically-smallest-equivalent-string.py) | Needs Review | |
 | 1109 | Corporate Flight Bookings | Medium | Prefix Sum | [Solution](./prefix_sum/corporate-flight-bookings.py) | Not Competent | 2026-09-19 |
 | 1091 | Shortest Path in Binary Matrix | Medium | Graphs, BFS | [Solution](./graphs/shortest-path-in-binary-matrix.py) | Competent | 2026-08-15 |
