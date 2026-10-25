@@ -120,6 +120,7 @@ leetcode-python/
 | 864 | Shortest Path to Get All Keys | Hard | Graphs, BFS | [Solution](./graphs/shortest-path-to-get-all-keys.py) | Needs Review | 2026-10-18 |
 | 875 | Koko Eating Bananas | Medium | Binary Search | [Solution](./binary_search/koko-eating-bananas.py) | Competent | 2026-10-03 |
 | 879 | Profitable Schemes | Hard | Dynamic Programming | [Solution](./dynamic_programming/profitable-schemes.py) | Needs Review | 2026-10-18 |
+| 881 | Boats to Save People | Medium | Two Pointer | [Solution](./two_pointer/boats-to-save-people.py) | Competent | 2026-10-25 |
 | 886 | Possible Bipartition | Medium | Graphs, DFS | [Solution](./graphs/possible-bipartition.py) | Needs Review | 2026-10-18 |
 | 931 | Minimum Falling Path Sum | Medium | Dynamic Programming | [Solution](./dynamic_programming/minimum-falling-path-sum.py) | Competent | |
 | 934 | Shortest Bridge | Medium | Graphs, BFS, DFS | [Solution](./graphs/shortest-bridge.py) | Competent | |
@@ -180,7 +181,7 @@ leetcode-python/
 | 4012 | Count of Unfinished Tasks After Each Shift | Medium | Prefix Sum, Binary Search | [Solution](./prefix_sum/count-of-unfinished-tasks-after-each-shift.py) | Not Competent | |
 | — | Maximum Area of Two Non-Overlapping Square Submatrices | Medium | Binary Search, DP | [Solution](./binary_search/maximum-area-of-two-non-overlapping-square-submatrices.py) | Not Competent | |
 
-**Stats**: 143 solved | 85 competent | 23 needs review | 35 not competent
+**Stats**: 144 solved | 86 competent | 23 needs review | 35 not competent
 
 ## Problem Solution Pattern
 
