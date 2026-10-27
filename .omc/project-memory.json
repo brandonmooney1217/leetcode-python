@@ -1,0 +1,583 @@
+{
+  "version": "1.0.0",
+  "lastScanned": 1792946090298,
+  "projectRoot": "/Users/brandonmooney/Downloads/Development_Projects/leetcode-python",
+  "techStack": {
+    "languages": [],
+    "frameworks": [],
+    "packageManager": null,
+    "runtime": null
+  },
+  "build": {
+    "buildCommand": null,
+    "testCommand": null,
+    "lintCommand": null,
+    "devCommand": null,
+    "scripts": {}
+  },
+  "conventions": {
+    "namingStyle": null,
+    "importStyle": null,
+    "testPattern": null,
+    "fileOrganization": null
+  },
+  "structure": {
+    "isMonorepo": false,
+    "workspaces": [],
+    "mainDirectories": [
+      "scripts"
+    ],
+    "gitBranches": null
+  },
+  "customNotes": [],
+  "directoryMap": {
+    "arrays": {
+      "path": "arrays",
+      "purpose": null,
+      "fileCount": 1,
+      "lastAccessed": 1792946090222,
+      "keyFiles": [
+        "widest-possible-fence.py"
+      ]
+    },
+    "backtracking": {
+      "path": "backtracking",
+      "purpose": null,
+      "fileCount": 7,
+      "lastAccessed": 1792946090222,
+      "keyFiles": [
+        "all-paths-from-source-to-targe.py",
+        "combination-sum.py",
+        "generate-parentheses.py",
+        "palindrome-partitioning.py",
+        "partition-to-k-equal-sum-subsets.py"
+      ]
+    },
+    "binary_search": {
+      "path": "binary_search",
+      "purpose": null,
+      "fileCount": 13,
+      "lastAccessed": 1792946090223,
+      "keyFiles": [
+        "capacity-to-ship-packages-within-d-days.py",
+        "find-first-and-last-position-of-element-in-sorted-array.py",
+        "find-peak-element.py",
+        "koko-eating-bananas.py",
+        "kth-smallest-number-in-multiplication-table.py"
+      ]
+    },
+    "bitwise": {
+      "path": "bitwise",
+      "purpose": null,
+      "fileCount": 3,
+      "lastAccessed": 1792946090224,
+      "keyFiles": [
+        "counting-bits.py",
+        "number-of-1-bits.py",
+        "power-of-two.py"
+      ]
+    },
+    "design": {
+      "path": "design",
+      "purpose": null,
+      "fileCount": 5,
+      "lastAccessed": 1792946090224,
+      "keyFiles": [
+        "find-median-from-data-stream.py",
+        "insert-delete-getrandom-o1.py",
+        "lru-cache.py",
+        "min-stack.py",
+        "shuffle-an-array.py"
+      ]
+    },
+    "dynamic_programming": {
+      "path": "dynamic_programming",
+      "purpose": null,
+      "fileCount": 40,
+      "lastAccessed": 1792946090226,
+      "keyFiles": [
+        "best-time-to-buy-and-sell-stock-ii.py",
+        "best-time-to-buy-and-sell-stock-with-cooldown.py",
+        "best-time-to-buy-and-sell-stock.py",
+        "binary-tree-maximum-path-sum.py",
+        "climbing-stairs.py"
+      ]
+    },
+    "graphs": {
+      "path": "graphs",
+      "purpose": null,
+      "fileCount": 37,
+      "lastAccessed": 1792946090227,
+      "keyFiles": [
+        "01-matrix.py",
+        "accounts-merge.py",
+        "cheapest-flights-within-k-stop.py",
+        "course-schedule-ii.py",
+        "course-schedule.py"
+      ]
+    },
+    "greedy": {
+      "path": "greedy",
+      "purpose": null,
+      "fileCount": 7,
+      "lastAccessed": 1792946090228,
+      "keyFiles": [
+        "jump-game-ii.py",
+        "jump-game-iii.py",
+        "jump-game-vii.py",
+        "jump-game.py",
+        "minimum-initial-energy-to-finish-tasks.py"
+      ]
+    },
+    "hash_table": {
+      "path": "hash_table",
+      "purpose": null,
+      "fileCount": 0,
+      "lastAccessed": 1792946090228,
+      "keyFiles": []
+    },
+    "heap": {
+      "path": "heap",
+      "purpose": null,
+      "fileCount": 2,
+      "lastAccessed": 1792946090229,
+      "keyFiles": [
+        "k-closest-points-to-origin.py",
+        "merge-k-sorted-lists.py"
+      ]
+    },
+    "intervals": {
+      "path": "intervals",
+      "purpose": null,
+      "fileCount": 2,
+      "lastAccessed": 1792946090229,
+      "keyFiles": [
+        "insert-interval.py",
+        "non-overlapping-intervals.py"
+      ]
+    },
+    "line_sweep": {
+      "path": "line_sweep",
+      "purpose": null,
+      "fileCount": 2,
+      "lastAccessed": 1792946090229,
+      "keyFiles": [
+        "check-if-all-the-integers-in-a-range-are-covered.py",
+        "number-of-flowers-in-full-bloom.py"
+      ]
+    },
+    "linked_lists": {
+      "path": "linked_lists",
+      "purpose": null,
+      "fileCount": 2,
+      "lastAccessed": 1792946090229,
+      "keyFiles": [
+        "linked-list-cycle.py",
+        "palindrome-linked-list.py"
+      ]
+    },
+    "math": {
+      "path": "math",
+      "purpose": null,
+      "fileCount": 0,
+      "lastAccessed": 1792946090229,
+      "keyFiles": []
+    },
+    "prefix_sum": {
+      "path": "prefix_sum",
+      "purpose": null,
+      "fileCount": 8,
+      "lastAccessed": 1792946090229,
+      "keyFiles": [
+        "contiguous-array.py",
+        "corporate-flight-bookings.py",
+        "count-of-unfinished-tasks-after-each-shift.py",
+        "longest-subsequence-with-limited-sum.py",
+        "minimum-operations-to-make-all-array-elements-equal.py"
+      ]
+    },
+    "queue": {
+      "path": "queue",
+      "purpose": null,
+      "fileCount": 1,
+      "lastAccessed": 1792946090230,
+      "keyFiles": [
+        "sliding-window-maximum.py"
+      ]
+    },
+    "scripts": {
+      "path": "scripts",
+      "purpose": "Build/utility scripts",
+      "fileCount": 0,
+      "lastAccessed": 1792946090230,
+      "keyFiles": []
+    },
+    "sliding_window": {
+      "path": "sliding_window",
+      "purpose": null,
+      "fileCount": 12,
+      "lastAccessed": 1792946090230,
+      "keyFiles": [
+        "count-complete-subarrays-in-an-array.py",
+        "count-subarrays-where-max-element-appears-at-least-k-times.py",
+        "count-the-number-of-good-subarrays.py",
+        "length-of-longest-subarray-with-at-most-k-frequency.py",
+        "longest-repeating-character-replacement.py"
+      ]
+    },
+    "sorting": {
+      "path": "sorting",
+      "purpose": null,
+      "fileCount": 3,
+      "lastAccessed": 1792946090230,
+      "keyFiles": [
+        "longest-string-chain.py",
+        "maximum-length-of-pair-chain.py",
+        "number-of-longest-increasing-subsequence.py"
+      ]
+    },
+    "stack": {
+      "path": "stack",
+      "purpose": null,
+      "fileCount": 4,
+      "lastAccessed": 1792946090230,
+      "keyFiles": [
+        "daily-temperatures.py",
+        "decode-string.py",
+        "score-of-parentheses.py",
+        "valid-parentheses.py"
+      ]
+    },
+    "strings": {
+      "path": "strings",
+      "purpose": null,
+      "fileCount": 0,
+      "lastAccessed": 1792946090231,
+      "keyFiles": []
+    },
+    "trees": {
+      "path": "trees",
+      "purpose": null,
+      "fileCount": 1,
+      "lastAccessed": 1792946090231,
+      "keyFiles": [
+        "count-dominant-nodes-in-a-binary-tree.py"
+      ]
+    },
+    "two_pointer": {
+      "path": "two_pointer",
+      "purpose": null,
+      "fileCount": 4,
+      "lastAccessed": 1792946090231,
+      "keyFiles": [
+        "3sum.py",
+        "container-with-most-water.py",
+        "move-zeroes.py",
+        "sort-colors.py"
+      ]
+    }
+  },
+  "hotPaths": [
+    {
+      "path": "README.md",
+      "accessCount": 123,
+      "lastAccessed": 1792959724164,
+      "type": "file"
+    },
+    {
+      "path": "design/find-median-from-data-stream.py",
+      "accessCount": 3,
+      "lastAccessed": 1791775721545,
+      "type": "file"
+    },
+    {
+      "path": "heap/k-closest-points-to-origin.py",
+      "accessCount": 3,
+      "lastAccessed": 1792199571524,
+      "type": "file"
+    },
+    {
+      "path": "heap/merge-k-sorted-lists.py",
+      "accessCount": 3,
+      "lastAccessed": 1792201956066,
+      "type": "file"
+    },
+    {
+      "path": "two_pointer/container-with-most-water.py",
+      "accessCount": 3,
+      "lastAccessed": 1792202111585,
+      "type": "file"
+    },
+    {
+      "path": "graphs/accounts-merge.py",
+      "accessCount": 2,
+      "lastAccessed": 1792199525861,
+      "type": "file"
+    },
+    {
+      "path": "dynamic_programming/coin-change.py",
+      "accessCount": 2,
+      "lastAccessed": 1792199567901,
+      "type": "file"
+    },
+    {
+      "path": "sliding_window/maximum-erasure-value.py",
+      "accessCount": 2,
+      "lastAccessed": 1792199608747,
+      "type": "file"
+    },
+    {
+      "path": "sliding_window/longest-substring-without-repeating-characters.py",
+      "accessCount": 2,
+      "lastAccessed": 1792199609165,
+      "type": "file"
+    },
+    {
+      "path": "graphs/is-graph-bipartite.py",
+      "accessCount": 2,
+      "lastAccessed": 1792199641012,
+      "type": "file"
+    },
+    {
+      "path": "backtracking/combination-sum.py",
+      "accessCount": 2,
+      "lastAccessed": 1792201947645,
+      "type": "file"
+    },
+    {
+      "path": "dynamic_programming/decode-ways.py",
+      "accessCount": 1,
+      "lastAccessed": 1791756943428,
+      "type": "file"
+    },
+    {
+      "path": "dynamic_programming/climbing-stairs.py",
+      "accessCount": 1,
+      "lastAccessed": 1791761988691,
+      "type": "file"
+    },
+    {
+      "path": "dynamic_programming/longest-increasing-subsequence.py",
+      "accessCount": 1,
+      "lastAccessed": 1791761989918,
+      "type": "file"
+    },
+    {
+      "path": "dynamic_programming/house-robber.py",
+      "accessCount": 1,
+      "lastAccessed": 1791761989975,
+      "type": "file"
+    },
+    {
+      "path": "graphs/number-of-islands.py",
+      "accessCount": 1,
+      "lastAccessed": 1791761992427,
+      "type": "file"
+    },
+    {
+      "path": "graphs/course-schedule.py",
+      "accessCount": 1,
+      "lastAccessed": 1791761992686,
+      "type": "file"
+    },
+    {
+      "path": "graphs/network-delay-time.py",
+      "accessCount": 1,
+      "lastAccessed": 1791761992991,
+      "type": "file"
+    },
+    {
+      "path": "graphs/word-ladder.py",
+      "accessCount": 1,
+      "lastAccessed": 1791761993487,
+      "type": "file"
+    },
+    {
+      "path": "binary_search/search-in-rotated-sorted-array.py",
+      "accessCount": 1,
+      "lastAccessed": 1791762000694,
+      "type": "file"
+    },
+    {
+      "path": "binary_search/find-first-and-last-position-of-element-in-sorted-array.py",
+      "accessCount": 1,
+      "lastAccessed": 1791762001022,
+      "type": "file"
+    },
+    {
+      "path": "binary_search/koko-eating-bananas.py",
+      "accessCount": 1,
+      "lastAccessed": 1791762001333,
+      "type": "file"
+    },
+    {
+      "path": "backtracking/generate-parentheses.py",
+      "accessCount": 1,
+      "lastAccessed": 1791762008561,
+      "type": "file"
+    },
+    {
+      "path": "backtracking/word-search.py",
+      "accessCount": 1,
+      "lastAccessed": 1791762008902,
+      "type": "file"
+    },
+    {
+      "path": "backtracking/path-sum-ii.py",
+      "accessCount": 1,
+      "lastAccessed": 1791762009286,
+      "type": "file"
+    },
+    {
+      "path": "backtracking/palindrome-partitioning.py",
+      "accessCount": 1,
+      "lastAccessed": 1791762009452,
+      "type": "file"
+    },
+    {
+      "path": "sliding_window/maximize-the-confusion-of-an-exam.py",
+      "accessCount": 1,
+      "lastAccessed": 1791762013280,
+      "type": "file"
+    },
+    {
+      "path": "sliding_window/count-complete-subarrays-in-an-array.py",
+      "accessCount": 1,
+      "lastAccessed": 1791762013875,
+      "type": "file"
+    },
+    {
+      "path": "stack/valid-parentheses.py",
+      "accessCount": 1,
+      "lastAccessed": 1791762016209,
+      "type": "file"
+    },
+    {
+      "path": "stack/daily-temperatures.py",
+      "accessCount": 1,
+      "lastAccessed": 1791762016445,
+      "type": "file"
+    },
+    {
+      "path": "stack/decode-string.py",
+      "accessCount": 1,
+      "lastAccessed": 1791762016705,
+      "type": "file"
+    },
+    {
+      "path": "stack/score-of-parentheses.py",
+      "accessCount": 1,
+      "lastAccessed": 1791762016992,
+      "type": "file"
+    },
+    {
+      "path": "prefix_sum/subarray-sum-equals-k.py",
+      "accessCount": 1,
+      "lastAccessed": 1791762022112,
+      "type": "file"
+    },
+    {
+      "path": "prefix_sum/contiguous-array.py",
+      "accessCount": 1,
+      "lastAccessed": 1791762022386,
+      "type": "file"
+    },
+    {
+      "path": "prefix_sum/minimum-size-subarray-sum.py",
+      "accessCount": 1,
+      "lastAccessed": 1791762022741,
+      "type": "file"
+    },
+    {
+      "path": "prefix_sum/subarray-sums-divisible-by-k.py",
+      "accessCount": 1,
+      "lastAccessed": 1791762023174,
+      "type": "file"
+    },
+    {
+      "path": "greedy/jump-game.py",
+      "accessCount": 1,
+      "lastAccessed": 1791762025684,
+      "type": "file"
+    },
+    {
+      "path": "greedy/jump-game-ii.py",
+      "accessCount": 1,
+      "lastAccessed": 1791762025938,
+      "type": "file"
+    },
+    {
+      "path": "greedy/video-stitching.py",
+      "accessCount": 1,
+      "lastAccessed": 1791762026233,
+      "type": "file"
+    },
+    {
+      "path": "two_pointer/3sum.py",
+      "accessCount": 1,
+      "lastAccessed": 1791762028750,
+      "type": "file"
+    },
+    {
+      "path": "two_pointer/move-zeroes.py",
+      "accessCount": 1,
+      "lastAccessed": 1791762029324,
+      "type": "file"
+    },
+    {
+      "path": "two_pointer/sort-colors.py",
+      "accessCount": 1,
+      "lastAccessed": 1791762029623,
+      "type": "file"
+    },
+    {
+      "path": "intervals/insert-interval.py",
+      "accessCount": 1,
+      "lastAccessed": 1791762032055,
+      "type": "file"
+    },
+    {
+      "path": "intervals/non-overlapping-intervals.py",
+      "accessCount": 1,
+      "lastAccessed": 1791762032348,
+      "type": "file"
+    },
+    {
+      "path": "bitwise/counting-bits.py",
+      "accessCount": 1,
+      "lastAccessed": 1791762034868,
+      "type": "file"
+    },
+    {
+      "path": "bitwise/number-of-1-bits.py",
+      "accessCount": 1,
+      "lastAccessed": 1791762035138,
+      "type": "file"
+    },
+    {
+      "path": "bitwise/power-of-two.py",
+      "accessCount": 1,
+      "lastAccessed": 1791762035411,
+      "type": "file"
+    },
+    {
+      "path": "linked_lists/linked-list-cycle.py",
+      "accessCount": 1,
+      "lastAccessed": 1791762035685,
+      "type": "file"
+    },
+    {
+      "path": "linked_lists/palindrome-linked-list.py",
+      "accessCount": 1,
+      "lastAccessed": 1791762035993,
+      "type": "file"
+    },
+    {
+      "path": "sorting/longest-string-chain.py",
+      "accessCount": 1,
+      "lastAccessed": 1791762036267,
+      "type": "file"
+    }
+  ],
+  "userDirectives": []
+}

@@ -7,7 +7,7 @@ class Solution:
             left, right = max(0, i-curr), min(n, i + curr)
             arr.append([left, right])
 
-        arr.sort(key = lambda x: (x[0], x[-1]))
+        arr.sort(key = lambda x: (x[0], -x[1]))
         index = 0
         frontier = 0
         furthest = 0
