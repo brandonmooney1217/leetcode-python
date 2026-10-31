@@ -114,6 +114,7 @@ leetcode-python/
 | 787 | Cheapest Flights Within K Stops | Medium | Graphs | [Solution](./graphs/cheapest-flights-within-k-stop.py) | Needs Review | 2026-10-12 |
 | 797 | All Paths From Source to Target | Medium | Backtracking | [Solution](./backtracking/all-paths-from-source-to-targe.py) | Needs Review | |
 | 802 | Find Eventual Safe States | Medium | Graphs, Topological Sort | [Solution](./graphs/find-eventual-safe-states.py) | Competent | |
+| 828 | Count Unique Characters of All Substrings of a Given String | Hard | Math | [Solution](./math/count-unique-characters-of-all-substrings-of-a-given-string.py) | Competent | 2026-10-31 |
 | 839 | Similar String Groups | Hard | Graphs, Union Find | [Solution](./graphs/similar-string-groups.py) | Needs Review | |
 | 841 | Keys and Rooms | Medium | Graphs, BFS | [Solution](./graphs/keys-and-rooms.py) | Competent | 2026-08-15 |
 | 856 | Score of Parentheses | Medium | Stack | [Solution](./stack/score-of-parentheses.py) | Competent | 2026-10-03 |
@@ -122,6 +123,7 @@ leetcode-python/
 | 879 | Profitable Schemes | Hard | Dynamic Programming | [Solution](./dynamic_programming/profitable-schemes.py) | Needs Review | 2026-10-18 |
 | 881 | Boats to Save People | Medium | Two Pointer | [Solution](./two_pointer/boats-to-save-people.py) | Competent | 2026-10-25 |
 | 886 | Possible Bipartition | Medium | Graphs, DFS | [Solution](./graphs/possible-bipartition.py) | Needs Review | 2026-10-18 |
+| 907 | Sum of Subarray Minimums | Medium | Monotonic Stack | [Solution](./monotonic_stack/sum-of-subarray-minimums.py) | Competent | 2026-10-26 |
 | 931 | Minimum Falling Path Sum | Medium | Dynamic Programming | [Solution](./dynamic_programming/minimum-falling-path-sum.py) | Competent | |
 | 934 | Shortest Bridge | Medium | Graphs, BFS, DFS | [Solution](./graphs/shortest-bridge.py) | Competent | |
 | 973 | K Closest Points to Origin | Medium | Heap | [Solution](./heap/k-closest-points-to-origin.py) | Competent | 2026-10-05 |
@@ -164,6 +166,7 @@ leetcode-python/
 | 1871 | Jump Game VII | Medium | Greedy, BFS | [Solution](./greedy/jump-game-vii.py) | Not Competent | 2026-09-19 |
 | 1893 | Check if All the Integers in a Range Are Covered | Easy | Line Sweep | [Solution](./line_sweep/check-if-all-the-integers-in-a-range-are-covered.py) | Not Competent | 2026-08-21 |
 | 1926 | Nearest Exit From Entrance in Maze | Medium | Greedy, BFS | [Solution](./greedy/nearest-exit-from-entrance-in-maze.py) | Competent | |
+| 1944 | Number of Visible People in a Queue | Hard | Monotonic Stack | [Solution](./monotonic_stack/number-of-visible-people-in-a-queue.py) | Competent | 2026-10-26 |
 | 2008 | Maximum Earnings From Taxi | Medium | Dynamic Programming | [Solution](./dynamic_programming/maximum-earnings-from-taxi.py) | Needs Review | 2026-09-07 |
 | 2024 | Maximize the Confusion of an Exam | Medium | Sliding Window | [Solution](./sliding_window/maximize-the-confusion-of-an-exam.py) | Competent | 2026-09-01 |
 | 2064 | Minimized Maximum of Products Distributed to Any Store | Medium | Binary Search | [Solution](./binary_search/minimized-maximum-of-products-distributed-to-any-store.py) | Competent | |
@@ -180,10 +183,11 @@ leetcode-python/
 | 3424 | Count Dominant Nodes in a Binary Tree | Medium | Trees | [Solution](./trees/count-dominant-nodes-in-a-binary-tree.py) | Competent | |
 | 3498 | Widest Possible Fence | Medium | Arrays | [Solution](./arrays/widest-possible-fence.py) | Not Competent | |
 | 3604 | Minimum Cost Path with Alternating Directions III | Hard | Graphs | [Solution](./graphs/minimum-cost-path-with-alternating-directions-iii.py) | Not Competent | |
+| 1856 | Maximum Subarray Min-Product | Hard | Monotonic Stack, Prefix Sum | [Solution](./monotonic_stack/maximum-subarray-min-product.py) | Not Competent | 2026-10-25 |
 | 4012 | Count of Unfinished Tasks After Each Shift | Medium | Prefix Sum, Binary Search | [Solution](./prefix_sum/count-of-unfinished-tasks-after-each-shift.py) | Not Competent | |
 | — | Maximum Area of Two Non-Overlapping Square Submatrices | Medium | Binary Search, DP | [Solution](./binary_search/maximum-area-of-two-non-overlapping-square-submatrices.py) | Not Competent | |
 
-**Stats**: 146 solved | 86 competent | 23 needs review | 37 not competent
+**Stats**: 150 solved | 89 competent | 23 needs review | 38 not competent
 
 ## Problem Solution Pattern
 
