@@ -77,7 +77,7 @@ leetcode-python/
 | 239 | Sliding Window Maximum | Hard | Queue, Sliding Window | [Solution](./queue/sliding-window-maximum.py) | Competent | 2026-10-18 |
 | 283 | Move Zeroes | Easy | Two Pointer | [Solution](./two_pointer/move-zeroes.py) | Not Competent | 2026-10-03 |
 | 295 | Find Median from Data Stream | Hard | Design, Heap | [Solution](./design/find-median-from-data-stream.py) | Not Competent | 2026-10-05 |
-| 300 | Longest Increasing Subsequence | Medium | Dynamic Programming | [Solution](./dynamic_programming/longest-increasing-subsequence.py) | Competent | 2026-08-21 |
+| 300 | Longest Increasing Subsequence | Medium | Dynamic Programming | [Solution](./dynamic_programming/longest-increasing-subsequence.py) | Competent | 2026-10-31 |
 | 309 | Best Time to Buy and Sell Stock with Cooldown | Medium | Dynamic Programming | [Solution](./dynamic_programming/best-time-to-buy-and-sell-stock-with-cooldown.py) | Competent | |
 | 322 | Coin Change | Medium | Dynamic Programming | [Solution](./dynamic_programming/coin-change.py) | Needs Review | 2026-10-12 |
 | 343 | Integer Break | Medium | Dynamic Programming | [Solution](./dynamic_programming/integer-break.py) | Not Competent | 2026-09-07 |
