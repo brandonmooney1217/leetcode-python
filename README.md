@@ -110,6 +110,7 @@ leetcode-python/
 | 713 | Subarray Product Less Than K | Medium | Sliding Window | [Solution](./sliding_window/subarray-product-less-than-k.py) | Competent | 2026-10-18 |
 | 721 | Accounts Merge | Medium | Graphs, Union Find | [Solution](./graphs/accounts-merge.py) | Not Competent | 2026-10-12 |
 | 739 | Daily Temperatures | Medium | Stack | [Solution](./stack/daily-temperatures.py) | Competent | 2026-10-03 |
+| 740 | Delete and Earn | Medium | Dynamic Programming | [Solution](./dynamic_programming/delete-and-earn.py) | Competent | 2026-10-31 |
 | 743 | Network Delay Time | Medium | Graphs | [Solution](./graphs/network-delay-time.py) | Competent | 2026-10-18 |
 | 785 | Is Graph Bipartite? | Medium | Graphs, DFS | [Solution](./graphs/is-graph-bipartite.py) | Competent | 2026-08-19 |
 | 787 | Cheapest Flights Within K Stops | Medium | Graphs | [Solution](./graphs/cheapest-flights-within-k-stop.py) | Needs Review | 2026-10-12 |
@@ -188,7 +189,7 @@ leetcode-python/
 | 4012 | Count of Unfinished Tasks After Each Shift | Medium | Prefix Sum, Binary Search | [Solution](./prefix_sum/count-of-unfinished-tasks-after-each-shift.py) | Not Competent | |
 | — | Maximum Area of Two Non-Overlapping Square Submatrices | Medium | Binary Search, DP | [Solution](./binary_search/maximum-area-of-two-non-overlapping-square-submatrices.py) | Not Competent | |
 
-**Stats**: 151 solved | 90 competent | 23 needs review | 38 not competent
+**Stats**: 152 solved | 91 competent | 23 needs review | 38 not competent
 
 ## Problem Solution Pattern
 
