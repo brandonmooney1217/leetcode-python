@@ -39,6 +39,7 @@ leetcode-python/
 | 3 | Longest Substring Without Repeating Characters | Medium | Sliding Window | [Solution](./sliding_window/longest-substring-without-repeating-characters.py) | Competent | 2026-10-03 |
 | 11 | Container With Most Water | Medium | Two Pointer | [Solution](./two_pointer/container-with-most-water.py) | Competent | 2026-10-16 |
 | 15 | 3Sum | Medium | Two Pointer | [Solution](./two_pointer/3sum.py) | Competent | 2026-10-03 |
+| 18 | 4Sum | Medium | Two Pointer | [Solution](./two_pointer/4-sum.py) | Competent | 2026-11-01 |
 | 20 | Valid Parentheses | Easy | Stack | [Solution](./stack/valid-parentheses.py) | Competent | 2026-10-03 |
 | 22 | Generate Parentheses | Medium | Backtracking | [Solution](./backtracking/generate-parentheses.py) | Competent | 2026-10-05 |
 | 23 | Merge K Sorted Lists | Hard | Heap, Linked Lists | [Solution](./heap/merge-k-sorted-lists.py) | Not Competent | 2026-10-05 |
@@ -145,6 +146,7 @@ leetcode-python/
 | 1143 | Longest Common Subsequence | Medium | Dynamic Programming | [Solution](./dynamic_programming/longest-common-subsequence.py) | Competent | |
 | 1235 | Maximum Profit in Job Scheduling | Hard | Dynamic Programming | [Solution](./dynamic_programming/maximum-profit-in-job-scheduling.py) | Not Competent | 2026-09-07 |
 | 1254 | Number of Closed Islands | Medium | Graphs, DFS | [Solution](./graphs/number-of-closed-islands.py) | Needs Review | 2026-10-18 |
+| 1288 | Remove Covered Intervals | Medium | Intervals | [Solution](./intervals/remove-covered-intervals.py) | Competent | 2026-11-01 |
 | 1292 | Maximum Side Length of a Square with Sum Less than or Equal to Threshold | Medium | Dynamic Programming | [Solution](./dynamic_programming/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold.py) | Not Competent | 2026-08-19 |
 | 1293 | Shortest Path in a Grid with Obstacles Elimination | Hard | BFS, Graphs | [Solution](./dynamic_programming/shortest-path-in-a-grid-with-obstacles-elimination.py) | Not Competent | |
 | 1306 | Jump Game III | Medium | Graphs, DFS | [Solution](./graphs/jump-game-iii.py) | Not Competent | 2026-09-19 |
@@ -190,7 +192,7 @@ leetcode-python/
 | 4012 | Count of Unfinished Tasks After Each Shift | Medium | Prefix Sum, Binary Search | [Solution](./prefix_sum/count-of-unfinished-tasks-after-each-shift.py) | Not Competent | |
 | — | Maximum Area of Two Non-Overlapping Square Submatrices | Medium | Binary Search, DP | [Solution](./binary_search/maximum-area-of-two-non-overlapping-square-submatrices.py) | Not Competent | |
 
-**Stats**: 153 solved | 92 competent | 23 needs review | 38 not competent
+**Stats**: 155 solved | 94 competent | 23 needs review | 38 not competent
 
 ## Problem Solution Pattern
 
