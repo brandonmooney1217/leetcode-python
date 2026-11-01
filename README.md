@@ -97,6 +97,7 @@ leetcode-python/
 | 516 | Longest Palindromic Subsequence | Medium | Dynamic Programming | [Solution](./dynamic_programming/longest-palindromic-subsequenc.py) | Competent | |
 | 518 | Coin Change II | Medium | Dynamic Programming | [Solution](./dynamic_programming/coin-change-ii.py) | Competent | |
 | 525 | Contiguous Array | Medium | Prefix Sum | [Solution](./prefix_sum/contiguous-array.py) | Competent | 2026-09-13 |
+| 532 | K-diff Pairs in an Array | Medium | Hash Table | [Solution](./hash_table/k-diff-pairs-in-an-array.py) | Not Competent | 2026-11-01 |
 | 542 | 01 Matrix | Medium | Graphs, BFS | [Solution](./graphs/01-matrix.py) | Competent | |
 | 543 | Diameter of Binary Tree | Easy | Trees | [Solution](./dynamic_programming/diameter-of-binary-tree.py) | Competent | |
 | 547 | Number of Provinces | Medium | Graphs, Union Find | [Solution](./graphs/number-of-provinces.py) | Competent | |
@@ -192,7 +193,7 @@ leetcode-python/
 | 4012 | Count of Unfinished Tasks After Each Shift | Medium | Prefix Sum, Binary Search | [Solution](./prefix_sum/count-of-unfinished-tasks-after-each-shift.py) | Not Competent | |
 | — | Maximum Area of Two Non-Overlapping Square Submatrices | Medium | Binary Search, DP | [Solution](./binary_search/maximum-area-of-two-non-overlapping-square-submatrices.py) | Not Competent | |
 
-**Stats**: 155 solved | 94 competent | 23 needs review | 38 not competent
+**Stats**: 156 solved | 94 competent | 23 needs review | 39 not competent
 
 ## Problem Solution Pattern
 
