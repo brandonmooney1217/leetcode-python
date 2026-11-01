@@ -174,6 +174,7 @@ leetcode-python/
 | 2064 | Minimized Maximum of Products Distributed to Any Store | Medium | Binary Search | [Solution](./binary_search/minimized-maximum-of-products-distributed-to-any-store.py) | Competent | |
 | 2251 | Number of Flowers in Full Bloom | Hard | Line Sweep | [Solution](./line_sweep/number-of-flowers-in-full-bloom.py) | Needs Review | |
 | 2300 | Successful Pairs of Spells and Potions | Medium | Binary Search | [Solution](./binary_search/successful-pairs-of-spells-and-potions.py) | Competent | 2026-08-19 |
+| 2365 | Task Scheduler II | Medium | Greedy | [Solution](./greedy/task-scheduler-ii.py) | Competent | 2026-10-31 |
 | 2389 | Longest Subsequence With Limited Sum | Easy | Prefix Sum, Binary Search | [Solution](./prefix_sum/longest-subsequence-with-limited-sum.py) | Needs Review | |
 | 2461 | Maximum Sum of Distinct Subarrays With Length K | Medium | Sliding Window | [Solution](./sliding_window/maximum-sum-of-distinct-subarrays-with-length-k.py) | Needs Review | 2026-10-03 |
 | 2537 | Count the Number of Good Subarrays | Medium | Sliding Window | [Solution](./sliding_window/count-the-number-of-good-subarrays.py) | Competent | 2026-10-18 |
@@ -189,7 +190,7 @@ leetcode-python/
 | 4012 | Count of Unfinished Tasks After Each Shift | Medium | Prefix Sum, Binary Search | [Solution](./prefix_sum/count-of-unfinished-tasks-after-each-shift.py) | Not Competent | |
 | — | Maximum Area of Two Non-Overlapping Square Submatrices | Medium | Binary Search, DP | [Solution](./binary_search/maximum-area-of-two-non-overlapping-square-submatrices.py) | Not Competent | |
 
-**Stats**: 152 solved | 91 competent | 23 needs review | 38 not competent
+**Stats**: 153 solved | 92 competent | 23 needs review | 38 not competent
 
 ## Problem Solution Pattern
 
