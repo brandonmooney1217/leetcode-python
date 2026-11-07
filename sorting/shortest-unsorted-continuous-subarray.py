@@ -1,16 +1,24 @@
 class Solution:
     def findUnsortedSubarray(self, nums: list[int]) -> int:
-        tmp = sorted(nums)
+        n = len(nums)
+        r = -1
+        mx = float('-inf')
 
-        l = 0
-        while l < len(nums) and tmp[l] == nums[l]:
-            l+=1
+        for i in range(n):
+            curr = nums[i]
+            if curr < mx:
+                r = i
+            mx = max(mx, curr)
 
-        r = len(nums)-1
+        mn = float('inf')
+        l = -1
 
-        while r >= 0 and nums[r] == tmp[r]:
-            r-=1
+        for i in range(n-1, -1, -1):
+            curr = nums[i]
+            if curr > mn:
+                l = i
+            mn = min(mn, curr)
 
-        if l > r:
+        if l == -1 and r == -1:
             return 0
         return r-l+1
