@@ -156,7 +156,7 @@ leetcode-python/
 | 1109 | Corporate Flight Bookings | Medium | Prefix Sum | [Solution](./prefix_sum/corporate-flight-bookings.py) | Not Competent | 2026-09-19 |
 | 1143 | Longest Common Subsequence | Medium | Dynamic Programming | [Solution](./dynamic_programming/longest-common-subsequence.py) | Competent | |
 | 1235 | Maximum Profit in Job Scheduling | Hard | Dynamic Programming | [Solution](./dynamic_programming/maximum-profit-in-job-scheduling.py) | Not Competent | 2026-09-07 |
-| 1248 | Count Number of Nice Subarrays | Medium | Prefix Sum, Sliding Window | [Solution](./prefix_sum/count-number-of-nice-subarrays.py) | Needs Review | 2026-11-07 |
+| 1248 | Count Number of Nice Subarrays | Medium | Prefix Sum, Sliding Window | [Solution](./prefix_sum/count-number-of-nice-subarrays.py) | Competent | 2026-11-22 |
 | 1254 | Number of Closed Islands | Medium | Graphs, DFS | [Solution](./graphs/number-of-closed-islands.py) | Needs Review | 2026-10-18 |
 | 1288 | Remove Covered Intervals | Medium | Intervals | [Solution](./intervals/remove-covered-intervals.py) | Competent | 2026-11-01 |
 | 1292 | Maximum Side Length of a Square with Sum Less than or Equal to Threshold | Medium | Dynamic Programming | [Solution](./dynamic_programming/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold.py) | Not Competent | 2026-08-19 |
@@ -208,7 +208,7 @@ leetcode-python/
 | 4012 | Count of Unfinished Tasks After Each Shift | Medium | Prefix Sum, Binary Search | [Solution](./prefix_sum/count-of-unfinished-tasks-after-each-shift.py) | Not Competent | |
 | — | Maximum Area of Two Non-Overlapping Square Submatrices | Medium | Binary Search, DP | [Solution](./binary_search/maximum-area-of-two-non-overlapping-square-submatrices.py) | Not Competent | |
 
-**Stats**: 171 solved | 99 competent | 25 needs review | 47 not competent
+**Stats**: 171 solved | 100 competent | 24 needs review | 47 not competent
 
 ## Problem Solution Pattern
 
