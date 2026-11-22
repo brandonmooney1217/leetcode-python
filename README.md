@@ -43,6 +43,8 @@ leetcode-python/
 | 20 | Valid Parentheses | Easy | Stack | [Solution](./stack/valid-parentheses.py) | Competent | 2026-10-03 |
 | 22 | Generate Parentheses | Medium | Backtracking | [Solution](./backtracking/generate-parentheses.py) | Competent | 2026-10-05 |
 | 23 | Merge K Sorted Lists | Hard | Heap, Linked Lists | [Solution](./heap/merge-k-sorted-lists.py) | Not Competent | 2026-10-05 |
+| 33 | Search in Rotated Sorted Array | Medium | Binary Search | [Solution](./binary_search/search-in-rotated-sorted-array.py) | Competent | 2026-08-15 |
+| 34 | Find First and Last Position of Element in Sorted Array | Medium | Binary Search | [Solution](./binary_search/find-first-and-last-position-of-element-in-sorted-array.py) | Not Competent | 2026-08-15 |
 | 39 | Combination Sum | Medium | Backtracking | [Solution](./backtracking/combination-sum.py) | Competent | 2026-10-05 |
 | 45 | Jump Game II | Medium | Greedy | [Solution](./greedy/jump-game-ii.py) | Competent | 2026-10-11 |
 | 55 | Jump Game | Medium | Greedy | [Solution](./greedy/jump-game.py) | Competent | 2026-09-19 |
@@ -54,6 +56,7 @@ leetcode-python/
 | 72 | Edit Distance | Hard | Dynamic Programming | [Solution](./dynamic_programming/edit-distance.py) | Competent | 2026-09-19 |
 | 75 | Sort Colors | Medium | Two Pointer | [Solution](./two_pointer/sort-colors.py) | Not Competent | 2026-10-03 |
 | 79 | Word Search | Medium | Backtracking | [Solution](./backtracking/word-search.py) | Competent | 2026-10-18 |
+| 84 | Largest Rectangle in Histogram | Hard | Monotonic Stack | [Solution](./monotonic_stack/largest-rectangle-in-histogram.py) | Needs Review | 2026-11-08 |
 | 91 | Decode Ways | Medium | Dynamic Programming | [Solution](./dynamic_programming/decode-ways.py) | Needs Review | 2026-10-11 |
 | 97 | Interleaving String | Medium | Dynamic Programming | [Solution](./dynamic_programming/interleaving-string.py) | Competent | |
 | 113 | Path Sum II | Medium | Backtracking, Trees | [Solution](./backtracking/path-sum-ii.py) | Not Competent | 2026-10-05 |
@@ -67,11 +70,13 @@ leetcode-python/
 | 141 | Linked List Cycle | Easy | Linked Lists | [Solution](./linked_lists/linked-list-cycle.py) | Competent | 2026-10-03 |
 | 146 | LRU Cache | Medium | Design | [Solution](./design/lru-cache.py) | Not Competent | 2026-10-11 |
 | 155 | Min Stack | Medium | Design | [Solution](./design/min-stack.py) | Competent | 2026-10-11 |
+| 162 | Find Peak Element | Medium | Binary Search | [Solution](./binary_search/find-peak-element.py) | Competent | 2026-08-15 |
 | 191 | Number of 1 Bits | Easy | Bitwise | [Solution](./bitwise/number-of-1-bits.py) | Needs Review | |
 | 198 | House Robber | Medium | Dynamic Programming | [Solution](./dynamic_programming/house-robber.py) | Competent | |
 | 200 | Number of Islands | Medium | Graphs, DFS | [Solution](./graphs/number-of-islands.py) | Competent | 2026-10-05 |
 | 207 | Course Schedule | Medium | Graphs, Topological Sort | [Solution](./graphs/course-schedule.py) | Competent | 2026-10-05 |
 | 209 | Minimum Size Subarray Sum | Medium | Prefix Sum, Binary Search | [Solution](./prefix_sum/minimum-size-subarray-sum.py) | Needs Review | |
+| 210 | Course Schedule II | Medium | Graphs, Topological Sort | [Solution](./graphs/course-schedule-ii.py) | Not Competent | 2026-08-11 |
 | 221 | Maximal Square | Medium | Dynamic Programming | [Solution](./dynamic_programming/maximal-square.py) | Competent | 2026-10-11 |
 | 231 | Power of Two | Easy | Bitwise | [Solution](./bitwise/power-of-two.py) | Not Competent | |
 | 234 | Palindrome Linked List | Easy | Linked Lists | [Solution](./linked_lists/palindrome-linked-list.py) | Not Competent | 2026-10-03 |
@@ -81,9 +86,9 @@ leetcode-python/
 | 300 | Longest Increasing Subsequence | Medium | Dynamic Programming | [Solution](./dynamic_programming/longest-increasing-subsequence.py) | Competent | 2026-10-31 |
 | 309 | Best Time to Buy and Sell Stock with Cooldown | Medium | Dynamic Programming | [Solution](./dynamic_programming/best-time-to-buy-and-sell-stock-with-cooldown.py) | Competent | |
 | 322 | Coin Change | Medium | Dynamic Programming | [Solution](./dynamic_programming/coin-change.py) | Needs Review | 2026-10-12 |
-| 343 | Integer Break | Medium | Dynamic Programming | [Solution](./dynamic_programming/integer-break.py) | Not Competent | 2026-09-07 |
 | 337 | House Robber III | Medium | Dynamic Programming, Trees | [Solution](./dynamic_programming/house-robber-iii.py) | Not Competent | 2026-10-03 |
 | 338 | Counting Bits | Easy | Bitwise, DP | [Solution](./bitwise/counting-bits.py) | Not Competent | |
+| 343 | Integer Break | Medium | Dynamic Programming | [Solution](./dynamic_programming/integer-break.py) | Not Competent | 2026-09-07 |
 | 354 | Russian Doll Envelopes | Hard | Dynamic Programming, Binary Search | [Solution](./dynamic_programming/russian-doll-envelopes.py) | Competent | 2026-10-31 |
 | 377 | Combination Sum IV | Medium | Dynamic Programming | [Solution](./dynamic_programming/combination-sum-iv.py) | Competent | |
 | 380 | Insert Delete GetRandom O(1) | Medium | Design | [Solution](./design/insert-delete-getrandom-o1.py) | Not Competent | 2026-10-11 |
@@ -94,6 +99,7 @@ leetcode-python/
 | 424 | Longest Repeating Character Replacement | Medium | Sliding Window | [Solution](./sliding_window/longest-repeating-character-replacement.py) | Competent | 2026-10-18 |
 | 433 | Minimum Genetic Mutation | Medium | Graphs, BFS | [Solution](./graphs/minimum-genetic-mutation.py) | Needs Review | |
 | 435 | Non-overlapping Intervals | Medium | Intervals | [Solution](./intervals/non-overlapping-intervals.py) | Competent | 2026-10-03 |
+| 456 | 132 Pattern | Medium | Monotonic Stack | [Solution](./monotonic_stack/132-pattern.py) | Not Competent | 2026-11-08 |
 | 516 | Longest Palindromic Subsequence | Medium | Dynamic Programming | [Solution](./dynamic_programming/longest-palindromic-subsequenc.py) | Competent | |
 | 518 | Coin Change II | Medium | Dynamic Programming | [Solution](./dynamic_programming/coin-change-ii.py) | Competent | |
 | 525 | Contiguous Array | Medium | Prefix Sum | [Solution](./prefix_sum/contiguous-array.py) | Competent | 2026-09-13 |
@@ -102,8 +108,10 @@ leetcode-python/
 | 543 | Diameter of Binary Tree | Easy | Trees | [Solution](./dynamic_programming/diameter-of-binary-tree.py) | Competent | |
 | 547 | Number of Provinces | Medium | Graphs, Union Find | [Solution](./graphs/number-of-provinces.py) | Competent | |
 | 560 | Subarray Sum Equals K | Medium | Prefix Sum | [Solution](./prefix_sum/subarray-sum-equals-k.py) | Competent | 2026-10-11 |
+| 581 | Shortest Unsorted Continuous Subarray | Medium | Sorting, Monotonic Stack | [Solution](./sorting/shortest-unsorted-continuous-subarray.py) | Not Competent | 2026-11-07 |
 | 646 | Maximum Length of Pair Chain | Medium | Sorting, Greedy | [Solution](./sorting/maximum-length-of-pair-chain.py) | Competent | |
 | 647 | Palindromic Substrings | Medium | Dynamic Programming | [Solution](./dynamic_programming/palindromic-substrings.py) | Needs Review | 2026-10-16 |
+| 668 | Kth Smallest Number in Multiplication Table | Hard | Binary Search | [Solution](./binary_search/kth-smallest-number-in-multiplication-table.py) | Not Competent | 2026-08-14 |
 | 673 | Number of Longest Increasing Subsequence | Medium | Sorting, DP | [Solution](./sorting/number-of-longest-increasing-subsequence.py) | Competent | |
 | 684 | Redundant Connection | Medium | Graphs, Union Find | [Solution](./graphs/redundant-connection.py) | Competent | |
 | 687 | Longest Univalue Path | Medium | Trees | [Solution](./dynamic_programming/longest-univalue-path.py) | Needs Review | 2026-09-14 |
@@ -124,9 +132,11 @@ leetcode-python/
 | 856 | Score of Parentheses | Medium | Stack | [Solution](./stack/score-of-parentheses.py) | Competent | 2026-10-03 |
 | 864 | Shortest Path to Get All Keys | Hard | Graphs, BFS | [Solution](./graphs/shortest-path-to-get-all-keys.py) | Needs Review | 2026-10-18 |
 | 875 | Koko Eating Bananas | Medium | Binary Search | [Solution](./binary_search/koko-eating-bananas.py) | Competent | 2026-10-03 |
+| 878 | Nth Magical Number | Hard | Binary Search, Math | [Solution](./binary_search/nth-magical-number.py) | Not Competent | 2026-08-14 |
 | 879 | Profitable Schemes | Hard | Dynamic Programming | [Solution](./dynamic_programming/profitable-schemes.py) | Needs Review | 2026-10-18 |
 | 881 | Boats to Save People | Medium | Two Pointer | [Solution](./two_pointer/boats-to-save-people.py) | Competent | 2026-10-25 |
 | 886 | Possible Bipartition | Medium | Graphs, DFS | [Solution](./graphs/possible-bipartition.py) | Needs Review | 2026-10-18 |
+| 904 | Fruit Into Baskets | Medium | Sliding Window | [Solution](./sliding_window/fruit-into-baskets.py) | Competent | 2026-11-07 |
 | 907 | Sum of Subarray Minimums | Medium | Monotonic Stack | [Solution](./monotonic_stack/sum-of-subarray-minimums.py) | Competent | 2026-11-07 |
 | 931 | Minimum Falling Path Sum | Medium | Dynamic Programming | [Solution](./dynamic_programming/minimum-falling-path-sum.py) | Competent | |
 | 934 | Shortest Bridge | Medium | Graphs, BFS, DFS | [Solution](./graphs/shortest-bridge.py) | Competent | |
@@ -136,16 +146,17 @@ leetcode-python/
 | 990 | Satisfiability of Equality Equations | Medium | Graphs, Union Find | [Solution](./graphs/satisfiability-of-equality-equations.py) | Needs Review | |
 | 994 | Rotting Oranges | Medium | Graphs, BFS | [Solution](./graphs/rotting-oranges.py) | Competent | 2026-10-25 |
 | 997 | Find the Town Judge | Easy | Graphs | [Solution](./graphs/find-the-town-judge.py) | Competent | 2026-08-15 |
-| 1024 | Video Stitching | Medium | Greedy | [Solution](./greedy/video-stitching.py) | Not Competent | 2026-09-19 |
 | 1011 | Capacity To Ship Packages Within D Days | Medium | Binary Search | [Solution](./binary_search/capacity-to-ship-packages-within-d-days.py) | Competent | 2026-10-03 |
 | 1020 | Number of Enclaves | Medium | Graphs, DFS | [Solution](./graphs/number-of-enclaves.py) | Competent | |
+| 1024 | Video Stitching | Medium | Greedy | [Solution](./greedy/video-stitching.py) | Not Competent | 2026-09-19 |
 | 1042 | Flower Planting With No Adjacent | Medium | Graphs | [Solution](./graphs/flower-planting-with-no-adjacent.py) | Not Competent | |
 | 1048 | Longest String Chain | Medium | Sorting, DP | [Solution](./sorting/longest-string-chain.py) | Competent | 2026-10-25 |
 | 1061 | Lexicographically Smallest Equivalent String | Medium | Graphs, Union Find | [Solution](./graphs/lexicographically-smallest-equivalent-string.py) | Needs Review | |
-| 1109 | Corporate Flight Bookings | Medium | Prefix Sum | [Solution](./prefix_sum/corporate-flight-bookings.py) | Not Competent | 2026-09-19 |
 | 1091 | Shortest Path in Binary Matrix | Medium | Graphs, BFS | [Solution](./graphs/shortest-path-in-binary-matrix.py) | Competent | 2026-08-15 |
+| 1109 | Corporate Flight Bookings | Medium | Prefix Sum | [Solution](./prefix_sum/corporate-flight-bookings.py) | Not Competent | 2026-09-19 |
 | 1143 | Longest Common Subsequence | Medium | Dynamic Programming | [Solution](./dynamic_programming/longest-common-subsequence.py) | Competent | |
 | 1235 | Maximum Profit in Job Scheduling | Hard | Dynamic Programming | [Solution](./dynamic_programming/maximum-profit-in-job-scheduling.py) | Not Competent | 2026-09-07 |
+| 1248 | Count Number of Nice Subarrays | Medium | Prefix Sum, Sliding Window | [Solution](./prefix_sum/count-number-of-nice-subarrays.py) | Needs Review | 2026-11-07 |
 | 1254 | Number of Closed Islands | Medium | Graphs, DFS | [Solution](./graphs/number-of-closed-islands.py) | Needs Review | 2026-10-18 |
 | 1288 | Remove Covered Intervals | Medium | Intervals | [Solution](./intervals/remove-covered-intervals.py) | Competent | 2026-11-01 |
 | 1292 | Maximum Side Length of a Square with Sum Less than or Equal to Threshold | Medium | Dynamic Programming | [Solution](./dynamic_programming/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold.py) | Not Competent | 2026-08-19 |
@@ -153,21 +164,26 @@ leetcode-python/
 | 1306 | Jump Game III | Medium | Graphs, DFS | [Solution](./graphs/jump-game-iii.py) | Not Competent | 2026-09-19 |
 | 1312 | Minimum Insertion Steps to Make a String Palindrome | Hard | Dynamic Programming | [Solution](./dynamic_programming/minimum-insertion-steps-to-make-a-string-palindrome.py) | Competent | |
 | 1326 | Minimum Number of Taps to Open to Water a Garden | Hard | Greedy | [Solution](./greedy/minimum-number-of-taps-to-open-to-water-a-garden.py) | Not Competent | 2026-10-25 |
+| 1368 | Minimum Cost to Make at Least One Valid Path in a Grid | Hard | Graphs, 0-1 BFS | [Solution](./graphs/minimum-cost-to-make-at-least-one-valid-path-in-a-grid.py) | Competent | 2026-07-27 |
 | 1372 | Longest ZigZag Path in a Binary Tree | Medium | Trees | [Solution](./dynamic_programming/longest-zigzag-path-in-a-binary-tree.py) | Needs Review | |
 | 1376 | Time Needed to Inform All Employees | Medium | Graphs, BFS | [Solution](./graphs/time-needed-to-inform-all-employees.py) | Competent | |
 | 1423 | Maximum Points You Can Obtain from Cards | Medium | Sliding Window | [Solution](./sliding_window/maximum-points-you-can-obtain-from-cards.py) | Competent | 2026-10-03 |
 | 1438 | Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit | Medium | Sliding Window | [Solution](./sliding_window/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit.py) | Not Competent | 2026-10-25 |
 | 1466 | Reorder Routes to Make All Paths Lead to the City Zero | Medium | Graphs, BFS | [Solution](./graphs/reorder-routes-to-make-all-paths-lead-to-the-city-zero.py) | Needs Review | |
 | 1482 | Minimum Number of Days to Make m Bouquets | Medium | Binary Search | [Solution](./binary_search/minimum-number-of-days-to-make-m-bouquets.py) | Competent | |
+| 1514 | Path with Maximum Probability | Medium | Graphs, Dijkstra | [Solution](./graphs/path-with-maximum-probability.py) | Competent | 2026-07-27 |
+| 1552 | Magnetic Force Between Two Balls | Medium | Binary Search | [Solution](./binary_search/magnetic-force-between-two-balls.py) | Not Competent | 2026-08-15 |
 | 1557 | Minimum Number of Vertices to Reach All Nodes | Medium | Graphs | [Solution](./graphs/minimum-number-of-vertices-to-reach-all-nodes.py) | Competent | |
 | 1575 | Count All Possible Routes | Medium | Dynamic Programming | [Solution](./dynamic_programming/count-all-possible-routes.py) | Competent | 2026-08-21 |
 | 1615 | Maximal Network Rank | Medium | Graphs | [Solution](./graphs/maximal-network-rank.py) | Competent | 2026-10-18 |
-| 1671 | Minimum Number of Removals to Make Mountain Array | Hard | Dynamic Programming | [Solution](./dynamic_programming/minimum-number-of-removals-to-make-mountain-array.py) | Not Competent | 2026-08-21 |
 | 1654 | Minimum Jumps to Reach Home | Medium | Graphs, BFS | [Solution](./graphs/minimum-jumps-to-reach-home.py) | Not Competent | 2026-09-19 |
 | 1665 | Minimum Initial Energy to Finish Tasks | Medium | Greedy | [Solution](./greedy/minimum-initial-energy-to-finish-tasks.py) | Competent | 2026-10-18 |
+| 1671 | Minimum Number of Removals to Make Mountain Array | Hard | Dynamic Programming | [Solution](./dynamic_programming/minimum-number-of-removals-to-make-mountain-array.py) | Not Competent | 2026-08-21 |
 | 1695 | Maximum Erasure Value | Medium | Sliding Window | [Solution](./sliding_window/maximum-erasure-value.py) | Competent | 2026-09-01 |
 | 1751 | Maximum Number of Events That Can Be Attended II | Hard | Dynamic Programming | [Solution](./dynamic_programming/maximum-number-of-events-that-can-be-attended-ii.py) | Not Competent | 2026-09-07 |
 | 1786 | Number of Restricted Paths From First to Last Node | Medium | Graphs, DP | [Solution](./graphs/number-of-restricted-paths-from-first-to-last-node.py) | Not Competent | |
+| 1856 | Maximum Subarray Min-Product | Hard | Monotonic Stack, Prefix Sum | [Solution](./monotonic_stack/maximum-subarray-min-product.py) | Not Competent | 2026-10-25 |
+| 1857 | Largest Color Value in a Directed Graph | Hard | Graphs, Topological Sort | [Solution](./graphs/largest-color-value-in-a-directed-graph.py) | Not Competent | 2026-08-11 |
 | 1871 | Jump Game VII | Medium | Greedy, BFS | [Solution](./greedy/jump-game-vii.py) | Not Competent | 2026-09-19 |
 | 1893 | Check if All the Integers in a Range Are Covered | Easy | Line Sweep | [Solution](./line_sweep/check-if-all-the-integers-in-a-range-are-covered.py) | Not Competent | 2026-08-21 |
 | 1926 | Nearest Exit From Entrance in Maze | Medium | Greedy, BFS | [Solution](./greedy/nearest-exit-from-entrance-in-maze.py) | Competent | |
@@ -184,16 +200,15 @@ leetcode-python/
 | 2602 | Minimum Operations to Make All Array Elements Equal | Medium | Prefix Sum, Binary Search | [Solution](./prefix_sum/minimum-operations-to-make-all-array-elements-equal.py) | Not Competent | |
 | 2799 | Count Complete Subarrays in an Array | Medium | Sliding Window | [Solution](./sliding_window/count-complete-subarrays-in-an-array.py) | Competent | 2026-09-01 |
 | 2875 | Minimum Size Subarray in Infinite Array | Medium | Sliding Window | [Solution](./sliding_window/minimum-size-subarray-in-infinite-array.py) | Not Competent | 2026-10-25 |
-| 2962 | Count Subarrays Where Max Element Appears at Least K Times | Medium | Sliding Window | [Solution](./sliding_window/count-subarrays-where-max-element-appears-at-least-k-times.py) | Competent | 2026-09-01 |
 | 2958 | Length of Longest Subarray With at Most K Frequency | Medium | Sliding Window | [Solution](./sliding_window/length-of-longest-subarray-with-at-most-k-frequency.py) | Competent | 2026-10-18 |
+| 2962 | Count Subarrays Where Max Element Appears at Least K Times | Medium | Sliding Window | [Solution](./sliding_window/count-subarrays-where-max-element-appears-at-least-k-times.py) | Competent | 2026-09-01 |
 | 3424 | Count Dominant Nodes in a Binary Tree | Medium | Trees | [Solution](./trees/count-dominant-nodes-in-a-binary-tree.py) | Competent | |
 | 3498 | Widest Possible Fence | Medium | Arrays | [Solution](./arrays/widest-possible-fence.py) | Not Competent | |
 | 3604 | Minimum Cost Path with Alternating Directions III | Hard | Graphs | [Solution](./graphs/minimum-cost-path-with-alternating-directions-iii.py) | Not Competent | |
-| 1856 | Maximum Subarray Min-Product | Hard | Monotonic Stack, Prefix Sum | [Solution](./monotonic_stack/maximum-subarray-min-product.py) | Not Competent | 2026-10-25 |
 | 4012 | Count of Unfinished Tasks After Each Shift | Medium | Prefix Sum, Binary Search | [Solution](./prefix_sum/count-of-unfinished-tasks-after-each-shift.py) | Not Competent | |
 | — | Maximum Area of Two Non-Overlapping Square Submatrices | Medium | Binary Search, DP | [Solution](./binary_search/maximum-area-of-two-non-overlapping-square-submatrices.py) | Not Competent | |
 
-**Stats**: 156 solved | 94 competent | 23 needs review | 39 not competent
+**Stats**: 171 solved | 99 competent | 25 needs review | 47 not competent
 
 ## Problem Solution Pattern
 
