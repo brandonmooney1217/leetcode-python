@@ -1,25 +1,26 @@
 class Solution:
-    def sumSubarrayMins(self, arr: List[int]) -> int:
+    def sumSubarrayMins(self, arr: list[int]) -> int:
         n = len(arr)
+        left = [1] * n
+        right = [1] * n
+        res = 0
+        MOD = 10**9 + 7
 
-        left = [0] * n
         stack = []
-
         for i in range(n):
-            while stack and arr[i] < arr[stack[-1]]:
-                stack.pop()
-            left[i] = i-stack[-1] if stack else i+1
-            stack.append(i)
-        right = [0] * n
-        stack = []
-        for i in range(n-1, -1, -1):
             while stack and arr[i] <= arr[stack[-1]]:
                 stack.pop()
-            right[i] = stack[-1] - i if stack else n-i
+            left[i] = i+1 if not stack else i - stack[-1]
             stack.append(i)
 
-        MOD = 10**9 + 7
-        res = 0
-        for l, r, n, in zip(left, right, arr):
-            res = (res + (l*r*n))%MOD
+        # reset stack
+        stack = []
+        for i in range(n-1, -1, -1):
+            while stack and arr[i] < arr[stack[-1]]:
+                stack.pop()
+            right[i] = n-i if not stack else stack[-1] - i
+            stack.append(i)
+
+        for n, l, r in zip(arr, left, right):
+            res = (res + (n*l*r)) %MOD
         return res
