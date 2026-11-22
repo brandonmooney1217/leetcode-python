@@ -137,7 +137,7 @@ leetcode-python/
 | 881 | Boats to Save People | Medium | Two Pointer | [Solution](./two_pointer/boats-to-save-people.py) | Competent | 2026-10-25 |
 | 886 | Possible Bipartition | Medium | Graphs, DFS | [Solution](./graphs/possible-bipartition.py) | Needs Review | 2026-10-18 |
 | 904 | Fruit Into Baskets | Medium | Sliding Window | [Solution](./sliding_window/fruit-into-baskets.py) | Competent | 2026-11-07 |
-| 907 | Sum of Subarray Minimums | Medium | Monotonic Stack | [Solution](./monotonic_stack/sum-of-subarray-minimums.py) | Competent | 2026-11-07 |
+| 907 | Sum of Subarray Minimums | Medium | Monotonic Stack | [Solution](./monotonic_stack/sum-of-subarray-minimums.py) | Competent | 2026-11-22 |
 | 931 | Minimum Falling Path Sum | Medium | Dynamic Programming | [Solution](./dynamic_programming/minimum-falling-path-sum.py) | Competent | |
 | 934 | Shortest Bridge | Medium | Graphs, BFS, DFS | [Solution](./graphs/shortest-bridge.py) | Competent | |
 | 973 | K Closest Points to Origin | Medium | Heap | [Solution](./heap/k-closest-points-to-origin.py) | Competent | 2026-10-05 |
