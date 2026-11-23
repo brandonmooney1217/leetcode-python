@@ -191,6 +191,7 @@ leetcode-python/
 | 2008 | Maximum Earnings From Taxi | Medium | Dynamic Programming | [Solution](./dynamic_programming/maximum-earnings-from-taxi.py) | Needs Review | 2026-09-07 |
 | 2024 | Maximize the Confusion of an Exam | Medium | Sliding Window | [Solution](./sliding_window/maximize-the-confusion-of-an-exam.py) | Competent | 2026-09-01 |
 | 2064 | Minimized Maximum of Products Distributed to Any Store | Medium | Binary Search | [Solution](./binary_search/minimized-maximum-of-products-distributed-to-any-store.py) | Competent | |
+| 2104 | Sum of Subarray Ranges | Medium | Monotonic Stack | [Solution](./monotonic_stack/sum-of-subarray-ranges.py) | Needs Review | 2026-11-22 |
 | 2251 | Number of Flowers in Full Bloom | Hard | Line Sweep | [Solution](./line_sweep/number-of-flowers-in-full-bloom.py) | Needs Review | |
 | 2300 | Successful Pairs of Spells and Potions | Medium | Binary Search | [Solution](./binary_search/successful-pairs-of-spells-and-potions.py) | Competent | 2026-08-19 |
 | 2365 | Task Scheduler II | Medium | Greedy | [Solution](./greedy/task-scheduler-ii.py) | Competent | 2026-10-31 |
@@ -208,7 +209,7 @@ leetcode-python/
 | 4012 | Count of Unfinished Tasks After Each Shift | Medium | Prefix Sum, Binary Search | [Solution](./prefix_sum/count-of-unfinished-tasks-after-each-shift.py) | Not Competent | |
 | — | Maximum Area of Two Non-Overlapping Square Submatrices | Medium | Binary Search, DP | [Solution](./binary_search/maximum-area-of-two-non-overlapping-square-submatrices.py) | Not Competent | |
 
-**Stats**: 171 solved | 100 competent | 24 needs review | 47 not competent
+**Stats**: 172 solved | 100 competent | 25 needs review | 47 not competent
 
 ## Problem Solution Pattern
 
