@@ -143,6 +143,7 @@ leetcode-python/
 | 973 | K Closest Points to Origin | Medium | Heap | [Solution](./heap/k-closest-points-to-origin.py) | Competent | 2026-10-05 |
 | 974 | Subarray Sums Divisible by K | Medium | Prefix Sum | [Solution](./prefix_sum/subarray-sums-divisible-by-k.py) | Competent | 2026-09-13 |
 | 979 | Distribute Coins in Binary Tree | Medium | Trees | [Solution](./dynamic_programming/distribute-coins-in-binary-tree.py) | Needs Review | |
+| 983 | Minimum Cost For Tickets | Medium | Dynamic Programming | [Solution](./dynamic_programming/minimum-cost-for-tickets.py) | Competent | 2026-11-22 |
 | 990 | Satisfiability of Equality Equations | Medium | Graphs, Union Find | [Solution](./graphs/satisfiability-of-equality-equations.py) | Needs Review | |
 | 994 | Rotting Oranges | Medium | Graphs, BFS | [Solution](./graphs/rotting-oranges.py) | Competent | 2026-10-25 |
 | 997 | Find the Town Judge | Easy | Graphs | [Solution](./graphs/find-the-town-judge.py) | Competent | 2026-08-15 |
@@ -209,7 +210,7 @@ leetcode-python/
 | 4012 | Count of Unfinished Tasks After Each Shift | Medium | Prefix Sum, Binary Search | [Solution](./prefix_sum/count-of-unfinished-tasks-after-each-shift.py) | Not Competent | |
 | — | Maximum Area of Two Non-Overlapping Square Submatrices | Medium | Binary Search, DP | [Solution](./binary_search/maximum-area-of-two-non-overlapping-square-submatrices.py) | Not Competent | |
 
-**Stats**: 172 solved | 100 competent | 25 needs review | 47 not competent
+**Stats**: 173 solved | 101 competent | 25 needs review | 47 not competent
 
 ## Problem Solution Pattern
 
