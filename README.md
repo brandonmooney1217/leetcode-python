@@ -84,6 +84,7 @@ leetcode-python/
 | 283 | Move Zeroes | Easy | Two Pointer | [Solution](./two_pointer/move-zeroes.py) | Not Competent | 2026-10-03 |
 | 295 | Find Median from Data Stream | Hard | Design, Heap | [Solution](./design/find-median-from-data-stream.py) | Not Competent | 2026-10-05 |
 | 300 | Longest Increasing Subsequence | Medium | Dynamic Programming | [Solution](./dynamic_programming/longest-increasing-subsequence.py) | Competent | 2026-10-31 |
+| 304 | Range Sum Query 2D - Immutable | Medium | Prefix Sum, Design | [Solution](./prefix_sum/range-sum-query-2d-immutable.py) | Needs Review | 2026-11-23 |
 | 309 | Best Time to Buy and Sell Stock with Cooldown | Medium | Dynamic Programming | [Solution](./dynamic_programming/best-time-to-buy-and-sell-stock-with-cooldown.py) | Competent | |
 | 322 | Coin Change | Medium | Dynamic Programming | [Solution](./dynamic_programming/coin-change.py) | Needs Review | 2026-10-12 |
 | 337 | House Robber III | Medium | Dynamic Programming, Trees | [Solution](./dynamic_programming/house-robber-iii.py) | Not Competent | 2026-10-03 |
@@ -211,7 +212,7 @@ leetcode-python/
 | 4012 | Count of Unfinished Tasks After Each Shift | Medium | Prefix Sum, Binary Search | [Solution](./prefix_sum/count-of-unfinished-tasks-after-each-shift.py) | Not Competent | |
 | — | Maximum Area of Two Non-Overlapping Square Submatrices | Medium | Binary Search, DP | [Solution](./binary_search/maximum-area-of-two-non-overlapping-square-submatrices.py) | Not Competent | |
 
-**Stats**: 174 solved | 101 competent | 25 needs review | 48 not competent
+**Stats**: 175 solved | 101 competent | 26 needs review | 48 not competent
 
 ## Problem Solution Pattern
 
