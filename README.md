@@ -164,6 +164,7 @@ leetcode-python/
 | 1293 | Shortest Path in a Grid with Obstacles Elimination | Hard | BFS, Graphs | [Solution](./dynamic_programming/shortest-path-in-a-grid-with-obstacles-elimination.py) | Not Competent | |
 | 1306 | Jump Game III | Medium | Graphs, DFS | [Solution](./graphs/jump-game-iii.py) | Not Competent | 2026-09-19 |
 | 1312 | Minimum Insertion Steps to Make a String Palindrome | Hard | Dynamic Programming | [Solution](./dynamic_programming/minimum-insertion-steps-to-make-a-string-palindrome.py) | Competent | |
+| 1314 | Matrix Block Sum | Medium | Prefix Sum | [Solution](./prefix_sum/matrix-block-sum.py) | Not Competent | 2026-11-23 |
 | 1326 | Minimum Number of Taps to Open to Water a Garden | Hard | Greedy | [Solution](./greedy/minimum-number-of-taps-to-open-to-water-a-garden.py) | Not Competent | 2026-10-25 |
 | 1368 | Minimum Cost to Make at Least One Valid Path in a Grid | Hard | Graphs, 0-1 BFS | [Solution](./graphs/minimum-cost-to-make-at-least-one-valid-path-in-a-grid.py) | Competent | 2026-07-27 |
 | 1372 | Longest ZigZag Path in a Binary Tree | Medium | Trees | [Solution](./dynamic_programming/longest-zigzag-path-in-a-binary-tree.py) | Needs Review | |
@@ -210,7 +211,7 @@ leetcode-python/
 | 4012 | Count of Unfinished Tasks After Each Shift | Medium | Prefix Sum, Binary Search | [Solution](./prefix_sum/count-of-unfinished-tasks-after-each-shift.py) | Not Competent | |
 | — | Maximum Area of Two Non-Overlapping Square Submatrices | Medium | Binary Search, DP | [Solution](./binary_search/maximum-area-of-two-non-overlapping-square-submatrices.py) | Not Competent | |
 
-**Stats**: 173 solved | 101 competent | 25 needs review | 47 not competent
+**Stats**: 174 solved | 101 competent | 25 needs review | 48 not competent
 
 ## Problem Solution Pattern
 
